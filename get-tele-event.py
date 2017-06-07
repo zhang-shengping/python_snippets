@@ -9,7 +9,7 @@ EVENTS = ['.*\.end$']
 URL = 'http://10.0.192.18:35357/v3'
 USER = 'shengping'
 PROJECT = 'shengping-project'
-PASSWORD = 'Passw0rd'
+PASSWORD = 'XXXXXX'
 USER_DOMAIN = 'default'
 PROJECT_DOMAIN = 'default'
 
@@ -23,7 +23,7 @@ class Event(object):
         self.event_type = event_type
         self.generated = generated
         self.traits = traits
-    
+
     # remove the key word if output excel
     def __str__(self):
         desc = 'event_type: {}; project_id: {}; user_id: {}; ' \
@@ -49,8 +49,8 @@ def get_events():
 def event_filter(elist):
     def wrapper(func):
         def _inner(es):
-            _es = (e for e in es if 
-                   [p for p in elist if 
+            _es = (e for e in es if
+                   [p for p in elist if
                     re.search(p, e.event_type)])
             return func(_es)
         return _inner
@@ -93,7 +93,7 @@ def aggregate(events):
     #    print _e.event_type
     #    if _e.event_type == "compute.instance.create.start":
     #       test.append(_e)
-    #       print 
+    #       print
     #print len(test)
         eid = _e.resource_id
         if eid:
