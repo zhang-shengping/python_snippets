@@ -1,12 +1,14 @@
 #!/usr/bin/env python
 # encoding: utf-8
 
-import futurist
+# import futurist
 from futurist import periodics
 import time
 
 started_at = time.time()
-@periodics.periodic(1)
+
+# add cache time to change started_at
+@periodics.periodic(2592000)
 def every_one(started_at):
     print("1: %s" % (time.time() - started_at))
 
