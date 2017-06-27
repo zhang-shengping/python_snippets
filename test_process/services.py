@@ -12,9 +12,11 @@ class MyService(Service):
         self.id = worker_id
 
     def run(self):
-        while self.running:
-            print "in {} process".format(self.id)
-            sleep(5)
+        # while self.running:
+            # print "in {} process".format(self.id)
+            # sleep(5)
+        print "in {} process".format(self.id)
+        sleep(2)
 
     def terminate(self):
         self.running = False
