@@ -1,0 +1,15 @@
+language: python
+
+python:
+    - 2.7
+    - 3.5
+
+services:
+    - docker
+
+install:
+    - pip install tox
+    - pip install -r requirements.style.txt
+
+script:
+    - pep257 ./test_keystone/
