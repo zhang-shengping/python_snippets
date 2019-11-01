@@ -1,0 +1,7066 @@
+Abandoned --- 已放弃
+About --- 关于
+Accept --- 接受
+Account Status --- 帐户状态
+Action --- 操作
+Event Type --- 事件类型
+Actions --- 操作
+ACTIVE --- 活跃
+Active --- 活跃
+Active CPUs --- 活跃 CPU
+Add --- 添加
+Add ... --- 添加...
+Address --- 地址
+Addresses --- 地址
+Address: --- 地址：
+Advance --- 高级
+Advanced --- 高级
+AES --- AES
+After --- 之后
+Alias --- 别名
+Aliases --- 别名
+* All --- * 全部
+All --- 全部
+Allow --- 允许
+All Partitions --- 全部分区
+All Ports --- 全部端口
+All Addresses --- 全部地址
+* All Addresses --- * 全部地址
+* All Ports --- * 全部端口
+All Traffic --- 全部流量
+Both --- 二者皆有
+Classifiation Policy --- 分类策略
+Captured Transactions --- 捕获的交易
+and --- 和
+Any --- 任意
+any --- 任意
+Anything --- 任意内容
+Access Policy --- 访问策略
+Application Host --- 应用主机
+Application Instance --- 应用实例
+Application Service --- 应用服务
+Application Security --- 应用安全
+Data Protection --- 数据保护
+Event Details --- 事件详细信息
+Application Security Firewall --- 应用安全防火墙
+Apply --- 应用
+Apply Access Policy --- 应用访问策略
+Commited --- 已确定
+Modified --- 已修改
+Apply changes and refresh --- 应用更改并刷新
+Assigned --- 已指派
+At Least... --- 至少...
+At Least --- 至少
+Require --- 需要
+Attempts --- 尝试
+Authorization --- 授权
+Authorization Profile --- 授权概要文件
+\n\nPlease change the ConfigSync user to a local-only user such as admin. --- \n\n请将 ConfigSync 用户更改为仅限本地的用户，例如 admin。
+Assigned Link --- 已指派的链接
+auto --- 自动
+(auto) --- （自动）
+Auto --- 自动
+Auto Last Hop --- 自动记住上一跳跃
+CMP Hash --- CMP 散列
+Auto Map --- 自动映射
+Auto Refresh --- 自动刷新
+Automatic --- 自动
+Manual --- 手动
+Match --- 匹配
+No Match --- 不匹配
+Matching --- 匹配
+Messages --- 消息
+Miscellaneous --- 其他
+Modules --- 模块
+Module --- 模块
+Monitoring --- 监测
+Multicast --- 多播
+(Unassigned) --- （未指派）
+Unicast --- 单播
+Replicator --- 重复符
+Source Address --- 源地址
+Destination Address --- 目标地址
+Destination Address/Mask --- 目标地址/掩码
+Not Assigned --- 未指派
+Available --- 可用
+Availability --- 可用性
+Available Disk Space --- 可用磁盘空间
+Available (Click to sort) --- 可用（单击以排序）
+Basic --- 基本
+Bidirectional --- 双向
+Bits --- 位数
+Bits, Packets, Connections --- 位数、数据包数、连接数
+Bits, Packets, Conn. --- 位数、数据包数、连接数
+/ sec --- /秒
+Bytes --- 字节数
+Bytes / Connections --- 字节数/连接数
+Bytes Dropped --- 已丢弃的字节数
+Bytes In --- 接收字节数
+Bytes Out --- 发出字节数
+Bytes, Packets, Connections --- 字节数、数据包数、连接数
+Bytes, Packets, Conn. --- 字节数、数据包数、连接数
+/ sec --- /秒
+Before --- 之前
+BigDB --- BigDB
+Black --- 黑
+Boot Partition --- 启动分区
+Build --- 构建
+Cancel --- 取消
+Certificate --- 证书
+Comment --- 注释
+Contact --- 联系
+Continent --- 洲
+Country --- 国家/地区
+City --- 城市
+Change --- 更改
+Changeset --- 更改集
+Changesets --- 更改集
+Change... --- 更改...
+Change sort order --- 更改排列顺序
+Chassis Serial Number --- 机箱序列号
+Check All --- 全部选中
+Choose... --- 选择...
+Current Location --- 当前位置
+Concurrency Limit --- 并发限制
+Cluster --- 集群
+Cluster Members --- 集群成员
+Clusters --- 集群
+Components --- 组件
+Custom: --- 自定义：
+Established --- 已建立
+Fast --- 快速
+Field --- 字段
+FQDN --- FQDN
+FTP --- FTP
+TFTP --- TFTP
+ISAKMP --- ISAKMP
+Cache --- 缓存
+Software Update --- 软件更新
+Installed Images --- 已安装图像
+Available Images --- 可用图像
+ftp --- ftp
+tftp --- tftp
+ssh --- ssh
+telnet --- telnet
+Telnet --- Telnet
+Netflow --- 网络流
+mqtt --- mqtt
+mqtt-tls --- mqtt-tls
+SSH --- SSH
+SSH Channel Action --- SSH 渠道操作
+Non-SSH Traffic --- 非 SSH 流量
+SSH Timeout Events --- SSH 超时事件
+GUI --- GUI
+TELNET --- TELNET
+canceled --- 已取消
+Canceled --- 已取消
+Canceling --- 正在取消
+Carrier Grade NAT --- 运营商级 NAT
+Checking --- 正在检查
+Checksum --- 检查和
+Circle --- 周期
+Classes --- 类
+Click to sort --- 单击以排序
+Click here to return to the Start Screen --- 单击此处返回至开始屏幕
+Clock Skew --- 时钟偏差
+Certificate Authority --- 证书授权中心
+Certificate Authority Profile --- 证书授权中心概要文件
+Clear --- 清除
+Clone --- 复制
+Close --- 关闭
+Collapse --- 折叠
+Color --- 颜色
+Comments --- 注释
+Comments: --- 注释：
+Compatibility Level --- 兼容性级别
+Solutions for an application world --- 应用世界的解决方案
+Complete --- 完成
+Connection Limit --- 连接限制
+Connection Rate Limit --- 连接速率限制
+Connection Rate Limit Mode --- 连接速率限制模式
+Connection Rate Limit Destination Mask --- 连接速率限制目标掩码
+Connection Rate Limit Source Mask --- 连接速率限制源掩码
+Connection Pooling --- 连接池
+Connection Mirroring --- 连接镜像
+Confirm --- 确认
+Confirm Delete? --- 是否确认删除？
+Please review your selections and confirm this action. --- 请查看您的选项并确认此操作。
+Connect --- 连接
+Connection --- 连接
+Connection Pool Profile --- 连接池概要文件
+Connections --- 连接
+connections --- 连接
+Connection Test --- 连接测试
+Context --- 上下文
+Continue --- 继续
+Continue... --- 继续...
+Controller --- 控制器
+Count --- 计数
+CPU Count --- CPU 计数
+CPU Mode --- CPU 模式
+created --- 已创建
+Created --- 已创建
+Average --- 平均
+Click here for product and copyright information. --- 单击此处获取产品和版权信息。
+All rights reserved. --- 保留所有权利。
+All rights reserved. --- 保留所有权利。
+F5 trademarks may not be used in connection with any product or service except as permitted in writing by F5. --- 未经 F5 书面许可，F5 商标不得用于任何产品或服务。
+Create --- 创建
+Created by --- 创建人
+Created on --- 创建时间
+Critical --- 关键
+Current --- 当前
+Current Sessions --- 当前会话
+All Sessions --- 全部会话
+Custom --- 自定义
+Customization --- 自定义
+Custom... --- 自定义...
+Daemon --- 守护程序
+Daemons --- 守护程序
+DAG Round Robin --- DAG 循环
+DAG Tunnel --- DAG 通道
+Data Center --- 数据中心
+Data Centers --- 数据中心
+Data Format --- 数据格式
+Datagrams --- 数据报
+Data Groups --- 数据群组
+Data Group --- 数据群组
+Database --- 数据库
+Databases --- 数据库
+Data Type --- 数据类型
+Date --- 日期
+Decode --- 解码
+Default --- 默认
+Customization Settings for English --- 英语自定义设置
+Default Settings --- 默认设置
+Definition --- 定义
+Delay State --- 延迟状态
+Delete --- 删除
+Delete Confirm --- 删除确认
+deleted --- 已删除
+Delete selected records? --- 是否删除所选记录？
+Deny --- 拒绝
+DES --- DES
+Destination --- 目标
+Destination Port --- 目标端口
+Details --- 详细信息
+Details... --- 详细信息...
+Refuse --- 拒绝
+Diamond --- 菱形
+Direction --- 方向
+Directory --- 目录
+Disable --- 禁用
+Disabled --- 已禁用
+disabled --- 已禁用
+Auto Delete --- 自动删除
+Disabled... --- 已禁用...
+Disabled (Duration) --- 已禁用（持续时间）
+Disable the checked object(s) --- 禁用所选对象
+Disabled Parent --- 已禁用父对象
+Discard --- 放弃
+Discard Changes? --- 是否放弃更改？
+Display --- 显示
+Domain --- 域
+DoS Mode --- DoS 模式
+DoS Source --- DoS 源
+Threshold Type --- 阈值类型
+Attack Type --- 攻击类型
+Old Value --- 旧值
+New Value --- 新值
+Event --- 事件
+Signature Name --- 签名名称
+Family --- 系列
+Protected Object --- 受保护对象
+Detection Threshold EPS --- 检测阈值 EPS
+Mitigation Threshold EPS --- 缓解阈值 EPS
+Predicates String --- 预测字符串
+State --- 状态
+Dynamic Signatures --- 动态签名
+Down --- 向下
+Download --- 下载
+Download: --- 下载：
+Download URL --- 下载 URL
+Drive --- 驱动
+Drop --- 放置
+Drops --- 放置
+Duplicate --- 重复
+Edit --- 编辑
+Enable --- 启用
+Enabled --- 已启用
+enabled --- 已启用
+Enabled (No Delete) --- 已启用（不删除）
+Enabled... --- 已启用...
+Enabled / Disabled Setting --- 已启用/已禁用设置
+Enable the checked object(s) --- 启用所选对象
+Force the checked object(s) offline. --- 强制所选对象脱机。
+End --- 结束
+End Time --- 结束时间
+entries --- 条目数
+Error --- 错误
+Errors --- 错误
+Error Details --- 错误详细信息
+Event --- 事件
+Exclude --- 排除
+Excluded --- 已排除
+executed --- 已执行
+Exit Wizard --- 退出向导
+Exit current section --- 退出当前部分
+Expiration --- 过期
+Expired 1 day ago --- 已于 1 日前过期
+Expired %d days ago --- 已于 %d 日前过期
+Expired 1 hour ago --- 已于 1 小时前过期
+Expired %d hours ago --- 已于 %d 小时前过期
+Expired 1 minute ago --- 已于 1 分钟前过期
+Expired %d minutes ago --- 已于 %d 分钟前过期
+Expires in 1 day --- 将于 1 日内过期
+Expires in %d days --- 将于 %d 日内过期
+Expires in 1 hour --- 将于 1 小时内过期
+Expires in %d hours --- 将于 %d 小时内过期
+Expires in 1 minute --- 将于 1 分钟内过期
+Expires in %d minutes --- 将于 %d 分钟内过期
+Export --- 导出
+Expand --- 展开
+External --- 外部
+external --- 外部
+Failed --- 失败
+Failure --- 失败
+Failures --- 失败
+File --- 文件
+File: --- 文件：
+File Name --- 文件名
+Filter --- 筛选器
+Filters --- 筛选器
+finished --- 已完成
+Finished --- 已完成
+Finish --- 完成
+Finish Time --- 完成时间
+Firewall Rule Group --- 防火墙规则组
+Firewall Rule Group Rule --- 防火墙规则组规则
+Folder --- 文件夹
+Full Name --- 完整名称
+Full --- 完整
+Geolocation --- 地理位置
+Globals --- 全局
+Global Setup --- 全局设置
+Good --- 好
+Goodput --- 实际吞吐量
+Global Traffic --- 全局流量
+Global Traffic Manager --- 全局流量管理器
+Gray --- 灰色
+Group --- 群组
+Grouped... --- 已分组...
+Groups --- 群组
+Group Name --- 群组名
+Group Type --- 群组类型
+ConfigSync --- ConfigSync
+ConfigSync Status --- ConfigSync 状态
+false --- false
+FTP Profile --- FTP 概要文件
+TFTP Profile --- TFTP 概要文件
+HA --- HA
+Halted --- 已停止
+Are you sure you want to do this? --- 确定要执行此操作？
+Help --- 帮助
+Hint --- 提示
+History --- 历史记录
+Host --- 主机
+Hostname --- 主机名
+Hostname: --- 主机名：
+Host Name --- 主机名
+HSL Pool --- HSL 池
+iControl Version --- iControl 版本
+ID --- ID
+iFiles --- iFiles
+iFile --- iFile
+IGMP --- IGMP
+Ignore --- 忽略
+Import --- 导入
+Copy --- 复制
+Important Note: --- 重要提示：
+In --- 于
+In Sync --- 正在同步
+Inbound --- 入站
+Inactive --- 失效
+Include --- 包含
+Included --- 已包含
+Inherit --- 继承
+Inner --- 内部
+In Progress... --- 正在进行...
+Insert --- 插入
+Integer --- 整数
+Instances --- 实例
+internal --- 内部
+Internal --- 内部
+Intro Text --- 介绍文本
+is --- 是
+is not --- 不是
+Virtual Wire --- 虚拟线缆
+LACP --- LACP
+Language Settings --- 语言设置
+LAN --- LAN
+Last Error --- 上一错误
+Launch --- 启动
+Layer 4 --- 第 4 层
+Layer 7 --- 第 7 层
+Lease Pool --- 租赁池
+Length --- 长度
+Licensing --- 许可
+Revoke... --- 撤销...
+Link Controller --- 链路控制器
+Link To Peer --- 链路到对等机
+Link Traffic --- 链路流量
+Load --- 加载
+Load... --- 加载...
+Loading... --- 正在加载...
+Load Balancing --- 负载均衡
+Load Balancing : %s --- 负载均衡：%s
+Load Balancing Method --- 负载均衡方法
+Load Balancing Mode --- 负载均衡模式
+Location --- 位置
+Please wait while the page data is collected. --- 正在收集页面数据，请稍候。
+Log --- 日志
+Log Level --- 日志级别
+Logon --- 登录
+Log out --- 注销
+Long --- 长
+LX Plugins --- LX 插件
+LX Workspaces --- LX 工作空间
+Main --- 主菜单栏
+Maintenance --- 维护
+Mask --- 掩码
+Mask: --- 掩码：
+Max --- 最大
+Maximum --- 最大
+Max Load Average --- 最大平均负载
+MD5 --- MD5
+MD5 Checksum --- MD5 检查和
+Member --- 成员
+Member Address --- 成员地址
+Members --- 成员
+%s --- %s
+Group Members --- 群组成员
+Message --- 消息
+Method --- 方法
+Metrics --- 指标
+MCP --- MCP
+Minimum --- 最小
+Min --- 最小
+Mode --- 模式
+modified --- 已修改
+Module Allocation --- 模块分配
+Monitor --- 监测器
+Monitor Instance --- 监测器实例
+Monitor Instances --- 监测器实例
+Monitor Instances: --- 监测器实例：
+Monitor Rule --- 监测器规则
+Monitor Rule Instance --- 监测器规则实例
+Profile Instances: --- 概要文件实例：
+MTU --- MTU
+Name --- 名称
+Name: --- 名称：
+NAT64 --- NAT64
+Are you sure you want to do this? --- 确定要执行此操作？
+Netflow Profile --- 网络流概要文件
+Netmask --- 网络掩码
+New Address --- 新建地址
+New Pool... --- 新建池...
+Never --- 从不
+Next --- 下一步
+Next==> --- 下一步==>
+Nickname --- 昵称
+Not Configured --- 未配置
+Notes --- 注释
+<==Back --- <==返回
+No --- 不
+No Action --- 无操作
+No Data --- 无数据
+No Error --- 无错误
+None --- 无
+Normal --- 正常
+Not Available --- 不可用
+Null --- Null
+New --- 新建
+New... --- 新建...
+New: --- 新建：
+Node Name --- 节点名称
+(none) --- （无）
+OAuth --- OAuth
+OAuth Bearer --- OAuth 持有者
+Object --- 对象
+Objects Name Generation --- 对象名称生成
+OCSP --- OCSP
+Old --- 旧
+Old: --- 旧：
+Objects --- 对象
+Occupies --- 占有
+octets --- 八位组
+of --- 之
+off --- 关闭
+Offline --- 脱机
+Offline: --- 脱机：
+Offline (Click to sort) --- 脱机（单击以排序）
+OK --- 确认
+on --- 于
+Open --- 打开
+Operations --- 操作
+Operation Status --- 操作状态
+Optimization --- 优化
+Optional --- 可选
+(Optional) --- （可选）
+optional --- 可选
+Order --- 顺序
+Out --- 退出
+Outer --- 外部
+Outbound --- 出站
+Packets --- 数据包
+packets --- 数据包
+Packet Velocity® ASIC --- Packet Velocity® ASIC
+Packet Velocity® Accelerated --- Packet Velocity® 已加速
+Page --- 页面
+Partition --- 分区
+Partition / Path --- 分区/路径
+Partner Address --- 合作伙伴地址
+Passive --- 被动
+Pass Through --- 通过
+Password --- 密码
+Pending --- 待办
+Publish --- 发布
+Publisher Name --- 发布程序名称
+Publisher Type --- 发布程序类型
+Mimic --- 模拟
+%.0f%% --- %.0f%%
+Transparent --- 透明
+Transport Config --- 传输配置
+Persistent --- 持久
+Per-Session Policy --- 按会话策略
+Per-Request Policy Name --- 按请求策略名称
+Per-Request Policy --- 按请求策略
+Policy --- 策略
+Policy: --- 策略：
+Security Policy --- 安全策略
+Pool --- 池
+Pool/Member --- 池/成员
+Pool Name --- 池名称
+Pool Members --- 池成员
+Pool Member --- 池成员
+Port --- 端口
+Port Translation --- 端口转换
+Port Misuse --- 端口滥用
+Previous --- 上一页
+Primary --- 主要
+Primary Slot --- 主插槽
+Primary Server --- 主服务器
+Priority --- 优先级
+Priority Group --- 优先级组
+Privacy --- 隐私
+Private --- 专用
+Private Key --- 专用密钥
+Private Keys --- 专用密钥
+(Primary) --- （主要）
+Probes --- 探测器
+Successful Probe(s) From --- 成功探测器来源
+Product --- 产品
+Policy Status --- 策略状态
+Server Properties --- 服务器属性
+Slot No. --- 插槽编号
+Number of Slots --- 插槽数量
+Privilege Level --- 特权级别
+Product Build --- 产品构建
+Product Version --- 产品版本
+Profile --- 概要文件
+Profile Name --- 概要文件名称
+Profile: --- 概要文件：
+Progress --- 进度
+Property --- 属性
+Properties --- 属性
+Properties File --- 属性文件
+%s --- %s
+Proxies --- 代理
+Proxy Type --- 代理类型
+(Private) --- （专用）
+(Public) --- （公共）
+Purge --- 清除
+PVA --- PVA
+Quiet Boot --- 安静启动
+QoS --- QoS
+Range --- 范围
+Rate Class --- 速率等级
+Rate Classes --- 速率等级
+Ratio --- 比例
+Realm --- 领域
+Realms --- 领域
+Reason --- 原因
+Record --- 记录
+Restart --- 重启
+Restart All --- 全部重启
+Reboot --- 重新启动
+Reboot Chassis --- 重新启动机箱
+Reboot Blade --- 重新启动叶片
+Reboot Guest Chassis --- 重新启动客体机箱
+Reboot Guest Blade --- 重新启动客体叶片
+Received --- 已接收
+Reconfigure --- 重新配置
+Reconnects --- 重新连接
+Records --- 记录
+Redirecting... --- 正在重定向...
+References --- 参考
+Refresh --- 刷新
+Refresh: --- 刷新：
+Reject --- 拒绝
+Rejected --- 已拒绝
+Reload --- 重新加载
+Remote --- 远程
+Remote Access --- 远程访问
+Remove --- 移除
+Repeat --- 重复
+Replace --- 替换
+Report --- 报告
+Reports --- 报告
+Reporting --- 正在报告
+Requests --- 请求
+Responses --- 响应
+Reselect --- 重新选择
+Reset --- 重置
+Reset Defaults --- 重置默认值
+Reset to original values --- 重置为原始值
+Resource --- 资源
+Resource Type --- 资源类型
+Resources --- 资源
+Frames --- 框架
+Resource Management --- 资源管理
+Response Time --- 响应时间
+Restore All Defaults --- 还原所有默认值
+Restore Defaults --- 还原默认值
+Restore --- 还原
+Result --- 结果
+Results --- 结果
+Retries --- 重试
+Heartbeat --- 检测信号
+Maximum Retries --- 最多重试次数
+Retry Time --- 重试时间
+Risk --- 风险
+Route --- 路由
+Rule Properties --- 规则属性
+Run --- 运行
+Running --- 正在运行
+Running for --- 运行对象
+Sample Rate --- 采样率
+Sampling Rate --- 采样率
+Scheduled --- 已计划
+Screen Refresh --- 屏幕刷新
+Security --- 安全
+(Secondary) --- （次要）
+Seconds --- 秒
+Section Details --- 部分详细信息
+Secondary --- 次要
+Secure --- 安全
+Secure Access --- 安全访问
+Secure Access Setup --- 安全访问设置
+Select... --- 选择...
+Selected --- 已选
+Select All --- 全选
+Select Port... --- 选择端口...
+(Self) --- （自身）
+Send --- 发送
+Sent --- 已发送
+Serial Number --- 序列号
+Server --- 服务器
+Servers --- 服务器
+Server Address --- 服务器地址
+Server Name --- 服务器名称
+Service --- 服务
+Service Port --- 服务端口
+Session --- 会话
+Flow --- 流程
+Service Policy --- 服务策略
+Session Summary --- 会话摘要
+Session Start Time --- 会话开始时间
+Remote Host --- 远程主机
+Session Finish Time --- 会话结束时间
+Session Status --- 会话状态
+Session Variables --- 会话变量
+Session ID --- 会话 ID
+Sessions --- 会话
+Session Ticket --- 会话票证
+Settings --- 设置
+Setup --- 设置
+Setup Utility --- 设置实用程序
+SHA --- SHA
+Short --- 短
+Show All --- 显示全部
+Show Print Margin --- 显示打印边距
+Signed --- 已签署
+Size --- 大小
+Slot --- 插槽
+&nbsp;&gt;&gt;&nbsp; --- &nbsp;&gt;&gt;&nbsp;
+&nbsp;&lt;&lt;&nbsp; --- &nbsp;&lt;&lt;&nbsp;
+Software Version --- 软件版本
+Source --- 源
+Source Port --- 源端口
+Specify... --- 指定...
+SSH Proxy Profile --- SSH 代理概要文件
+Flows --- 流程
+Spanning --- 跨越
+Specific Transactions --- 特定事务
+Square --- 方形
+OID: --- OID：
+SCIM --- SCIM
+SSO --- SSO
+STANDBY --- 备用
+Standby --- 备用
+Start --- 启动
+Start... --- 启动...
+started --- 已启动
+Started --- 已启动
+Start Time --- 启动时间
+Stop Time --- 停止时间
+State --- 状态
+Transactional --- 事务性
+Statistic Details --- 统计信息明细
+Status --- 状态
+Pool Status --- 池状态
+Status Code --- 状态码
+Sticky --- 易贴
+Stop --- 停止
+Stopped --- 已停止
+Stopped for --- 停止对象
+String --- 字符串
+Subjects --- 主题
+Succeeded --- 已成功
+Success --- 成功
+Successful --- 成功
+Subnet --- 子网
+Subnet value --- 子网值
+Summary --- 摘要
+Switch --- 切换
+Switch Boot Properties --- 切换启动属性
+Synchronization --- 同步
+Hardware SYN Cookie --- 硬件 SYN Cookie
+Syncache Threshold --- Syncache 阈值
+SYN Flood Rate Limit --- SYN 泛洪速率限制
+Syslog --- 系统日志
+Please log in via the command line to troubleshoot. --- 请通过命令行登录，进行故障诊断。
+MCPD may not be running. --- MCPD 可能未在运行。
+Tag --- 标记
+Tag Mode --- 标记模式
+Tag Mode: --- 标记模式：
+Congestion Control --- 拥塞控制
+Connection Setup --- 连接设置
+Data Transfer --- 数据传输
+Loss Detection and Recovery --- 丢失检测和恢复
+Security And Quality of Service --- 服务安全和质量
+Timer Management --- 计时器管理
+Push --- 推送
+Pull --- 拉取
+Template... --- 模板...
+Template --- 模板
+terminated --- 已终止
+Terminated --- 已终止
+Test --- 测试
+Test Failed --- 测试失败
+Click the "Test" button below to test connection. --- 单击下方的“测试”按钮以测试连接。
+Test Succeeded --- 测试成功
+Text --- 文本
+Text... --- 文本...
+Text Contains --- 文本包含
+Throughput --- 吞吐量
+Threshold --- 阈值
+through --- 通过
+thru --- 通过
+Time --- 时间
+Time Delta (sec) --- 时间间隔（秒）
+Title --- 标题
+Timed Out --- 已超时
+Timeout --- 超时
+Timestamp --- 时间戳
+Time Zone --- 时区
+Total --- 总计
+Total Changesets --- 变更集总数
+Total Disk Space --- 磁盘空间总量
+Total Time --- 时间总计
+Total Traffic --- 总流量
+Traffic --- 流量
+HA Capacity --- HA 容量
+Traffic Condition --- 流量条件
+HA Load Factor --- HA 负载因素
+Traffic Management OS --- 流量管理操作系统
+Traffic Priorities --- 流量优先级
+Traffic Selector --- 流量选择器
+Traffic Control and Enforcement --- 流量控制和实施
+Policy Enforcement Profile --- 策略执行概要文件
+Transaction --- 事务
+Transactions --- 事务
+Translation --- 转换
+Translation Port --- 转换端口
+Translation: --- 转换：
+Translation Port: --- 转换端口：
+Translation Address --- 转换地址
+Translations --- 转换
+Translation Service Port --- 转换服务端口
+Triangle --- 三角形
+true --- true
+Truncate --- 截断
+Trunk --- 中继
+TurboFlex --- TurboFlex
+Type --- 类型
+Type: --- 类型：
+Code: --- 代码：
+Unavailable --- 不可用
+Unavailable (Click to sort) --- 不可用（单击以排序）
+Unbuffered --- 无缓冲
+Unchanged --- 未更改
+Unit --- 单位
+Unknown --- 未知
+Unknown/Not Watched --- 未知/未观察
+Unknown (Click to sort) --- 未知（单击以排序）
+Unlock --- 解锁
+Unlimited --- 无限制
+Unset --- 未设置
+Update --- 更新
+Upload... --- 上传...
+Uptime --- 运行时间
+URI --- URI
+User --- 用户
+User Documentation --- 用户文档
+User/Group --- 用户/组
+User Name --- 用户名
+User Name: --- 用户名：
+Username --- 用户名
+User Account --- 用户账户
+UUID --- UUID
+Value --- 值
+VDI --- VDI
+VDI / RDP --- VDI/RDP
+VDI Profile --- VDI 概要文件
+Version --- 版本
+Video --- 视频
+View/Hide --- 查看/隐藏
+View Profile --- 查看概要文件
+Virtual Address --- 虚拟地址
+Virtual Addresses --- 虚拟地址
+Virtual Name --- 虚拟名称
+View Detailed Graph... --- 查看详细图表...
+Visual --- 可视化
+Route Advertisement --- 路由通告
+Weekly Schedule --- 每周计划
+Wizards --- 向导
+WAN --- WAN
+Warning --- 警告
+Warning! --- 警告！
+The server did not respond in a timely fashion. --- 服务器未及时响应。
+WebAccelerator --- WebAccelerator
+Portal Access Resources --- 门户访问资源
+Weight --- 权重
+Yes --- 是
+Limited --- 受限
+Node --- 节点
+Software Build --- 软件构建
+Slot ID --- 插槽 ID
+Rule --- 规则
+iRule: --- iRule：
+iRule --- iRule
+iRule Management --- iRule 管理
+Class Name --- 类别名称
+iRule Name --- iRule 名称
+Rule Name --- 规则名称
+iRule Definition --- iRule 定义
+Extend Text Area --- 扩展文本区域
+Wrap Text --- 文本换行
+Bundle --- 捆绑
+Unbundle --- 取消捆绑
+Bundle State --- 捆绑包状态
+Bundle Speed --- 捆绑速度
+Failover --- 故障转移
+Load Aware --- 负载感知
+HA Order --- HA 顺序
+Close Reasons --- 关闭原因
+Proxy --- 代理
+Show... --- 显示...
+TLS --- TLS
+Up --- 向上
+URI --- URI
+URI: --- URI：
+URL --- URL
+Verbose --- 详细
+View... --- 查看...
+Enable Request Queueing --- 启用请求排队
+Request Queue Depth --- 请求队列深度
+Request Queue Timeout --- 请求队列超时
+Access Profile --- 访问权限概要文件
+Access Profile Name --- 访问权限概要文件名称
+Policy Sync --- 策略同步
+Access --- 访问权限
+Attentions --- 注意
+Connectivity Profile --- 连接概要文件
+Connectivity --- 连接
+Portal Access --- 门户访问
+AAA Servers --- AAA 服务器
+User-defined ACLs --- 用户定义的 ACL
+All ACLs --- 全部 ACL
+Secure Connectivity --- 安全连接
+Resource Group --- 资源组
+Resource Groups --- 资源组
+Portal Access --- 门户访问
+Manage Resources --- 管理资源
+Specify... --- 指定...
+Immediate --- 即时
+Indefinite --- 不确定
+Unspecified --- 未指定
+Slots --- 插槽
+CGNAT --- CGNAT
+cgnat --- cgnat
+Route Domain --- 路由域
+Processing... --- 正在处理...
+Single Slot --- 单个插槽
+All Slots --- 全部插槽
+Request Queue --- 请求队列
+Depth --- 深度
+Maximum Age --- 最大年龄
+Maximum Datagram Size --- 最大数据报大小
+Poll Interval --- 轮询时间间隔
+Polling Interval --- 轮询时间间隔
+Span Mode --- 跨越模式
+Forwarding Mode --- 转发模式
+Select Disk: --- 选择磁盘：
+Volume set name: --- 卷集名称：
+Folders --- 文件夹
+PingAccess --- PingAccess
+PingAccess Profile --- PingAccess 概要文件
+MAM ID Bridge --- MAM ID 网桥
+Best --- 最佳
+The field contains tags that are not allowed for security reasons. --- 该字段包含了由于安全原因而被禁止的标记。
+January --- 一月
+February --- 二月
+March --- 三月
+April --- 四月
+May --- 五月
+June --- 六月
+July --- 七月
+August --- 八月
+September --- 九月
+October --- 十月
+November --- 十一月
+December --- 十二月
+Enable Slot --- 启用插槽
+Disable Slot --- 禁用插槽
+Local Address --- 本地地址
+Local Address: --- 本地地址：
+Remote Address --- 远程地址
+Remote Address: --- 远程地址：
+Port: --- 端口：
+Blade Serial Number --- 叶片序列号
+Minimum blades up: --- 最低开启叶片数量：
+HA state action: --- HA 状态操作：
+Minimum blades up enabled: --- 已启用最低开启叶片数量：
+Force Offline --- 强制脱机
+Default Boot --- 默认启动
+Installed Images Detail --- 已安装映像详细信息
+Install Status --- 安装状态
+The server will reboot immediately, do you want to proceed? --- 服务器将立即重启，是否继续？
+Click OK to halt the process, or Cancel to resume the installation operation. --- 单击“确认”以中止进程，或单击“取消”恢复安装操作。
+Peers --- 对等
+Peer Management Address --- 对等管理地址
+Management Address --- 管理地址
+Alternate Management Address --- 备用管理地址
+Slot Management Address --- 插槽管理地址
+Slot Alternate Address --- 插槽备用地址
+LIND --- LIND
+CSYNCD --- CSYNCD
+CLUSTERD --- CLUSTERD
+Host 400-level BOM --- 主机 400 级 BOM
+Chassis 400-level BOM --- 机箱 400 级 BOM
+Mezzanine 400-level BOM --- 夹层 400 级 BOM
+Primary Member --- 主成员
+Mirroring Address --- 镜像地址
+Alternate Mirroring Address --- 备用镜像地址
+Activate --- 激活
+Abort/Back --- 中止/返回
+Enter Address --- 输入地址
+TMM --- TMM
+Capability --- 容量
+Discovered --- 已发现
+Configure --- 配置
+Configured --- 已配置
+Volume Management --- 卷管理
+Media --- 媒体
+Properties and Operations --- 属性和操作
+This will cause this blade to reboot. --- 这将导致叶片重启。
+Image Available --- 可用映像
+Referenced --- 已参考
+Last Update Date --- 上一次更新日期
+Boot Location --- 启动位置
+Last Modified --- 上一次修改
+Image Size --- 映像大小
+Image Source --- 映像源
+Host --- 主机
+Local --- 本地
+Bypass --- 避开
+Consume --- 耗用
+Policy Enforcement --- 策略执行
+Category --- 类别
+PEM Policy --- PEM 策略
+Forwarding Endpoint --- 转发端点
+Forwarding --- 转发
+New Policy... --- 新建策略...
+New Rule... --- 新建规则...
+CRLDP Server Profile --- CRLDP 服务器概要文件
+OSCP Responders Profile --- OSCP 响应程序概要文件
+Request Log Profile --- 请求日志概要文件
+Cluster Master --- 主集群
+HA State --- HA 状态
+DoS --- DoS
+Bot Defense --- Bot 防御
+Firewall --- 防火墙
+Appliance Mode --- 设备模式
+Log Settings --- 日志设置
+Algorithm --- 算法
+Secret --- 私密
+Explicit Proxy --- 显式代理
+DHCP Profile --- DHCP 概要文件
+Service Check Date Expiration --- 服务检查日期过期
+Unable to add peer. --- 无法添加同级。
+Unable to add peer. --- 无法添加同级。
+Unable to add peer. --- 无法添加同级。
+Unable to add peer. --- 无法添加同级。
+Session Type --- 会话类型
+Profile Name --- 概要文件名称
+APM --- APM
+Subscriber --- 订阅者
+Subscriber Management --- 订阅者管理
+Subscriber Management Profile --- 订阅者管理概要文件
+SplitSession Server Profile --- SplitSession 服务器概要文件
+SplitSession Server --- SplitSession 服务器
+SplitSession Server --- SplitSession 服务器
+(unassigned) --- （未指派）
+(auto) --- （自动）
+bool --- bool
+char --- char
+short --- short
+int --- int
+long --- long
+float --- float
+double --- double
+string --- string
+Archive File --- 归档文件
+Delete this archive --- 删除此归档
+New Archive... --- 新建归档...
+Overwrite existing archive file --- 覆盖现有归档文件
+Size (Kbytes) --- 大小（千字节）
+Compatibility Check --- 兼容性检查
+Compatibility Details --- 兼容性详细信息
+Compatibility Summary --- 兼容性摘要
+Tested and approved --- 已测试并批准
+Untested or approved with minor issues --- 未经测试或已批准，但存在轻微问题
+Not compatible --- 不兼容
+Browser Type --- 浏览器类型
+Browser Version --- 浏览器版本
+Screen Resolution --- 屏幕分辨率
+Color Depth --- 颜色深度
+Unable to detect --- 无法检测
+No records to display. --- 无要显示的记录。
+Too many records to display. --- 记录太多，无法完全显示。
+Too many records to display. --- 记录太多，无法完全显示。
+Reseting the databases will clear out all history for these graphs. --- 重置数据库会清除这些图表的全部历史记录。
+Reset? --- 是否重置？
+This item can not be deleted. --- 该项目不能删除。
+This item can not be deleted because it is the default route domain of the active partition. --- 该项目是活动分区的默认路由域，因此不能删除。
+This item can not be disabled. --- 该项目不能禁用。
+Delete Items? --- 是否删除项目？
+Please wait while page data is being collected. --- 正在收集页面数据，请稍候。
+Are you sure you want to reboot this chassis? --- 确定要重启此机箱？
+Are you sure you want to reboot this blade? --- 确定要重启此叶片？
+Show All --- 显示全部
+Layer 2 Cache Aging Time --- 2 层缓存老化时间
+Share Single MAC Address --- 分享单个 MAC 地址
+Accept... --- 接受...
+Add... --- 添加...
+Add --- 添加
+Archive... --- 归档...
+Back --- 返回
+Backup... --- 备份...
+<< Back --- << 返回
+Cancel --- 取消
+Change Order... --- 更改顺序...
+Clone --- 复制
+Clear Cache --- 清除缓存
+Clear Signature/Checksum --- 清除签名/检查和
+Copy... --- 复制...
+Configure... --- 配置...
+Continue --- 继续
+Create... --- 创建...
+Create --- 创建
+Decline --- 拒绝
+Delete... --- 删除...
+Delete --- 删除
+Disable --- 禁用
+Force Offline --- 强制脱机
+DisableTraffic --- DisableTraffic
+Down --- 向下
+Edit... --- 编辑...
+Edit --- 编辑
+Enable --- 启用
+EnableTraffic --- EnableTraffic
+Exclude --- 排除
+Excluded --- 已排除
+Expand All Rows --- 展开所有行
+Export... --- 导出...
+Export Certificate... --- 导出证书...
+Export Key... --- 导出密钥...
+Finished --- 已完成
+Save --- 保存
+Import --- 导入
+Include --- 包含
+Include Override --- 包含覆盖
+Kill Selected Sessions --- 结束所选会话
+Load From File... --- 从文件加载...
+Log in --- 登录
+Manage... --- 管理...
+Next... --- 下一步...
+Next --- 下一步
+Next >> --- 下一步 >>
+OK --- 确认
+Pin --- 固定
+Previous --- 上一页
+Reconnect --- 重新连接
+Reconnect All --- 全部重新连接
+Reconfigure... --- 重新配置...
+Refresh --- 刷新
+Refresh Session Table --- 刷新会话表
+Remove... --- 移除...
+Remove --- 移除
+Renew... --- 续订...
+Reorder --- 重新排序
+Repeat --- 重复
+Reset --- 重置
+Reset Picks --- 重置拾取
+Restart --- 重启
+Restore --- 还原
+Restore... --- 还原...
+Retry... --- 重试...
+Retry --- 重试
+Revert --- 撤销
+Save... --- 保存...
+Save To File... --- 保存至文件...
+Start --- 启动
+Start Task --- 开始任务
+Stop --- 停止
+Stop... --- 停止...
+Submit --- 提交
+Up --- 向上
+Update --- 更新
+Upload... --- 上传...
+Upload --- 上传
+Download --- 下载
+<< Back --- << 返回
+Graph --- 图表
+Disable/Yield --- 禁用/放弃
+Previous --- 上一页
+Update Application --- 更新应用
+Install... --- 安装...
+Install --- 安装
+year --- 年
+years --- 年
+month --- 月
+months --- 月
+week --- 周
+weeks --- 周
+day --- 天
+days --- 天
+day(s) --- 天
+hour --- 小时
+hours --- 小时
+hour(s) --- 小时
+minute --- 分
+minutes --- 分
+minute(s) --- 分
+second --- 秒
+/second --- /秒
+milliseconds --- 毫秒
+Years --- 年
+Months --- 月
+Weeks --- 周
+Days --- 天
+Day(s) --- 天
+Hours --- 小时
+Minutes --- 分
+Seconds --- 秒
+seconds --- 秒
+Second(s) --- 秒
+second(s) --- 秒
+Milliseconds --- 毫秒
+Microseconds --- 微秒
+Monday --- 星期一
+Tuesday --- 星期二
+Wednesday --- 星期三
+Thursday --- 星期四
+Friday --- 星期五
+Saturday --- 星期六
+Sunday --- 星期天
+Military Time --- 军用时间
+Date --- 日期
+Date and Time --- 日期和时间
+Date: --- 日期：
+Dates --- 日期
+Time --- 时间
+Day Of The Week --- 本周日期
+Day Of The Month --- 本月日期
+Last Hour --- 过去 1 小时
+Last 2 Hours --- 过去 2 小时
+Last 3 Hours --- 过去 3 小时
+Last 6 Hours --- 过去 6 小时
+Last 12 Hours --- 过去 12 小时
+Last Day --- 昨天
+Last Week --- 上周
+Last Month --- 上个月
+Last Year --- 去年
+All Time --- 全部时间
+Warning --- 警告
+Error --- 错误
+Role Access Restricted --- 角色访问受限
+Access Protected --- 访问受保护
+Unavailable --- 不可用
+Warning. --- 警告。
+An error has occurred. --- 出现错误。
+Access to this function or object by your role is restricted. --- 您的角色访问此功能或对象受到限制。
+Access to this object or function is protected. --- 访问此对象或功能受到保护。
+This object or function is unavailable. --- 此对象或功能不可用。
+characters --- 字符
+Connections: --- 连接：
+New Connections: --- 新连接数：
+Total Connections: --- 连接总数：
+Kilobytes/Second --- 千字节/秒
+Kilobytes --- 千字节
+kilobytes --- 千字节
+Kilobytes: --- 千字节：
+Megabytes --- 兆字节
+megabytes --- 兆字节
+Gigabytes --- 千兆字节
+Packets --- 数据包
+Packets: --- 数据包：
+Packets/Second --- 数据包/秒
+Bytes --- 字节
+bytes --- 字节
+Bytes/Second --- 字节/秒
+bytes/second --- 字节/秒
+Bits --- 位数
+Bits: --- 位数：
+bits --- 位数
+/second --- /秒
+bps --- bps
+bps % --- bps %
+bps @ --- bps @
+/bps --- /bps
+/Mbps --- /Mbps
+Kbps --- Kbps
+Mbps --- Mbps
+Gbps --- Gbps
+pps --- pps
+Kpps --- Kpps
+Mpps --- Mpps
+Gpps; --- Gpps;
+% bps --- % bps
+% pps --- % pps
+Throughput (bits/sec) --- 吞吐量（位/秒）
+Throughput (packets/sec) --- 吞吐量（数据包/秒）
+ms --- ms
+GB --- GB
+µsec --- µsec
+KB --- KB
+MB --- MB
+Double Tagged Packets --- 双重标记的数据包
+pps % --- pps %
+PPS --- PPS
+KPPS --- KPPS
+MPPS --- MPPS
+GPPS --- GPPS
+Account Properties --- 帐户属性
+Active Directory --- Active Directory
+ADFS Proxy --- ADFS 代理
+Administrator --- 管理员
+Administrator Username --- 管理员用户名
+Administrator Password --- 管理员密码
+Advanced Operator --- 高级操作符
+Advanced shell --- 高级 shell
+Allow Console Access --- 允许控制台访问
+Allow Terminal Access --- 允许终端访问
+APM Based --- 基于 APM
+Password Policy --- 密码策略
+Base --- 基础库
+Bind --- 连结
+Change Current Password --- 更改当前密码
+Configure Secondary Host --- 配置第二主机
+Confirm: --- 确认：
+Confirm Password --- 确认密码
+Confirm Secret --- 确认密钥
+Console --- 控制台
+Console Access --- 控制台访问
+Default User Role --- 默认用户角色
+Delete this user: --- 删除此用户：
+DN --- DN
+DN: --- DN：
+Failed Logins --- 失败登录次数
+Fallback to Local --- 回退至本地
+Guest --- 访客
+Kerberos --- Kerberos
+SAML --- SAML
+SAML Resources --- SAML 资源
+SAML Service Provider --- SAML 服务提供者
+Last Failed Login Access Time --- 上一次登录失败访问时间
+Last Failed Login Access Location --- 上一次登录失败访问位置
+LDAP --- LDAP
+LDAPS --- LDAPS
+Local --- 本地
+Local DB Instances --- 本地数据库实例
+Locked Out --- 已锁定
+Logins --- 登录
+Member Of --- 成员
+New User... --- 新建用户...
+New Role... --- 新建角色...
+No Access --- 无访问权限
+Oracle Access Manager --- Oracle Access Manager
+Object Type Privileges --- 对象类型特权
+Old Password --- 旧密码
+One --- 一个
+Operator --- 操作符
+Policy Trace --- 策略跟踪
+Privileges --- 特权
+Password --- 密码
+Password: --- 密码：
+PingAccess --- PingAccess
+Primary & Secondary... --- 主要 & 次要...
+Primary Only... --- 仅主要...
+Primary & Secondary --- 主要 & 次要
+Primary Only --- 仅主要
+Read Only --- 只读
+Read/Write --- 读/写
+Remote Access --- 远程访问
+Remote Directory Tree --- 远程目录树
+Resource Administrator --- 资源管理员
+Role --- 角色
+Role Name --- 角色名称
+Role: --- 角色：
+Roles --- 角色
+Secret --- 密钥
+SecurID --- SecurID
+Shell Role --- Shell 角色
+Terminal Access --- 终端访问
+tmsh --- tmsh
+Scope --- 范围
+Sub --- 子
+Application Security Administrator --- 应用安全管理员
+Application Security Editor --- 应用安全编辑器
+TACACS+ --- TACACS+
+User Defined Group And Partition Privileges --- 用户定义的群组和分区特权
+User Directory --- 用户目录
+Username --- 用户名
+User Template --- 用户模板
+Web Access --- Web 访问
+Secure Password Enforcement --- 安全密码执行
+Minimum Length --- 最小长度
+Required Characters --- 所需字符
+Numeric: --- 数字：
+Uppercase: --- 大写：
+Lowercase: --- 小写：
+Minimum Duration --- 最短持续时间
+Maximum Duration --- 最长持续时间
+Expiration Warning --- 过期警告
+Maximum Login Failures --- 最多登录失败次数
+Partition --- 分区
+Partition: --- 分区：
+Partition Access --- 分区访问
+Partition Access: --- 分区访问：
+Editor --- 编辑器
+Application Editor --- 应用编辑器
+Manager --- 管理器
+Certificate Manager --- 证书管理器
+User Manager --- 用户管理器
+iRule Manager --- iRule 管理器
+Firewall Manager --- 防火墙管理器
+Fraud Protection Manager --- 欺诈防护管理器
+All [Read Only] --- 全部 [只读]
+Application Security Policy Editor --- 应用安全策略编辑器
+CA Certificate --- CA 证书
+Check Member Attribute in Group --- 在群组中查看成员属性
+Login LDAP Attribute --- 登录 LDAP 属性
+Login Filter --- 登录筛选器
+Login Name --- 登录名称
+Depth --- 深度
+OCSP Override --- OCSP 覆盖
+OCSP Responder --- OCSP 响应者
+OCSP Response Max Age --- OCSP 响应最长周期
+OCSP Response Time Skew --- OCSP 响应时滞
+OCSP Response Timeout --- OCSP 响应超时
+User Must Have At Least One Role and Partition --- 用户必须具有至少一个角色和分区
+This user's roles will be replaced with All. --- 该用户的角色将被“全部”替换。
+Is this OK? --- 是否确认？
+Create --- 创建
+Read --- 读取
+Modify --- 修改
+Delete --- 删除
+Enable --- 启用
+Disable --- 禁用
+New Partition... --- 新建分区...
+Partition --- 分区
+Partitions --- 分区
+RBAC Groups --- RBAC 群组
+Role --- 角色
+Are you sure you want to remove this partition? --- 确定要移除此分区？
+Assigned Role --- 已分配的角色
+Group Name --- 群组名
+Line Order --- 行命令
+Attribute String --- 属性字符串
+New Remote Role Group... --- 新建远程角色组...
+Icon COLOR represents enabled / disabled setting... --- 图标“颜色”表示已启用/已禁用的设置...
+Status Icon Examples --- 状态图标示例
+Encryption --- 加密
+Data Encryption --- 数据加密
+Encryption Setting --- 加密设置
+Access --- 访问权限
+Add (Discover) --- 添加（发现）
+Archive --- 存档
+Access Policy --- 访问策略
+Assisted Connections --- 辅助连接
+Carrier Grade NAT --- 运营商级 NAT
+Classes --- 类
+Clusters --- 集群
+Connection & Traffic --- 连接和流量
+Custom Page --- 自定义页面
+Disk Activity --- 磁盘活动
+Disk Latency --- 磁盘延迟
+Disk Sizes --- 磁盘容量
+Documentation --- 文档
+DoS Visibility --- DoS 可视性
+Downloads --- 下载
+Error --- 错误
+FTP --- FTP
+Help --- 帮助
+Introduction --- 介绍
+Icon Legend --- 图标图例
+Icons --- 图标
+iControl Setup --- iControl 设置
+Links --- 链接
+Link Management --- 链接管理
+Link Traffic --- 链接流量
+My Account --- 我的帐户
+Net Group View --- 网络组视图
+Package Management LX --- 数据包管理 LX
+Process CPU Utilization --- 进程 CPU 利用率
+Related --- 相关
+Secure Connectivity --- 安全连通性
+Reports --- 报告
+Resource Groups --- 资源组
+Scheduled Reports --- 已计划报告
+Server Details --- 服务器详细信息
+Server-Side Connections --- 服务器端连接
+Setup --- 设置
+Shared Objects --- 分享对象
+SynCookies --- SynCookies
+TFTP --- TFTP
+Topology --- 拓扑
+Traffic Management --- 流量管理
+Application Security --- 应用安全
+Traffic --- 流量
+Traffic Summary --- 流量总结
+User Database --- 用户数据库
+User Management --- 用户管理
+WAN Optimization --- WAN 优化
+WebAccelerator --- WebAccelerator
+Manage Peer WOCs --- 管理对等 WOC
+View Peer WOCs --- 查看对等 WOC
+Create Peer WOC --- 创建对等 WOC
+Portal Access --- 门户访问
+Webtops --- Webtop
+Webtop Links --- Webtop 链接
+Webtop Sections --- Webtop 版块
+SAML Resource --- SAML 资源
+Virtual Address --- 虚拟地址
+Byte Reports --- 字节报告
+Byte Savings --- 节省字节量
+Caching Bytes Saved --- 已保存缓存字节
+CachingRequestsSaved --- CachingRequestsSaved
+Compression Bytes Saved --- 已保存的压缩字节
+IBR Savings --- IBR 节省量
+ICC InlinedLinks --- ICC 内联链接
+ICC Ref'd Links --- ICC 参考链接
+ICC Savings --- ICC 节省量
+Image Optimization Bytes Saved --- 已保存的图像优化字节
+Inlined Links --- 内联链接
+Minification Bytes Saved --- 已保存的缩小字节
+Concatenation Sets --- 连接集
+Object Types --- 对象类型
+Rate: 5 Minutes --- 速率：5 分钟
+Rate: Daily --- 速率：每日
+Rate: Hourly --- 速率：每小时
+Response Reports --- 响应报告
+ROI Reports --- ROI 报告
+Symmetric Folders --- 对称文件夹
+Transaction Type --- 事务类型
+URL Resources --- URL 资源
+Web Application --- Web 应用
+Welcome --- 欢迎
+Create Application Security Class --- 创建应用安全类
+Create Pool --- 创建池
+Create Profile --- 创建概要文件
+Create Lease Pool --- 创建租赁池
+Create Node --- 创建节点
+Create iRule --- 创建 iRule
+Create Monitor --- 创建监测器
+Create SNAT --- 创建 SNAT
+Create Rate Shaper --- 创建速率整形器
+Create Link --- 创建链接
+Create AAA Server --- 创建 AAA 服务器
+Create ACL --- 创建 ACL
+Create Access Profile --- 创建访问概要文件
+Create Resource Group --- 创建资源组
+Create Portal Access Resource --- 创建门户访问资源
+Exclude All Ports --- 排除所有端口
+Include All Ports --- 包含所有端口
+Event Correlation --- 事件关联
+Brute Force Attacks --- 暴力攻击
+Error creating rule! --- 创建规则出错！
+BIG3D --- BIG3D
+Big3D --- Big3D
+Big3D Shim --- Big3D Shim
+GTM --- GTM
+FTPD --- FTPD
+TelnetD --- TelnetD
+Access Key --- 访问密钥
+Secret Key --- 密钥
+Access --- 访问权限
+Access Control --- 访问权限控制
+Access (v1, v2c) --- 访问权限（v1、v2c）
+Access (v3) --- 访问权限 (v3)
+Community --- 社区
+Contact Information --- 联系人信息
+Destination --- 目标
+Engine ID --- 引擎 ID
+Instance Name --- 实例名称
+Machine Location --- 机器位置
+Management --- 管理
+New Access Record... --- 新建访问记录...
+New Trap Record... --- 新建陷阱记录...
+Record Details --- 记录详细信息
+Record Properties --- 记录属性
+v3-Specific Properties --- 特定于 v3 的属性
+OID --- OID
+A specific OID requires a specific source. --- 特定 OID 需要特定资源。
+Privacy Password --- 隐私密码
+Security Level --- 安全级别
+Security Name --- 安全名称
+Transport Domain --- 传输域
+v1 --- v1
+v2c --- v2c
+v3 --- v3
+WIN2000 --- WIN2000
+UCD --- UCD
+GENERIC --- 通用
+No Auth, No Privacy --- 无认证，无隐私
+Auth, No Privacy --- 认证，无隐私
+Auth & Privacy --- 认证和隐私
+Active --- 活跃
+Forced Offline --- 强制脱机
+Offline --- 脱机
+Standby --- 备用
+Failsafe Fault --- 失效保护故障
+Monitor Fault --- 监控故障
+Degraded --- 降级
+Unknown --- 未知
+Not Watched --- 未观察
+not watched --- 未观察
+MANAGED --- 已受管
+Managed by BIG-IQ --- 受 BIG-IQ 管制
+Available Updates --- 可用更新
+Installed Package --- 已安装更新包
+Update Package --- 更新安装包
+Package Status --- 安装包状态
+When fewer than --- 当小于
+pool member(s) are available: --- 池成员可用：
+Restart all --- 全部重启
+Fail over to peer --- 故障转移至对等设备
+ConfigSync --- ConfigSync
+ConfigSync: OK --- ConfigSync：确认
+ConfigSync User --- ConfigSync 用户
+This user account performs config sync operations. --- 该用户帐户会执行配置同步操作。
+If you change the password for this account on this unit, you must also update the password for this user account on the peer unit. --- 如果您在此单元上更改了此帐户的密码，您还必须在对等单元上更新此用户帐户的密码。
+ConfigSync Peer --- ConfigSync 对等
+ConfigSync Peer Address --- ConfigSync 对等地址
+Current Redundancy State --- 当前冗余状态
+Current ConfigSync State --- 当前 ConfigSync 状态
+Synced --- 已同步
+Daily --- 每日
+Detect ConfigSync Status --- 检测 ConfigSync 状态
+Scheduled CongfigSync is currently inactive due to an EM failover. --- 由于 EM 故障转移，已计划的 CongfigSync 当前已失效。
+Click update to re-enable this schedule. --- 单击更新以重新启用该计划。
+Duplicate the changes, then perform ConfigSync --- 复制更改，然后执行 ConfigSync
+Fail Back --- 故障恢复
+Failover --- 故障转移
+Failover Method --- 故障转移方法
+Fail Over and Restart --- 故障转移和重启
+Fail Over & Restart --- 故障转移和重启
+Link Down Time on Failover --- 故障转移时的链接失效时间
+Value must be between 0 and 10. --- 值必须介于 0 和 10 之间。
+Failover Address --- 故障转移地址
+Failover Status --- 故障转移状态
+Failover State --- 故障转移状态
+Force to Standby --- 强制为备用
+Force to Standby... --- 强制为备用...
+Hardware Monitor --- 硬件监测器
+Heartbeat Failure --- 检测信号故障
+Heartbeat Failure Action --- 检测信号故障操作
+Heartbeat --- 检测信号
+Messaging --- 消息
+Last Change (Self) --- 上一次更改（自身）
+Last Change (Peer) --- 上一次更改（对等）
+Last ConfigSync --- 上一次 ConfigSync
+Mirroring --- 镜像
+Monthly --- 每月
+Passphrase --- 通行短语
+Verify Passphrase --- 验证通行短语
+Peer --- 对等
+Subordinate --- 从属
+Primary Failover Address --- 主故障转移地址
+Primary Connection Mirror Address --- 主链接镜像地址
+Redundancy --- 冗余
+Delete this HA group --- 删除此 HA 组
+Redundancy Mode --- 冗余模式
+Redundancy Properties --- 冗余属性
+Redundancy State Preference --- 冗余状态首选项
+Restart Failure --- 重启故障
+Restart Service --- 重启服务
+Schedule --- 计划
+Schedule Status --- 计划状态
+Secondary Failover Address --- 次要故障转移地址
+Secondary Connection Mirror Address --- 次要链接镜像地址
+Self --- 自身
+Self --> Peer --- 自身 --> 对等
+Status Message --- 状态消息
+Switch Board Failure --- 交换机故障
+Synchronized --- 已同步
+Sync Recommended --- 推荐同步
+Threshold --- 阈值
+Min Up Members --- 最少活跃成员
+to --- 至
+Unit ID --- 单元 ID
+Unknown Sync State --- 未知同步状态
+(Unit 1) --- （单元 1）
+(Unit 2) --- （单元 2）
+Unit 1 --- 单元 1
+Unit 2 --- 单元 2
+Unit 1: --- 单元 1：
+Unit 2: --- 单元 2：
+Uninitialized or disabled --- 未初始化或已禁用
+Unknown Status Code --- 未知状态码
+Peer state is unknown due to possible connectivity problems --- 由于可能的连通性问题，对等状态未知
+Use Primary Connection Mirror Address --- 使用主连接镜像地址
+Use Cluster Peer Address --- 使用集群对等地址
+Weekly --- 每周
+Failover --- 故障转移
+Switch Hardware Driver --- 交换机硬件驱动器
+Traffic Management --- 流量管理
+Traffic Firewall --- 流量防火墙
+Global Traffic Management --- 全局流量管理
+Daemon that is responsible for certain key and certificate management operations. --- 守护程序负责某些密钥和证书管理操作。
+Synchronize --- 同步
+Synchronize TO Peer --- 同步到对等设备
+Synchronize FROM Peer --- 从对等机同步
+Fail Over and Restart TM --- 故障转移和重启 TM
+Fail Over & Restart TM --- 故障转移和重启 TM
+Go Offline --- 脱机
+Go Offline Abort TM --- 脱机中止 TM
+Traffic Management --- 流量管理
+Traffic Management --- 流量管理
+Traffic Management --- 流量管理
+Clusterwide Status Management --- 集群范围状态管理
+Chassis Management --- 机箱管理
+Daemon Watchdog --- 守护程序看门狗
+vCMP Management --- vCMP 管理
+An unicast or a multicast setting is required. --- 需要单播或多播设置。
+Both an unicast and a multicast setting are required. --- 同时需要单播和多播设置。
+Either an unicast or a multicast setting is required. --- 需要单播或多播设置。
+Go Offline & Down Links --- 脱机 & 停机链接
+Go Offline & Down Links & restart --- 脱机 & 停机链接 & 重启
+Go Offline & Restart --- 脱机 & 重启
+Failover Restart TM --- 故障转移重启 TM
+Routing Table Management --- 路由表管理
+WAN Optimization Module Controller --- WAN 优化模块控制器
+Traffic Redirection --- 流量重定向
+WAN Optimization Plugin Controller --- WAN 优化插件控制器
+(HA Feature Disabled) --- （HA 功能已禁用）
+Active/Active --- 活跃/活跃
+Active/Standby --- 活跃/备用
+Release Offline --- 发布脱机
+At least one unicast setting is required. --- 至少需要一项单播设置。
+At least one unicast and one multicast settings are required. --- 同时需要一项单播和一项多播设置。
+At least two unicast settings are required. --- 至少需要两项单播设置。
+Peer management address is required. --- 需要对等机管理地址。
+Include Cluster: --- 包含集群：
+Active Bonus: --- 活跃奖励：
+EnableVRRP: --- EnableVRRP：
+HA Group --- HA 群组
+Add HA Group... --- 添加 HA 群组...
+Daemon Restart --- 守护程序重启
+Daemon Heartbeat --- 守护程序检测信号
+Pool Member Down --- 池成员停机
+Overdog Control --- 过度控制
+Hardware Failover --- 硬件故障转移
+HA Resource --- HA 资源
+Switchboard Failsafe --- 交换机防故障
+Proc Run --- 程序运行
+Expect Link Down --- 预期链接停机
+Forced Offline --- 强制脱机
+Min Up Cluster Member --- 最少在线集群成员
+Cluster Time Sync --- 集群时间同步
+Software Update --- 软件更新
+Ready For World --- 准备面世
+Clustered Member Disabled --- 集群成员已禁用
+Wait Primary SOD --- 等待主要 SOD
+TMM Detect Failure --- TMM 检测故障
+NIC Failsafe --- NIC 防故障
+MPI Failsafe --- MPI 防故障
+Reboot Request --- 重启请求
+HA Group Score --- HA 群组分数
+HA Peer Group Score --- HA 对等群组分数
+Hypersonic Offline --- Hypersonic 脱机
+Hypervisor Offline --- 虚拟机监控程序脱机
+Compression Failsafe --- 压缩防故障
+Crypto Failsafe --- 加密防故障
+Number of Members --- 成员数
+Object Name --- 对象名称
+HA Group Name --- HA 群组名
+WAN optimization Deduplication Controller --- WAN 优化删除重复控制器
+Enable Debug --- 启用调试
+Debug Log File Path --- 调试日志文件路径
+Restarts Before HA Action --- 在 HA 操作前重启
+MySQL Database daemon --- MySQL 数据库守护程序
+MySQL --- MySQL
+Traffic Group --- 流量组
+Inherit traffic group from current partition / path --- 从当前分区/路径继承流量组
+Inherit traffic group from root folder --- 从根文件夹继承流量组
+vCMP Guest Management Daemon --- vCMP 访客管理守护程序
+Traffic Analytics collection Daemon --- 流量分析收集守护程序
+ONLINE --- 在线
+A daemon that detects and mitigates DOS layer 7 attacks --- 可检测和缓和 DOS 7 层攻击的守护程序
+A daemon that detects DOS attacks using behavioral analysis --- 可使用行为分析检测 DOS 攻击的守护程序
+Save on Auto Sync --- 自动同步时保存
+A daemon that syncs dynamically generated data to the traffic filters --- 将动态生成的数据同步至流量筛选器的守护程序
+Service Type --- 服务类型
+Default --- 默认
+Login --- 登录
+Framed --- 已构建
+Callback Login --- 回调登录
+Administrative --- 管理
+NAS Prompt --- NAS 提示
+Callback NAS Prompt --- 回调 NAS 提示
+Callback Administrative --- 回调管理
+Authenticate Only --- 仅认证
+Call Check --- 调用检查
+Callback Framed --- 已构建回调
+Outbound --- 出站
+Last --- 上一个
+Domain --- 域
+FTP --- FTP
+LDAP --- LDAP
+SSH --- SSH
+Telnet --- Telnet
+Spanning Tree --- 生成树
+Spanning Tree Globals --- 生成树全局
+Mode --- 模式
+Pass Through --- 通过
+STP --- STP
+MSTP --- MSTP
+RSTP --- RSTP
+Hello Time --- Hello Time
+Forward Delay --- 转发延迟
+Max Age --- 最长周期
+Maximum Age --- 最长周期
+MSTP Max Hops --- MSTP 最大跳数
+MSTP Maximum Hops --- MSTP 最大跳数
+Transmit Hold Count --- 传输持有计数
+Instance ID --- 实例 ID
+Bridge Priority --- 网桥优先级
+Root Bridge --- 根网桥
+Regional Root Bridge --- 区域根网桥
+Topology Changes --- 拓扑更改
+Instance Members --- 实例成员
+STP Name --- STP 名称
+Port Role --- 端口角色
+Active State --- 活跃状态
+Port State --- 端口状态
+Requested State --- 请求的状态
+External Path Cost --- 外部路径成本
+Internal Path Cost --- 内部路径成本
+LACP Defaults --- LACP 默认值
+Operation Mode --- 操作模式
+Packet Exchange Timeout --- 数据包交换超时
+Dynamic Timeout --- 动态超时
+Maximum Dynamic Entries --- 动态条目最大数
+Request Retries --- 请求重试
+Clock Synchronization --- 时钟同步
+Global Traffic Logging --- 全局流量日志记录
+Access Policy Logging --- 访问策略日志记录
+Secure Connectivity Logging --- 安全连通性日志记录
+Application Security Logging --- 应用安全日志记录
+Severity --- 严重性
+Error --- 错误
+Warning --- 警告
+Notice --- 通知
+Information --- 信息
+Informational --- 参考
+Debug --- 调试
+Panic --- 应急
+Trace --- 跟踪
+Emergency --- 紧急
+Alert --- 警报
+Critical --- 关键
+tmsh --- tmsh
+Log Access --- 日志访问
+Message ID --- 消息 ID
+Logging Profile --- 日志记录概要文件
+Log Publisher --- 日志发布程序
+Log Publish Failure Action --- 日志发布故障操作
+None --- 无
+Reboot --- 重启
+Logging Partition --- 日志记录分区
+Logging Folder --- 日志记录文件夹
+Source --- 源
+Category --- 类别
+Verbose --- 详细
+To begin, click the "Next" button. --- 要开始，请单击“下一步”按钮。
+Application Security Policy Browser --- 应用安全策略浏览器
+Policy Browser with JVM v1.5.0_03 --- JVM v1.5.0_03 策略浏览器
+Policy Browser --- 策略浏览器
+Object Type --- 对象类型
+Traffic Status --- 流量状态
+Run the Secure Access Setup Wizard --- 运行安全访问安装向导
+Run the Setup Utility --- 运行安装实用程序
+Run Config Sync/HA Utility --- 运行配置同步/HA 实用程序
+Ask F5 --- Ask F5
+Ask F5 provides unlimited access to all customers covered under an F5 service agreement. --- Ask F5 可供所有遵守 F5 服务协议的客户无限制地访问。
+Visit Ask F5 --- 访问 Ask F5
+Deployment Guides --- 部署指南
+Visit Deployment Guides --- 访问部署指南
+DevCentral --- DevCentral
+Visit DevCentral --- 访问 DevCentral
+Plug-ins --- 插件
+ISAPI Plug-in --- ISAPI 插件
+ISAPI Plug-in (x64 edition) --- ISAPI 插件（x64 版）
+Microsoft&reg; --- Microsoft&reg;
+Windows Server&reg; --- Windows Server&reg;
+2008/Microsoft&reg; --- 2008/Microsoft&reg;
+RealServer&trade; --- RealServer&trade;
+Plug-in --- 插件
+Helix&trade; --- Helix&trade;
+Server Plug-in --- 服务器插件
+Downloads --- 下载
+Download F5 MIBs (mibs_f5.tar.gz) --- 下载 F5 MIB (mibs_f5.tar.gz)
+Modules --- 模块
+Access Policy Manager performs endpoint security checks using the OESIS Framework from OPSWAT. --- 访问策略管理器使用 OPSWAT 的 OESIS Framework 执行端点安全检查。
+Portal Access Setup Wizard --- 门户访问安装向导
+Components --- 组件
+Component Installer Package for Windows --- Windows 版组件安装程序包
+Browser Components for Mac OS and Linux --- Mac OS 和 Linux 版浏览器组件
+Use the following links to download browser components for Mac OS and Linux. --- 使用以下链接，下载 Mac OS 和 Linux 版浏览器组件。
+F5 Endpoint Inspector for Linux --- F5 Endpoint Inspector for Linux
+F5 Endpoint Inspector for Linux --- F5 Endpoint Inspector for Linux
+F5 Endpoint Inspector for Linux --- F5 Endpoint Inspector for Linux
+F5 Endpoint Inspector for Linux --- F5 Endpoint Inspector for Linux
+F5 VPN for Linux --- F5 VPN for Linux
+F5 VPN for Linux --- F5 VPN for Linux
+F5 VPN for Linux --- F5 VPN for Linux
+F5 VPN for Linux --- F5 VPN for Linux
+F5 Endpoint Inspector for Mac OS --- F5 Endpoint Inspector for Mac OS
+F5 VPN for Mac OS --- F5 VPN for Mac OS
+Red --- 红色
+Orange --- 橙色
+Blue --- 蓝色
+Green --- 绿色
+Yellow --- 黄色
+Application --- 应用
+Application Service --- 应用服务
+Application Service Components --- 应用服务组件
+Application Service Instance --- 应用服务实例
+New Application Service... --- 新建应用服务...
+Application Service Objects --- 应用服务对象
+Application Service Status --- 应用服务状态
+Configure Sync and/or Failover for this application? --- 是否要为此应用配置同步和/或故障转移？
+Delete this application service %0 and all objects owned by it? --- 是否删除此应用服务 %0 及其拥有的全部对象？
+instance of: --- 实例所属：
+Strict Updates --- 严格更新
+Object Type --- 对象类型
+(recommended) --- （推荐）
+Sync and/or Failover Groups --- 同步和/或故障转移组
+Template --- 模板
+None - Do not use a template --- 无 - 不使用模板
+Application Attacks --- 应用攻击
+Application Events --- 应用事件
+Application Properties --- 应用属性
+Error parsing template: --- 解析模板出错：
+New Application Service... --- 新建应用服务...
+Template --- 模板
+Deployment Notes --- 部署说明
+Deprecated --- 不推荐
+Template Selection --- 模板选项
+Delete this template: --- 删除此模板：
+Validity --- 有效性
+Template Validity --- 模板有效性
+Template Type --- 模板类型
+The format of version number should be # or #.# or #.#.#. --- 版本号格式应该为 # 或 #.# 或 #.#.#。
+The template associated with this application no longer meets its prerequisites. --- 与此应用关联的模板不再满足其先决条件。
+The error message is:%1 --- 错误消息为 %1
+Clear signature or checksum of this template: --- 清除此模板的签名或检查和：
+Associated Plugin --- 关联插件
+Associated Plugins --- 关联插件
+Extension already exists: --- 扩展已存在：
+File already exists: --- 文件已存在：
+Rule already exists: --- 规则已存在：
+Could not read file: --- 无法读取文件：
+Error writing file --- 写入文件时出错
+The name may only contain alphanumeric, underscore, hyphen and dot characters --- 名称仅可包括字母数字、下划线、连字符和句点字符
+and must begin with alpha or underscore character --- 并且必须以字母数字或下划线字符开始
+Rejected Tmsh Command --- 已被拒的 Tmsh 命令
+Tmsh command failed --- Tmsh 命令失败
+Add Extension --- 添加扩展
+Add Extension File --- 添加扩展文件
+Add iRule --- 添加 iRule
+Archive URI --- 存档 URI
+Archive File --- 存档文件
+Comparison Plugin --- 比较插件
+Could not execute query --- 无法执行查询
+Could not save file: --- 无法保存文件：
+Creating Extension --- 正在创建扩展
+(default) --- （默认）
+Delete --- 删除
+Does not exist in plugin --- 插件中不存在
+Editor --- 编辑器
+Enter the extension name: --- 输入扩展名：
+Enter the extension file name: --- 输入扩展文件名：
+Enter the iRule name: --- 输入 iRule 名称：
+Extension Created --- 扩展已创建
+File differs from plugin --- 文件与插件不同
+Workspace and Plugin files are identical --- 工作空间和插件文件相同
+File saved --- 文件已保存
+From Plugin --- 自插件
+From Workspace --- 自工作空间
+Include example code --- 包含示例码
+Loading plugin --- 正在加载插件
+Name of iRule --- iRule 名称
+New Workspace... --- 新建工作空间...
+Node.js Version --- Node.js 版本
+This will change the affected files immediately after creating an archive in: %0. --- 在以下位置创建存档文件后，将立即更改受影响的文件：%0。
+Do you want to continue? --- 是否继续？
+No item selected --- 未选中项目
+Plugin: --- 插件：
+Plugin is up to date --- 插件是最新的
+Plugin View --- 插件视图
+File does not exist in plugin --- 文件在插件中不存在
+(plugin view) --- （插件视图）
+(read only) --- （只读）
+Revert File --- 复原文件
+Save File --- 保存文件
+Unsaved changes will be lost --- 未保存的更改将丢失
+Source --- 源
+Please update or switch to using a modern browser --- 请更新或切换至现代浏览器
+Workspace Files --- 工作空间文件
+State --- 状态
+Command Arguments --- 命令参数
+Concurrency Mode --- 并发模式
+Dedicated --- 专用
+Single --- 单个
+Delete this plugin: --- 删除此插件：
+Default Route Domain --- 默认路由域
+Datagroups --- 数据组
+Debug Port Range Low --- 调试端口范围低
+Debug Port Range High --- 调试端口范围高
+Engine --- 引擎
+Extensions --- 扩展
+Maximum Restarts --- 最大重启次数
+New Plugin... --- 新建插件...
+Reload from Workspace... --- 自工作空间重新加载...
+Restart Interval --- 重启间隔
+Trace Level --- 跟踪级别
+From Workspace --- 自工作空间
+Process --- 进程
+RPC Info --- RPC 信息
+Connections=Sideband Connections --- Connections=边带连接
+Extension --- 扩展
+Extension Process --- 扩展进程
+Plugin : Extension --- 插件：扩展
+Status --- 状态
+Initialized --- 已初始化
+Stop Requested --- 已请求停止
+Stopping --- 正在停止
+Draining --- 将要耗尽
+Running --- 正在运行
+Stopped --- 已停止
+Failed --- 失败
+CPU (%) --- CPU (%)
+CPU Utilization (%) --- CPU 利用率 (%)
+Total Virtual Size --- 总计虚拟大小
+Resident Set Size --- 驻留集大小
+Active Connections --- 活跃连接数
+Total Connections --- 连接总数
+Total Calls --- 呼叫总数
+Notifies --- 通知
+Timeouts --- 超时
+Errors --- 错误
+Octets In --- 入站八进制
+Octets Out --- 出站八进制
+Average Latency --- 平均延迟
+Max Latency --- 最大延迟
+Serverside Active --- 服务器端活跃
+Serverside Total --- 服务器端总计
+Sideband Active --- 边带活跃
+Sideband Total --- 边带总计
+Aborts --- 中止
+Timeouts --- 超时
+Errors --- 错误
+Octets In --- 入站八进制
+Octets Out --- 出站八进制
+Table Calls --- 表格调用
+Datagroup Calls --- 数据组调用
+Logger Calls --- 记录器调用
+Logger Errors --- 记录器错误
+Logger Octets Out --- 记录器出站八进制
+Restarts --- 重启
+Failures --- 失败
+Process ID --- 进程 ID
+TMM --- TMM
+MPI Channel --- MPI 渠道
+Connections --- 连接
+Active --- 活跃
+Max Active --- 最大活跃
+Total --- 总计
+Connection Aborts --- 连接中止
+Connection Rejects --- 连接拒绝
+Backlogged Messages --- 待处理消息
+Backlogged Bytes --- 待处理字节
+Received Message Count --- 已收到的消息数
+Transmitted Message Count --- 已传输的消息数
+Received Payload Bytes --- 已收到的有效负载字节数
+Transmitted Payload Bytes --- 已传输的有效负载字节数
+LSN --- LSN
+LSN Pool --- LSN 池
+Member Management --- 成员管理
+NAT --- NAT
+NATs --- NAT
+Full --- 完整
+Assisted --- 协助
+None --- 无
+Dedicated --- 专用
+SNAT --- SNAT
+SNATs --- SNAT
+SNAT Pool --- SNAT 池
+SNAT Translations --- SNAT 转换
+SNAT Translation --- SNAT 转换
+Delete this profile --- 删除此概要文件
+Delete this profile: %0? --- 删除此概要文件：%0？
+Delete this rule: %0? --- 删除此规则：%0？
+Template --- 模板
+Invalid Template Name. --- 模板名称无效。
+Template Name(s) --- 模板名称
+Template Properties --- 模板属性
+New Template --- 新建模板
+Clone Template --- 复制模板
+Import Template --- 导入模板
+Source Template Has Changed --- 源模板已更改
+Presentation --- 展示
+Implementation --- 实施
+Macro --- 宏
+The template could not be found --- 找不到该模板
+Get help from Dev Central --- 从开发中心获取帮助
+Local Zone --- 本地区域
+Deny --- 拒绝
+Refuse --- 拒绝
+Static --- 静态
+Transparent --- 透明
+Type Transparent --- 类型透明
+Redirect --- 重定向
+Allowed Query Time --- 已允许的查询时间
+Answered Locally --- 已本地应答
+Async --- 异步
+Using Nameservers --- 使用名称服务器
+Authenticated Data (AD) --- 已认证数据 (AD)
+Authoritative Answer (AA) --- 授权应答 (AA)
+Bogus --- 虚假
+Cache --- 缓存
+Cache Details --- 缓存详细信息
+Cache Only --- 仅缓存
+Cache Resolver --- 缓存解析器
+Class --- 类
+Complete Message --- 完整消息
+Concurrent Flows --- 并行流
+DLV Anchor --- DLV 锚
+Are you sure you want to remove the selected DLV anchor(s)? --- 确定要移除所选 DLV 锚？
+DLV Anchors --- DLV 锚
+DS Records --- DS 记录
+Evictions --- 逐出
+FORMERR Response --- FORMERR 响应
+Forward Zone --- 转发区域
+Forwarder Activity --- 转发器活动
+Hits --- 命中
+Ignore Checking Disabled Bit --- 忽略检查已禁用位
+Include Complete Answer --- 包含完整答案
+Include Query ID --- 包含查询 ID
+Include Source --- 包含源
+Include Timestamp --- 包含时间戳
+Include View --- 包含视图
+Indeterminate --- 不确定
+Insecure --- 不安全
+Inserts --- 插入
+Internet Nameserver --- 互联网名称服务器
+Nameserver Summary --- 名称服务器摘要
+Last 1 sec --- 过去 1 秒
+Last 5 min --- 过去 5 分钟
+Last 1 hr --- 过去 1 小时
+Last 1 day --- 过去 1 天
+Log Fields --- 日志字段
+Log Queries --- 日志查询
+Log Responses --- 日志响应
+Malformed Packets --- 格式错误的数据包
+Malicious Packets --- 恶意数据包
+Hardware Detected Malformed Packets --- 硬件检测格式错误的数据包
+Hardware Inspected Packets --- 硬件检测的数据包
+Max. Concurrent Queries --- 最大并行查询数
+Maximum Flows --- 最大流数
+Maximum Resolving --- 最大解析
+Maximum Sample Rate --- 最大采样率
+Message Cache Size --- 消息缓存大小
+Misses --- 未命中
+Modifications --- 修改
+Name Server Cache --- 名称服务器缓存
+Name Server Cache Count --- 名称服务器缓存数
+Nameserver Traffic --- 名称服务器流量
+OpCode: Notify --- OpCode：通知
+OpCode: Query --- OpCode：查询
+OpCode: Update --- OpCode：更新
+OpCodes --- OpCode
+Overflowed --- 溢出
+Owner --- 拥有者
+Prefetch Key --- 预提取密钥
+Prefetch Records --- 预提取记录
+Queries --- 查询
+Total Queries --- 查询总数
+Query Details --- 查询详细信息
+A --- A
+AAAA --- AAAA
+ANY --- ANY
+AXFR --- AXFR
+CNAME --- CNAME
+IXFR --- IXFR
+MX --- MX
+NAPTR --- NAPTR
+NS --- NS
+PTR --- PTR
+SOA --- SOA
+SRV --- SRV
+TXT --- TXT
+Waiting to Send --- 等待发送
+Queries/Second --- 查询/秒
+Query Questions --- 查询问题
+Question Types --- 问题类型
+No Error (NoError) --- 无错误 (NoError)
+Non-Existant Domain (NXDomain) --- 非现有域 (NXDomain)
+Server Failure (ServFail) --- 服务器故障 (ServFail)
+Query Refused (Refused) --- 查询被拒 (Refused)
+Response Validation Status --- 响应验证状态
+Resource Record Set --- 资源记录集
+Randomize Query Character Case --- 随机查询字符大小写
+Record Data --- 记录数据
+Recursion Available (RA) --- 递归可用 (RA)
+Recursion Desired (RD) --- 需要递归 (RD)
+Requests Handled --- 已处理请求
+Resolve --- 解析
+Resolver --- 解析器
+Resolving --- 正在解析
+Resolver Traffic Details --- 解析器流量详细信息
+Resolver Type --- 解析器类型
+Resolvers --- 解析器
+Resource Record Cache --- 资源记录缓存
+Resource Record Cache Size --- 资源记录缓存大小
+Responses --- 响应
+Responses/Second --- 响应/秒
+Response Time (&#181;s) --- 响应时间（&#181; 秒）
+Timed Out --- 超时
+Total Responses --- 响应总数
+Response Details --- 响应详细信息
+Root Hints (Optional: Leave blank for defaults) --- 根提示（可选：默认情况下留空）
+Sample Percentage --- 示例百分比
+Secure --- 安全
+SERVFAIL Response --- SERVFAIL 响应
+Suspends --- 搁置
+Rate Limit (RPS) --- 速率限制 (RPS)
+Object Count --- 对象计数
+Rate Rejects --- 拒绝率
+Sync --- 同步
+Transparent (None) --- 透明（无）
+Truncated (TC) --- 截断 (TC)
+Are you sure you want to remove the selected Trust anchor(s)? --- 确定要移除所选信任锚？
+Type --- 类型
+TTL --- TTL
+Updates --- 更新
+Unchecked --- 未选中
+Unreachable --- 无法连接
+Unsolicited Reply Threshold --- 主动回复阈值
+Unsolicited --- 主动
+Use Caps Bits For ID --- 使用 Caps Bits For ID
+Validating Resolver --- 正在验证解析器
+Validator Key Details --- 验证器密钥详细信息
+Cleanup On Service Down --- 服务关闭时清理
+Reset On Service Down --- 服务关闭时重置
+Reset on Timeout --- 超时时重置
+PVA Flow Aging --- PVA 流老化
+PVA Flow Evict --- PVA 流收回
+PVA Offload Dynamic --- PVA 卸载动态
+PVA Dynamic Server Packets --- PVA 动态服务器数据包
+Idle Timeout --- 空闲超时
+Maximum Segment Size Override --- 最大片段大小覆盖
+Link QoS to Server --- 将 QoS 链接至服务器
+Preserve --- 保留
+Generate Initial Sequence Number --- 生成初始序列号
+RTT from Server --- 来自服务器的 RTT
+Loose Initiation --- 宽松启动
+Loose Close --- 宽松关闭
+Hardware SYN Cookie Protection --- 硬件 SYN Cookie 保护
+Software SYN Cookie Protection --- 软件 SYN Cookie 保护
+Late Binding --- 后期绑定
+Explicit Flow Migration --- 显式流迁移
+Timeout Recovery --- 超时恢复
+Disconnect --- 断开连接
+Fallback --- 回退
+Open --- 打开
+Accepts --- 接受
+Accept Fails --- 接受失败
+Expires --- 过期
+Embryonic --- 初步
+Rx Malformed Packets --- Rx 格式错误的数据包
+Rx Bad Checksum Datagrams --- Rx 检查和数据报错误
+Rx HW/SW Checksum Mismatch --- Rx 硬件/软件检查和不匹配
+Tx Datagrams Errors --- Tx 数据报错误
+Retransmissions of SYN --- 重新传输 SYN
+Open --- 打开
+Accepted --- 已接受
+Not Accepted --- 未接受
+Expired --- 已过期
+Embryonic --- 初步
+Rx Malformed Packets --- Rx 格式错误的数据包
+SYN Cookie Issued --- 已发出 SYN Cookie
+SYN Cookie Accepted --- 已接受 SYN Cookie
+Rejected --- 已拒绝
+HW SYN Cookie Issued --- 已发出硬件 SYN Cookie
+HW SYN Cookie Valid --- 硬件 SYN Cookie 有效
+Source Mask --- 源掩码
+Max Size --- 最大大小
+Max Age --- 最长周期
+Max Reuse --- 最大复用
+Maximum Size --- 最大大小
+Maximum Age --- 最长周期
+Maximum Reuse --- 最大复用
+Idle Timeout Override --- 空闲超时覆盖
+Limit Type --- 限制类型
+None --- 无
+Idle --- 空闲
+Strict --- 严格
+Insert Cookie Name --- 插入 Cookie 名称
+Insert Cookie Passphrase --- 插入 Cookie 通行短语
+Insert Cookie Domain --- 插入 Cookie 域
+Key By Existing Cookie --- 现有 Cookie 的密钥
+Cookie Name --- Cookie 名称
+New Pem Profile... --- 新建 Pem 概要文件...
+MAC Address --- MAC 地址
+Suboption ID 1 + <Separator> + Suboption ID 2 --- 子选项 ID 1 + <分隔符> + 子选项 ID 2
+Suboption ID 1 + <Separator> + Suboption ID 2 --- 子选项 ID 1 + <分隔符> + 子选项 ID 2
+TCL Expression --- TCL 表达式
+Forward --- 转发
+Relay --- 中继
+0 --- 0
+1 --- 1
+2 --- 2
+4 --- 4
+DHCP Mode --- DHCP 模式
+Default Lease Time --- 默认租赁时间
+Transaction Timeout --- 事务超时
+Suboption ID 1 --- 子选项 ID 1
+Suboption Value 1 --- 子选项值 1
+Suboption ID 2 --- 子选项 ID 2
+Suboption Value 2 --- 子选项值 2
+User Name Format --- 用户名格式
+Separator --- 分隔符
+Suboption ID 1 --- 子选项 ID 1
+Suboption ID 2 --- 子选项 ID 2
+TCL Expression --- TCL 表达式
+Subscriber Discovery --- 订阅服务器发现
+Subscriber ID Format --- 订阅服务器 ID 格式
+Suboption ID 1 --- 子选项 ID 1
+Suboption ID 2 --- 子选项 ID 2
+Separator --- 分隔符
+Max Hops --- 最大跳数
+Default TTL --- 默认 TTL
+TTL Decrement Amount --- TTL 减量金额
+Warning: --- 警告：
+MAC Address + <Separator> + Option 37 --- MAC 地址 + <分隔符> + 选项 37
+MAC Address + <Separator> + Option 37 + <Separator> + Option 38 --- MAC 地址 + <分隔符> + 选项 37 + <分隔符> + 选项 38
+MAC Address + <Separator> + Option 38 --- MAC 地址 + <分隔符> + 选项 38
+Option 37 + <Separator> + Option 38 --- 选项 37 + <分隔符> + 选项 38
+Option 38 --- 选项 38
+Option 37 --- 选项 37
+Insert Remote ID (Option 37) --- 插入远程 ID（选项 37）
+Enterprise Number --- 企业编号
+Remote ID Value --- 远程 ID 值
+Insert Subscriber ID (Option 38) --- 插入订阅服务器 ID（选项 38）
+Subscriber ID --- 订阅服务器 ID
+Separator 2 --- 分隔符 2
+New Subscriber Management Profile... --- 新建订阅服务器管理概要文件...
+Enabled on... --- 启用时间...
+Disabled on... --- 禁用时间...
+New Route... --- 新建路由...
+Application Id --- 应用 ID
+Destination Realm --- 目标域
+Origin Realm --- 源域
+Peers --- 对等
+Peer Selection Mode --- 对等选择模式
+Ratio --- 比率
+Sequential --- 后续
+Request URI --- 请求 URI
+From URI --- 来自 URI
+To URI --- 至 URI
+Peer Selection Mode --- 对等选择模式
+Ratio --- 比率
+Sequential --- 后续
+Peers --- 对等
+New Route... --- 新建路由...
+Delete this Route --- 删除此路由
+Connection Mode --- 连接模式
+Per Blade --- 按叶片
+Per Peer --- 按对等设备
+Per TMM --- 按 TMM
+Pool --- 池
+Transport Config --- 传输配置
+Number of Connections --- 连接数
+Ratio --- 比率
+New Peer... --- 新建对等...
+Delete this Peer --- 删除此对等
+Auto-Initialization Enabled --- 已启用自动初始化
+Auto-Initialization Interval --- 自动初始化时间间隔
+Source Port --- 源端口
+New Transport Config... --- 新建传输配置...
+Delete this Transport Config --- 删除此传输配置
+Accept RCODE --- 接受 RCODE
+Adaptive --- 自适应
+Allowed Divergence --- 允许的分歧
+Adaptive Limit --- 自适应限制
+Sampling Timespan --- 采样时间间隔
+Absolute --- 绝对
+Relative --- 相对
+Additional Accepted Status Codes --- 其他已接受的状态码
+Additional Rejected Status Codes --- 其他已拒绝的状态码
+Alias Address --- 别名地址
+Alias Service --- 别名服务
+Alias Service Port --- 别名服务端口
+Answer Section Contains --- 应答部分包含
+Any Type --- 任意类型
+Arguments --- 参数
+Base --- 基础库
+Check Until Up --- 检查直至运行
+Command --- 命令
+Compatibility --- 兼容性
+Connection String --- 连接字符串
+Count --- 计数
+CPU Coefficient --- CPU 系数
+CPU Threshold --- CPU 阈值
+Debug --- 调试
+Failure Interval --- 故障间隔
+MQTT Version --- MQTT 版本
+Delete this monitor: --- 删除此监测器：
+Disk Coefficient --- 磁盘系数
+Disk Threshold --- 磁盘阈值
+External Program --- 外部程序
+Filename --- 文件名
+Filter --- 筛选器
+FirePass --- FirePass
+Import Settings --- 导入设置
+Monitor Instance Disabled --- 已禁用监测器实例
+Interval --- 间隔
+LDAP --- LDAP
+Chase Referrals --- Chase 转介
+Method --- 方法
+Mode --- 模式
+New Custom Monitor... --- 新建自定义监测器...
+New Monitor... --- 新建监测器...
+Newsgroup --- 新闻组
+No Error --- 无错误
+Path / Filename --- 路径/文件名
+Parent Monitor --- 父级监测器
+Pool Members --- 池成员
+Post --- 发表
+Query Name --- 查询名
+Query Type --- 查询类型
+Receive Column --- 接收列
+Receive Disable --- 接收禁用
+Receive Row --- 接收行
+Receive Disable String --- 接收禁用字符串
+Receive String --- 接收字符串
+Related --- 相关
+Reverse --- 反向
+RPC --- RPC
+Secret --- 密钥
+Security --- 安全
+Send String --- 发送字符串
+SOAP --- SOAP
+SMB --- SMB
+Status Code --- 状态码
+Status Code: --- 状态码：
+Transparent --- 透明
+Use Default --- 使用默认值
+Header: --- 头：
+Variables --- 变量
+URL Path --- URL 路径
+SOAP Action --- SOAP 操作
+Namespace --- 名称空间
+Parameter Name --- 参数名
+Parameter Value --- 参数值
+Parameter Type --- 参数类型
+Program Number --- 程序编号
+Return Type --- 返回类型
+Return Value --- 返回值
+Expect Fault --- 预期故障
+Accounting Node --- 计费节点
+Accounting Port --- 计费端口
+Server ID --- 服务器 ID
+Call ID --- 调用 ID
+Session ID --- 会话 ID
+Framed Address --- 构建地址
+WAP --- WAP
+Mandatory Attributes --- 必填属性
+File Name --- 文件名
+GWM Address --- GWM 地址
+GWM Primary Address --- GWM 主要地址
+GWM Secondary Address --- GWM 次要地址
+GWM Service Port --- GWM 服务端口
+GWM Interval --- GWM 间隔
+Automatic --- 自动
+SASP --- SASP
+Manual Resume --- 手动恢复
+Version Number --- 版本号
+SMB/CIFS Server --- SMB/CIFS 服务器
+Service Name --- 服务名称
+Origin Host --- 源主机
+Origin Realm --- 源域
+Vendor ID --- 供应商 ID
+Product Name --- 产品名称
+Auth Application ID --- 认证应用 ID
+Acct Application ID --- 计费应用 ID
+Vendor Specific Vendor ID --- 供应商特定供应商 ID
+Vendor Specific Application ID --- 供应商特定应用 ID
+Vendor Specific Auth Application ID --- 供应商特定认证应用 ID
+Vendor Specific Acct Application ID --- 供应商特定计费应用 ID
+External --- 外部
+MQTT --- MQTT
+FTP --- FTP
+POP3 --- POP3
+MSSQL --- MSSQL
+MySQL --- MySQL
+IMAP --- IMAP
+Inband --- 带内
+WMI --- WMI
+Real Server --- 真实服务器
+Oracle --- Oracle
+PostgreSQL --- PostgreSQL
+Module Score --- 模块分数
+Virtual Location --- 虚拟位置
+Integer Records --- 整数记录
+String Records --- 字符串记录
+Address Records --- 地址记录
+(External File) --- （外部文件）
+Path / Filename --- 路径/文件名
+Maximum Records --- 最大记录数
+Access Mode --- 访问模式
+Invalid Type Selected --- 所选类型无效
+No Type Included In Form --- 表单中未包含类型
+Key / Value Pair Separator --- 密钥/值对分隔符
+Delete Record --- 删除记录
+Delete Data Group --- 删除数据组
+Action On Service Down --- 服务关闭时的操作
+Active Member Count --- 活跃成员数
+Add / Edit Member --- 添加/编辑成员
+Allow NAT --- 允许 NAT
+Allow SNAT --- 允许 SNAT
+Available Member(s) --- 可用成员
+Availability Requirement --- 可用性需求
+Clone Pool --- 复制池
+Clone Pool (Server) --- 复制池（服务器）
+Cookie Name --- Cookie 名称
+Current Members --- 当前成员
+Fallback Host --- 回退主机
+Forwarding --- 正在转发
+Header Erase --- 头清除
+Header Insert --- 头插入
+Health Monitor(s) --- 健康监测器
+Last Hop Pool --- 上一跳跃池
+Less than... --- 少于...
+Link QoS --- 链接 QoS
+Link QoS to Server --- 将 QoS 链接至服务器
+Ignore Persisted Weight --- 忽略保持的权重
+Minimum Active Members --- 最少活跃成员数
+Node Select Expression --- 节点选择表达式
+Persistent Connections --- 持久连接
+Pool --- 池
+Pool Forwarding --- 池转发
+Pool References --- 池首选项
+Pool Type --- 池类型
+Priority Group Activation --- 优先级组激活
+Priority Load Balancing --- 优先级负载均衡
+Slow Ramp Time --- 慢速负载增加时间
+SNAT Pool --- SNAT 池
+Sticky Connections --- 紧密连接
+Reselect Tries --- 重新选择尝试次数
+None --- 无
+Non-dedicated --- 非专用
+Dedicated --- 专用
+Shared --- 共享
+Invalid --- 无效
+Apply new state to all pool member instances --- 将新状态应用至所有池成员实例
+Connection Limit --- 连接限制
+Inherit From Pool --- 从池继承
+Member Properties --- 成员属性
+Member Specific --- 成员特定
+New Connections --- 新连接
+New Members --- 新成员
+No members to display. --- 没有要显示的成员。
+New Pool Members... --- 新建池成员...
+New Sessions --- 新会话
+Parent Node --- 父节点
+Pool Member --- 池成员
+Monitor Logging --- 监测器日志记录
+Interval --- 间隔
+Down Interval --- 关闭时间间隔
+Address Type --- 地址类型
+Auto Populate --- 自动填充
+Enabled (All traffic allowed) --- 已启用（允许所有流量）
+Current Connections --- 当前连接数
+Default Node Monitor --- 默认节点监测器
+New Node --- 新节点
+New FQDN Node --- 新 FQDN 节点
+New Node... --- 新建节点...
+Node Default --- 节点默认值
+Node Specific --- 节点特定值
+Forced Offline (Only active connections allowed) --- 强制脱机（仅允许活跃连接）
+Disabled (Only persistent or active connections allowed) --- 已禁用（仅允许持久或活跃连接）
+Monitor Logging --- 监测器日志记录
+Cookie Hash --- Cookie 散列
+Hash... --- 散列...
+Hash Source --- 散列源
+URI --- URI
+Hash Algorithm --- 散列算法
+Default --- 默认
+Hash Offset --- 散列偏移
+Hash Length --- 散列长度
+Hash Buffer Limit --- 散列缓冲限制
+Hash Start Pattern --- 散列开始模式
+Hash End Pattern --- 散列结束模式
+Hash Settings... --- 散列设置...
+Host --- 主机
+Destination Address Affinity --- 目标地址关联
+Expression --- 表达式
+Simple --- 简单
+Source Address Affinity --- 源地址关联
+Auth-Application-Id --- Auth-Application-Id
+Destination-Host --- Destination-Host
+Destination-Realm --- Destination-Realm
+To Server --- 至服务器
+Origin Host --- 源主机
+Origin Realm --- 源域
+Origin-Host --- Origin-Host
+Origin-Realm --- Origin-Realm
+Session-Id --- Session-Id
+Persist Attribute --- 持久属性
+Grouped/Parent Attribute --- 分组/父级属性
+Handshake Timeout --- 握手超时
+Watchdog Timeout --- 看门狗超时
+Maximum Watchdog Failure --- 最多看门狗故障次数
+Reset on Timeout --- 超时时重置
+Retransmit Timeout --- 重新传输超时
+Maximum Retransmit Attempts --- 最大重新传输尝试次数
+Connection Prime --- 初始连接
+Capabilities Handshake --- 功能握手
+Extended Accounting Application IDs --- 已扩展计费应用 ID
+Accounting Application ID --- 计费应用 ID
+Discard Unroutable Messages --- 放弃不可路由的消息
+Handshake Timeout --- 握手超时
+Maximum Message Size --- 最大消息大小
+Maximum Retransmissions --- 最大重新传输数量
+Maximum Watchdog Failures --- 最多看门狗故障次数
+Origin Host --- 源主机
+Origin Realm --- 源域
+Persist AVP --- 持久 AVP
+Persist Timeout --- 持久超时
+Persist Type --- 持久类型
+AVP --- AVP
+Custom --- 自定义
+None --- 无
+Product Name --- 产品名称
+Reset on Timeout --- 超时时重置
+Retransmission Timeout --- 重新传输超时
+Route Unconfigured Peers --- 路由未配置对等
+Subscriber Aware --- 了解订阅服务器
+Vendor Id --- 供应商 ID
+Vendor Specific Accounting Application Id --- 供应商特定计费应用 ID
+Vendor Specific Vendor Id --- 供应商特定供应商 ID
+Watchdog Timeout --- 看门狗超时
+Answers --- 应答
+Requests --- 请求
+Accounting --- 计费
+Bad Messages --- 错误消息
+Capability Exchange --- 功能交换
+Credit Control --- 信控
+Disconnect Peer --- 断开对等设备连接
+User Authorization --- 用户授权
+Unconfigured Peers Rejected --- 已拒绝未配置的对等设备
+Ignore Peer Port --- 忽略对等端口
+Maximum Pending Messages --- 最大待处理消息数
+Maximum Pending Bytes --- 最大待处理字节数
+Use Local Connection --- 使用本地连接
+Maximum Connection Retries --- 最大连接重试数
+Connection Retry Interval --- 连接重试间隔
+Transaction Timeout --- 事务超时
+HA Message Sweeper Interval --- HA 消息清理程序间隔
+Inherit traffic group from current partition / path --- 从当前分区/路径继承流量组
+Traffic Group --- 流量组
+Connection Mirroring --- 连接镜像
+Maximum Retries --- 最大重试数
+In --- 入
+In Resubmitted for Retry --- 传入已重新提交以重试
+Out --- 出
+Failed Not Deliverable to Originator --- 失败，原因是无法交付至发起方
+Routed --- 已路由
+Unroutable --- 无法路由
+Dropped --- 已丢弃
+Failed Full Queue --- 全队列失败
+Failed Connection Dropped --- 由于连接已丢弃而失败
+Failed Closed Connection --- 由于连接已关闭而失败
+Failed Internal Error --- 由于内部错误而失败
+Failed Persist Key in Use --- 由于持久密钥正在使用而失败
+Dropped on Standby --- 备用状态时丢弃
+Maximum Retries Exceeded --- 已超出最大重试数
+Cloned --- 已复制
+Current Incoming Connections --- 当前传入连接数
+Current Outgoing Connections --- 当前传出连接数
+Current Automatically Initialized Connections --- 当前自动初始化连接数
+Incoming Connections --- 传入连接数
+Outgoing Connections --- 传出连接数
+Automatically Initialized Outgoing Connections --- 自动初始化传出连接数
+Failed Outgoing Connections --- 失败的传出连接数
+Failed Automatically Initialized Outgoing Connections --- 失败的自动初始化传出连接数
+Ingress Maximum --- 最大入口数
+Signalling Ingress --- 信令入口
+Signalling Egress --- 信令出口
+G-PDU Ingress --- G-PDU 入口
+G-PDU Egress --- G-PDU 出口
+Prime Ingress --- 初始入口
+Prime Egress --- 初始出口
+Version 1 Ingress --- 版本 1 入口
+Version 2 Ingress --- 版本 2 入口
+G-PDU payload bytes --- G-PDU 有效负载字节
+Signalling Ingress bytes --- 信令入口字节
+Signalling Egress bytes --- 信令出口字节
+Connections --- 连接
+iRule Discards --- iRule 放弃
+Failed Validation --- 验证失败
+Ingress Overflow --- 入口溢出
+Egress Overflow --- 出口溢出
+Failed Internal --- 内部失败
+Ingress --- 入口
+Egress --- 出口
+Report Log Publisher --- 报告日志发布程序
+Message Log Publisher --- 消息日志发布程序
+Error Action --- 错误操作
+Don't Forward --- 不转发
+Drop Connection --- 丢弃连接
+Quick Parsing --- 快速分析
+Response Parsing --- 响应分析
+Fully Parse Logon Message --- 完整分析登录消息
+Sender and Tag Substitution Data Group Mapping --- 发送方和标记替换数据组映射
+Sender: --- 发送方：
+Data Group: --- 数据组：
+Current Connections --- 当前连接数
+Number Messages --- 数字消息
+Total Message Size --- 总计消息大小
+Number Messages Last Interval --- 数字消息上一间隔
+URI --- URI
+Preview Length --- 预览长度
+Header From --- 头来自
+Host --- 主机
+Referer --- 转介方
+Plugin --- 插件
+Plugin Channel --- 插件渠道
+Connection Failures --- 连接故障
+Connections --- 连接
+Internal Virtual Name --- 内部虚拟名称
+Preview Size --- 预览大小
+Timeout (ms) --- 超时（毫秒）
+Enabled --- 已启用
+Service Down Action --- 服务停机操作
+Ignore --- 忽略
+Reset --- 重置
+Drop --- 丢弃
+Internal Virtual Name --- 内部虚拟名称
+Preview Size --- 预览大小
+Timeout (ms) --- 超时（毫秒）
+Enabled --- 已启用
+Service Down Action --- 服务停机操作
+Persist Attribute --- 持久属性
+Subscriber Aware --- 了解订阅服务器
+Subscriber Discovery --- 订阅服务器发现
+Subscriber ID Type --- 订阅服务器 ID 类型
+3GPP IMSI --- 3GPP IMSI
+Calling Station ID --- 呼叫站 ID
+User Name --- 用户名
+Request Settings --- 请求设置
+Template --- 模板
+Pool Name --- 池名称
+Error Pool Name --- 池名称错误
+Respond On Error --- 响应错误
+Error Response --- 错误响应
+Close On Error --- 因错误关闭
+Log Logging Errors --- 日志记录错误
+Error Template --- 错误模板
+Response Settings --- 响应设置
+Response Logging --- 响应日志记录
+Log By Default --- 按默认值记录
+STARTTLS Activation Mode --- STARTTLS 激活模式
+Require --- 需要
+SYN Challenge Handling --- SYN 挑战处理
+SYN Cookie MSS --- SYN Cookie MSS
+Nominal --- 名义
+Challenge and Remember --- 挑战和记住
+Disable Challenges --- 禁用挑战
+Blocked Commands --- 已阻止的命令
+Connections Failed --- 连接失败
+STARTTLS Activation Mode --- STARTTLS 激活模式
+Require --- 需要
+Blocked Commands --- 已阻止的命令
+Template --- 模板
+Activation Modes --- 激活模式
+App Service --- 应用服务
+Connection Idle Timeout --- 连接空闲超时
+Receive Window --- 接收窗口
+Frame Size --- 帧大小
+Write Size --- 写入大小
+Header Table Size --- 头表格大小
+Insert Header --- 插入头
+Insert Header Name --- 插入头名称
+Always --- 总是
+ALPN --- ALPN
+Enforce TLS Requirements --- 强制 TLS 要求
+Template --- 模板
+App Service --- 应用服务
+Masking --- 屏蔽
+Preserve --- 保留
+Unmask --- 取消屏蔽
+Remask --- 重新屏蔽
+Selective --- 选择性
+Template --- 模板
+App Service --- 应用服务
+Peer Port --- 对等端口
+New SplitSession Server Profile... --- 新建 SplitSession 服务器概要文件...
+Template --- 模板
+App Service --- 应用服务
+SplitSession Server Profile --- SplitSession 服务器概要文件
+SplitSession Server --- SplitSession 服务器
+SplitSession Server --- SplitSession 服务器
+Peer Information --- 对等信息
+Out-of-band Connections --- 带外连接
+Active --- 活跃
+Timed-out --- 超时
+Reset --- 重置
+Messages Sent --- 消息已发送
+Messages Received --- 消息已收到
+Template --- 模板
+Selected Versions --- 所选版本
+Accepted --- 已接受
+Denied --- 已拒绝
+Select Versions... --- 选择版本...
+All Versions Enabled --- 所有版本已启用
+Default Connect Handling --- 默认连接处理
+Route Domain --- 路由域
+Tunnel Name --- 通道名称
+New Netflow Profile... --- 新建 Netflow 概要文件...
+Version 5 --- 版本 5
+Version 9 --- 版本 9
+Either versions --- 其中某个版本
+Source --- 源
+Target --- 目标
+Chunking --- 分块
+Chunk Size --- 区块大小
+Cleanup On Service Down --- 服务关闭时清理
+Reset On Service Down --- 服务关闭时重置
+Reset On Timeout --- 超时时重置
+Time Wait Recycle --- 回收等待时间
+Delayed Acks --- 已延迟 Ack
+Path MTU Discovery --- 路径 MTU 发现
+Proxy Maximum Segment --- 代理最大片段
+Proxy Buffer Low --- 代理缓冲较低
+Proxy Buffer High --- 代理缓冲较高
+Idle Timeout --- 空闲超时
+Minimum RTO --- 最小 RTO
+Time Wait --- 等待时间
+Fin Wait 1 --- Fin Wait 1
+Fin Wait 2 --- Fin Wait 2
+Close Wait --- 关闭等待
+Send Buffer --- 发送缓冲
+Receive Window --- 接收窗口
+Keep Alive Interval --- 保持活跃时间间隔
+Maximum Syn Retransmissions --- 最大同步重新传输数量
+Maximum Segment Retransmissions --- 最大分段重新传输数量
+Selective ACKs --- 选择性 ACK
+Selective NACK --- 选择性 NACK
+Explicit Congestion Notification --- 显式拥塞通知
+Limited Transmit Recovery --- 受限传输恢复
+Early Retransmit --- 早期重新传输
+Tail Loss Probe --- 跟踪丢失探测
+Slow Start --- 缓慢开始
+Deferred Accept --- 已推迟的接受
+Nagle's Algorithm --- Nagle 算法
+Acknowledge on Push --- 确认推送
+MD5 Signature --- MD5 签名
+MD5 Signature Passphrase --- MD5 签名通行短语
+Congestion Control --- 拥塞控制
+Congestion Metrics Cache --- 拥塞指标缓存
+Congestion Metrics Cache Timeout --- 拥塞指标缓存超时
+CAIA Delay-Gradient (CDG) --- CAIA 梯度延时 (CDG)
+CAIA Hamilton Delay (CHD) --- CAIA Hamilton 延时 (CHD)
+CUBIC --- CUBIC
+High Speed --- 高速
+Illinois --- Illinois
+New Reno --- New Reno
+Reno --- Reno
+Scalable --- 可扩展
+Vegas --- Vegas
+Woodside --- Woodside
+Westwood+ --- Westwood+
+Appropriate Byte Counting (RFC 3465) --- 适当的字节计数 (RFC 3465)
+D-SACK (RFC 2883) --- D-SACK (RFC 2883)
+packet count --- 数据包计数
+Packet Loss Ignore Burst --- 数据包丢失忽略突发
+Packet Loss Ignore Rate --- 数据包丢失忽略率
+packets lost per million --- 每百万丢失的数据包
+Zero Window Timeout --- 0 窗口超时
+Initial Congestion Window Size --- 初始拥塞窗口大小
+Initial Receive Window Size --- 初始接收窗口大小
+Delay Window Control --- 延迟窗口控制
+Max Segment Size (MSS) --- 最大片段大小 (MSS)
+MSS units --- MSS 单元
+Rate Pace --- 速率平稳
+Rate Pace Maximum Rate --- 速率平稳最大速率
+reset --- 重置
+retransmit --- 重新传输
+active-accept --- 活跃-接受
+accept --- 接受
+Fast Open --- Fast Open
+Fast Open Cookie Expiration --- Fast Open Cookie 到期
+Retransmit Threshold --- 重新传输阈值
+Passive --- 被动
+Passthrough --- 通过
+Don't Fragment Flag (DF) --- 不要碎片化标记 (DF)
+Time To Live (TTL) --- 存活时间 (TTL)
+Time To Live (TTL) v4 --- 存活时间 (TTL) v4
+Time To Live (TTL) v6 --- 存活时间 (TTL) v6
+Pmtu --- Pmtu
+Proxy --- 代理
+Preserve --- 保留
+Set --- 设置
+Clear --- 清除
+Decrement --- 减量
+Auto Proxy Buffer --- 自动代理缓冲
+Auto Receive Window --- 自动接收窗口
+Auto Send Buffer --- 自动发送缓冲
+Enhanced Loss Recovery --- 增强型丢失恢复
+PUSH Flag --- 推送标记
+Default --- 默认
+None --- 无
+One --- 一个
+Auto --- 自动
+Idle Timeout --- 空闲超时
+Datagram LB --- 数据报 LB
+Allow No Payload --- 允许无有效负载
+TTL Mode --- TTL 模式
+Don't Fragment Mode --- 不要碎片化模式
+Proxy --- 代理
+Preserve --- 保留
+Decrement --- 减量
+PMTU --- PMTU
+Set --- 设置
+Max Buffer Bytes --- 最大缓冲字节数
+Max Buffer Packets --- 最大缓冲数据包数
+Send Buffer --- 发送缓冲
+Load Balancing Mode --- 负载均衡模式
+Connect --- 连接
+New MQTT Profile... --- 新建 MQTT 概要文件...
+Idle Timeout --- 空闲超时
+New TCE Profile... --- 新建 TCE 概要文件...
+Show Summary --- 显示摘要
+Show Map --- 显示映射
+Update Summary --- 更新摘要
+Update Map --- 更新映射
+Any Status --- 任意状态
+All Types --- 所有类型
+Parent Node --- 父节点
+Link --- 链接
+Load Balancing --- 负载均衡
+Resource --- 资源
+Resource Type --- 资源类型
+L2 Forwarding --- L2 转发
+Reject --- 拒绝
+Resources --- 资源
+Standard --- 标准
+Forwarding (Layer 2) --- 转发（第 2 层）
+Stateless --- 无状态
+Internal --- 内部
+Pool --- 池
+Destination --- 目标
+Source Port --- 源端口
+Preserve --- 保留
+Preserve Strict --- 保留严格
+Change --- 更改
+DHCP Relay --- DHCP 中继
+DHCP --- DHCP
+Notify Status to Virtual Address --- 将状态通知给虚拟地址
+Default Pool --- 默认池
+Transparent Nexthop --- 透明下一跳
+Syncookie Status --- Syncookie 状态
+Software Syncookie Only --- 仅限软件 Syncookie
+Full Hardware --- 全部硬件
+Session Profile --- 会话概要文件
+Router Profile --- 路由器概要文件
+Immediate Action On Service Down --- 服务关闭时的实时操作
+Lease Query Only --- 仅限租赁查询
+Lease Query Max Retry --- 租赁查询最大重试次数
+DHCP Lease Query --- DHCP 租赁查询
+ADFS Proxy --- ADFS 代理
+Trust Certificate: --- 信任证书：
+Username: --- 用户名：
+Password: --- 密码：
+Certificate Name: --- 证书名称：
+Establish Trust --- 建立信任
+Reestablish Trust --- 重新建立信任
+Always --- 总是
+Availability Calculation --- 可用性计算
+Disabled --- 已禁用
+Advertise Route --- 通告路由
+Always --- 总是
+Unit ID --- 单元 ID
+Selective --- 选择性
+Disabled --- 已禁用
+Enabled --- 已启用
+Always --- 总是
+Any --- 任意
+All --- 全部
+New iRule... --- 新建 iRule...
+Event Type --- 事件类型
+Name --- 名称
+Mode --- 模式
+Parent Profile --- 父级概要文件
+Delete this profile: --- 删除此概要文件：
+Enabled --- 已启用
+Disabled --- 已禁用
+Auto --- 自动
+Link QoS --- 链接 QoS
+Profile Type --- 概要文件类型
+Profile Scope --- 概要文件范围
+New Profile... --- 新建概要文件...
+Profile Components --- 概要文件组件
+Export Profile --- 导出概要文件
+Import Profile --- 导入概要文件
+Copy Profile --- 复制概要文件
+Select Profile --- 选择概要文件
+Application Tunnel Compression Settings --- 应用通道压缩设置
+Accept XFF --- 接受 XFF
+XFF Alternative Names --- XFF 其他名称
+Append --- 附录
+1 - Least Compression (Fastest) --- 1 - 最小压缩（最快）
+6 - Optimal Compression --- 6 - 理想压缩
+9 - Most Compression (Slowest) --- 9 - 最大压缩（最慢）
+Basic Auth Mode --- 基础认证模式
+Basic Auth Realm --- 基础认证域
+Compression --- 压缩
+Compression Buffer Size --- 压缩缓冲大小
+Dechunk Responses --- 解块响应
+Rechunk Buffer Size --- 重新分块缓冲大小
+Request Chunking --- 请求分块
+Response Chunking --- 响应分块
+Request Header Erase --- 请求头清除
+Fallback Host --- 回退主机
+Fallback on Error Codes --- 错误码回退
+Request Header Insert --- 请求头插入
+Response Headers Allowed --- 允许响应头
+URI Compression --- URI 压缩
+Vary Header --- 多样化头
+Unchunk --- 取消分块
+Rechunk --- 重新分块
+Chunk --- 区块
+Preserve --- 保留
+Selective --- 选择性
+Selective Compression --- 选择性压缩
+Maximum Header Count --- 最大头计数
+Maximum Header Size --- 最大头大小
+Insert X-Forwarded-For --- 插入 X-Forwarded-For
+LWS Maximum Columns --- LWS 最大列数
+LWS Separator --- LWS 分隔符
+Keep Accept Encoding --- 继续接受编码
+Maximum Requests --- 最大请求数
+CPU Saver --- CPU 节省程序
+CPU Saver High Threshold --- CPU 节省程序高阈值
+CPU Saver Low Threshold --- CPU 节省程序低阈值
+Cache Settings --- 缓存设置
+Maximum Cache Size --- 最大缓存大小
+Minimum Object Size --- 最小对象大小
+Maximum Object Size --- 最大对象大小
+Maximum Entries --- 最大条目数
+Maximum Age --- 最长周期
+URI Pinning --- URI 固定
+URI Caching --- URI 缓存
+Ignore Headers --- 忽略头
+Cache-Control: max-age --- 缓存控制：max-age
+Insert Age Header --- 插入周期头
+Aging Rate --- 周期比率
+Preferred Method --- 优选方法
+Deflate --- Deflate
+Encrypt Cookies --- 加密 Cookie
+Cookie Encryption Passphrase --- Cookie 加密通行短语
+Confirm Cookie Encryption Passphrase --- 确认 Cookie 加密通行短语
+Send Proxy Via Header In Request --- 通过请求中的头发送代理
+Send Proxy Via Header In Response --- 通过响应中的头发送代理
+Send Proxy Via Header Host Name --- 通过头主机名发送代理
+Proxy Mode --- 代理模式
+Reverse --- 反向
+Explicit --- 显式
+Transparent --- 透明
+Allow Truncated Redirect --- 允许截断重定向
+Transparent Proxy --- 透明代理
+Enforcement --- 强制实施
+Oversize Server Headers --- 超大服务器头
+Excess Server Headers --- 多余的服务器头
+Pass Through --- 通过
+Reject --- 拒绝
+Pass Through --- 通过
+Serialize --- 序列化
+Unknown Method --- 未知方法
+Allow --- 允许
+Reject --- 拒绝
+Pass Through --- 通过
+Known Methods --- 已知方法
+Explicit Proxy --- 显式代理
+Route Domain --- 路由域
+Tunnel Name --- 通道名称
+Default Connect Handling --- 默认连接处理
+Host Names --- 主机名
+Connection Failed Message --- 连接失败消息
+Bad Request Message --- 错误请求消息
+Bad Response Message --- 错误响应消息
+Include Subdomains --- 包含子域
+Preload --- 预加载
+HSTS --- HSTS
+Add user defined method --- 添加用户定义的方法
+Enabled Methods: --- 已启用方法：
+Default State --- 默认状态
+Idle Timeout --- 空闲超时
+New FTP Profile... --- 新建 FTP 概要文件...
+Translate Extended --- 转换已扩展
+Inherit Parent Profile --- 继承父级概要文件
+Data Port --- 数据端口
+Allow FTPS --- 允许 FTPS
+New TFTP Profile... --- 新建 TFTP 概要文件...
+Idle Timeout --- 空闲超时
+Idle Timeout --- 空闲超时
+Pending IKE Connection Limit --- 待定 IKE 连接限制
+Initial Connection Timeout --- 初始连接超时
+Maximum Size (Bytes) --- 最大大小（字节）
+Terminate on BYE --- 于 BYE 终止
+Dialog Aware --- 了解对话
+Community --- 社区
+Insert Via Header --- 通过头插入
+User Via --- 用户通过
+Secure Via Header --- 通过头保护
+Insert Record-Route Header --- 插入记录/路由头
+RTP Proxy Style --- RTP 代理样式
+Dialog Establishment Timeout --- 对话建立超时
+Registration Timeout --- 注册超时
+Maximum Media Sessions --- 最大媒体会话数
+Maximum Sessions Per Registration --- 每注册的最大会话数
+Maximum Registrations --- 最大注册数
+Symmetric --- 对称
+Any Location --- 任意位置
+Operation Mode --- 操作模式
+Load Balancing --- 负载均衡
+Registration --- 注册
+Maximum Registrations --- 最大注册数
+Maximum Registrations Per Subscriber --- 按订阅服务器最大注册数
+Concurrent Sessions Per Subscriber --- 按订阅服务器并行会话数
+Non Register Subscriber Callout --- 非注册订阅服务器调出
+Registration Timeout (seconds) --- 注册超时（秒）
+Dialog Establishment Timeout --- 对话建立超时
+Media Proxy --- 媒体代理
+Maximum Media Sessions --- 最大媒体会话数
+Media Inactivity Timeout (seconds) --- 媒体不活动超时（秒）
+Session Timeout (seconds) --- 会话超时（秒）
+Session Timeout (seconds) --- 会话超时（秒）
+Maximum Session Timeout --- 最大会话超时
+Transaction Timeout --- 事务超时
+Use Local Connection --- 使用本地连接
+Maximum Pending Messages --- 最大待处理消息数
+Maximum Pending Bytes --- 最大待处理字节数
+Mirrored Message Sweeper Interval --- 镜像消息清理程序间隔
+Inherit traffic group from current partition / path --- 从当前分区/路径继承流量组
+Traffic Group --- 流量组
+Connection Mirroring --- 连接镜像
+In --- 入
+In Resubmitted for Retry --- 传入已重新提交以重试
+Out --- 出
+Failed Not Deliverable to Originator --- 失败，原因是无法交付至发起方
+Routed --- 已路由
+Unroutable --- 无法路由
+Dropped --- 已丢弃
+Failed Full Queue --- 全队列失败
+Failed Connection Dropped --- 由于连接已丢弃而失败
+Failed Closed Connection --- 由于连接已关闭而失败
+Failed Internal Error --- 由于内部错误而失败
+Failed Persist Key in Use --- 由于持久密钥正在使用而失败
+Dropped By Standby --- 按备用状态丢弃
+Maximum Retries Exceeded --- 已超出最大重试数
+Failed Exceeded Max Retries --- 由于超出最大重试次数而失败
+Cloned --- 已复制
+Current Incoming Connections --- 当前传入连接数
+Current Outgoing Connections --- 当前传出连接数
+Current Auto-Initialized Outgoing Connections --- 当前自动初始化传出连接数
+Total Incoming Connections --- 传入连接总数
+Total Outgoing Connections --- 传出连接总数
+Total Auto-Initialized Outgoing Connections --- 自动初始化传出连接总数
+Total Failed Outgoing Connections --- 失败的传出连接总数
+Total Failed Auto-Initialized Outgoing Connections --- 失败的自动初始化传出连接总数
+Current Pending Calls --- 当前待处理呼叫数
+Current Active Calls --- 当前活跃呼叫数
+Current Successful Calls --- 当前成功呼叫数
+Total Rejected Calls --- 已拒绝呼叫总数
+Total Cancelled Calls --- 已取消呼叫总数
+Total Active Registrations --- 活跃注册总数
+Rejected Registrations --- 已拒绝的注册数
+Current Passthru Connections --- 当前通过连接数
+Passthru Connections Established --- 已建立的通过连接数
+Total Failed Passthru Connections --- 失败的通过连接总数
+Total Passthru Bytes --- 通过字节总数
+Session --- 会话
+Maximum Forwards Check --- 最大转发检查
+Loop Detection --- 循环检测
+Loop Detection Mode --- 循环检测模式
+Loose --- 宽松
+Strict --- 严格
+Maximum Message Size (bytes) --- 最大消息大小（字节）
+Maximum Message Header Count --- 最大消息头计数
+Maximum Message Header Size (bytes) --- 最大消息头大小（字节）
+Generate Response on Failure --- 失败时生成响应
+Insert Via Header --- 通过头插入
+Maintenance Mode --- 维护模式
+Custom Via --- 自定义方式
+Honor Via --- 奖励方式
+Block Registration Caching --- 数据块注册缓存
+Do Not Connect Back --- 不要连接
+Insert Record Route Header --- 插入记录路由头
+Passthru Mode --- 通过模式
+Persist Key --- 持久密钥
+Call-ID --- 调用 ID
+Src-Addr --- 源地址
+Custom --- 自定义
+Persist Type --- 持久类型
+Session --- 会话
+None --- 无
+Persist Timeout (seconds) --- 持久超时（秒）
+Requests --- 请求
+Responses --- 响应
+Messages Accepted --- 消息已接受
+Messages Rejected --- 消息已拒绝
+Messages Dropped --- 消息已丢弃
+INVITE --- INVITE
+ACK --- ACK
+BYE --- BYE
+CANCEL --- CANCEL
+REGISTER --- REGISTER
+PRACK --- PRACK
+SUBSCRIBE --- SUBSCRIBE
+NOTIFY --- NOTIFY
+PUBLISH --- PUBLISH
+INFO --- INFO
+REFER --- REFER
+MESSAGE --- MESSAGE
+UPDATE --- UPDATE
+SERVICE --- SERVICE
+BENOTIFY --- BENOTIFY
+1xx - Provisional --- 1xx - 配置
+2xx - Successful --- 2xx - 成功
+3xx - Redirection --- 3xx - 重定向
+5xx - Server-Failures --- 5xx - 服务器故障
+6xx - Global-Failures --- 6xx - 全局故障
+Sent --- 已发送
+Not Sent --- 未发送
+Total --- 总计
+400 - Bad Request --- 400 - 错误请求
+404 - Not Found --- 404 - 找不到
+413 - Request Entity Too Large --- 413 - 请求实体太大
+480 - Temporarily Unavailable --- 480 - 暂时不可用
+481 - Transaction Does Not Exist --- 481 - 事务不存在
+482 - Loop Detected --- 482 - 检测到循环
+483 - Too Many Hops --- 483 - 跳数太多
+484 - Address Incomplete --- 484 - 地址不完整
+488 - Not Acceptable Here --- 488 - 此处不可接受
+500 - Server Internal Error --- 500 - 服务器内部错误
+501 - Not Implemented --- 501 - 未实施
+503 - Service Unavailable --- 503 - 服务不可用
+Peer --- 对等
+New Route... --- 新建路由...
+New MQTT Router Profile... --- 新建 MQTT 路由器概要文件...
+Maximum Pending Messages --- 最大待处理消息数
+Maximum Pending Bytes --- 最大待处理字节数
+Maximum Payload Pending Bytes --- 最大有效负载待处理字节数
+Maximum Retries --- 最大重试数
+Static Route --- 静态路由
+Use Local Connection --- 使用本地连接
+In --- 入
+In Resubmitted for Retry --- 传入已重新提交以重试
+Out --- 出
+Failed Not Deliverable to Originator --- 失败，原因是无法交付至发起方
+Routed --- 已路由
+Unroutable --- 无法路由
+Dropped --- 已丢弃
+Failed Full Queue --- 全队列失败
+Failed Connection Dropped --- 由于连接已丢弃而失败
+Failed Closed Connection --- 由于连接已关闭而失败
+Failed Internal Error --- 由于内部错误而失败
+Failed Persist Key in Use --- 由于持久密钥正在使用而失败
+Dropped By Standby --- 按备用状态丢弃
+Maximum Retries Exceeded --- 已超出最大重试数
+Payload Bytes In --- 有效负载接收字节
+Payload Bytes Out --- 有效负载发出字节
+Current Incoming Connections --- 当前传入连接数
+Current Outgoing Connections --- 当前传出连接数
+Current Auto-Intialized Outgoing Connections --- 当前自动初始化传出连接数
+Total Incoming Connections --- 传入连接总数
+Total Outgoing Connections --- 传出连接总数
+Total Auto-Initialized Outgoing Connections --- 自动初始化传出连接总数
+Total Failed Outgoing Connections --- 失败的传出连接总数
+Total Failed Auto-Initialized Outgoing Connections --- 失败的自动初始化传出连接总数
+Session --- 会话
+New MQTT Session Profile... --- 新建 MQTT 会话概要文件...
+Keepalive Interval --- 保持连接间隔
+Peered Session Mode --- 对等会话模式
+Ignore --- 忽略
+Send-Local-Copy --- 发送本地副本
+Send-Remote-Copy --- 发送远程副本
+Server Will Handling Mode --- 服务器意向处理模式
+Ignore --- 忽略
+Connections Accepted --- 已接受的连接数
+Current Connections --- 当前连接数
+Connections Dropped --- 已丢弃的连接数
+Maximum Connections --- 最大连接数
+Received Messages --- 已收到的消息数
+Sent Messages --- 已发送的消息数
+CONNECT --- CONNECT
+CONNACK --- CONNACK
+PUBLISH --- PUBLISH
+PUBACK --- PUBACK
+PUBREC --- PUBREC
+PUBREL --- PUBREL
+PUBCOMP --- PUBCOMP
+SUBSCRIBE --- SUBSCRIBE
+SUBACK --- SUBACK
+UNSUBSCRIBE --- UNSUBSCRIBE
+UNSUBACK --- UNSUBACK
+PINGREQ --- PINGREQ
+PINGRESP --- PINGRESP
+DISCONNECT --- DISCONNECT
+Idle Timeout --- 空闲超时
+Maximum Header Size --- 最大头大小
+Maximum Queued Data --- 最大排队数据
+Multicast Redirect --- 多播重定向
+Unicast Redirect --- 单播重定向
+Session Reconnect --- 会话重新连接
+Proxy --- 代理
+Proxy Header --- 代理头
+RTP Port --- RTP 端口
+Check Source --- 检查源
+Security --- 安全
+Namespace --- 名称空间
+XPath --- XPath
+XPath Queries --- XPath 查询
+Disabled --- 已禁用
+v6 Only --- 仅 v6
+v4 Only --- 仅 v4
+Any --- 任意
+Disabled --- 已禁用
+Secondary --- 次要
+Immediate --- 立即
+v4 Only --- 仅 v4
+Zone Transfer --- 区域传输
+Forwards --- 转发
+Global Traffic Management --- 全局流量管理
+Hints --- 提示
+Logging --- 日志记录
+Logging Profile --- 日志记录概要文件
+No Errors --- 无错误
+Process Recursion Desired --- 需要处理递归
+Rejects --- 拒绝
+Notifies --- 通知
+Hardware Requests --- 硬件请求
+Hardware Responses --- 硬件响应
+Total Requests --- 请求总数
+Total Responses --- 响应总数
+Unhandled Query Actions --- 未处理的查询操作
+Resource Records --- 资源记录
+Total --- 总计
+Reset on Timeout --- 超时时重置
+Idle Timeout --- 空闲超时
+Maximum Segment Size Override --- 最大片段大小覆盖
+Server Close Timeout --- 服务器关闭超时
+Maximum Pool Size --- 最大池大小
+Minimum Pool Size --- 最小池大小
+Ramp-Up Increment --- 加速增量
+Maximum Reuse --- 最大复用
+Unclean Shutdown --- 未正常关机
+Parse Requests --- 分析请求
+Replenish --- 补充
+Server Sack --- 服务器 SACK
+Server Window Scale --- 服务器窗口调整
+Server Timestamp --- 服务器时间戳
+DSR Mode --- DSR 模式
+DSR Close Timeout --- DSR 关闭超时
+Idle Timeout --- 空闲超时
+Time Wait Timeout --- 时间等待超时
+Match Comments --- 匹配注释
+Cookie --- Cookie
+Cookie Hash --- Cookie 散列
+Cookie Method --- Cookie 方法
+Node Select Expression --- 节点选择表达式
+Cookie Name --- Cookie 名称
+Secure Attribute --- 安全属性
+Always Send Cookie --- 总是发送 Cookie
+Destination Address Affinity --- 目标地址关联
+Expression --- 表达式
+Hash --- 散列
+Host --- 主机
+Microsoft® Remote Desktop --- Microsoft® 远程桌面
+Simple --- 简单
+Source Address Affinity --- 源地址关联
+Never expire --- 从不过期
+Session Cookie --- 会话 Cookie
+Has Session Broker --- 具有会话代理
+Universal --- 通用
+Map Proxies --- 映射代理
+Override Connection Limit --- 覆盖连接限制
+Cookie Encryption Use Policy --- Cookie 加密使用策略
+Encryption Passphrase --- 加密通行短语
+Confirm Encryption Passphrase --- 确认加密通行短语
+Default Cookie Encrypt Pool-Name --- 默认 Cookie 加密池名称
+Methodology --- 方法论
+Preset --- 预设
+Application Detection --- 应用检测
+Log Unclassified Domain --- 日志未分类域
+URL Categorization --- URL 分类
+iRule Event --- iRule 事件
+Log Publisher --- 日志发布程序
+AVR Stat Collect --- AVR 统计信息收集
+AVR Log Publisher --- AVR 日志发布程序
+Bypass on Handshake Alert --- 绕过握手警报
+OCSP --- OCSP
+Mode --- 模式
+F5 recommends that you not use the COMPAT keyword. --- F5 建议您不使用 COMPAT 关键字。
+Certificate Key Chain --- 证书密钥链
+Fast Flow --- 快速流
+Renegotiation --- 重新协商
+Renegotiate Period --- 重新协商期限
+Renegotiate Size --- 重新协商大小
+Unclean Shutdown --- 未正常关机
+Strict Resume --- 严格恢复
+Session Ticket --- 会话票证
+Session Mirroring --- 会话镜像
+Generic Alert --- 通用警报
+Key --- 密钥
+Certificate --- 证书
+Chain --- 链
+Trusted Certificate Authorities --- 受信证书授权中心
+Allow Expired CRL --- 允许过期的 CRL
+Frequency --- 频率
+Certificate Chain Traversal Depth --- 证书链遍历深度
+Update CRL --- 更新 CRL
+always --- 总是
+auto --- 自动
+ignore --- 忽略
+once --- 一次
+request --- 请求
+require --- 需要
+require... --- 需要...
+Max Active Handshakes --- 最大活跃握手
+Alert Timeout --- 警报超时
+Cache Size --- 缓存大小
+Cache Timeout --- 缓存超时
+Confirm Pass Phrase --- 确认通行短语
+Handshake Timeout --- 握手超时
+Indefinite --- 不确定
+Pass Phrase --- 通行短语
+Passphrase --- 通行短语
+No TLSv1 --- 无 TLSv1
+No TLSv1.1 --- 无 TLSv1.1
+No TLSv1.2 --- 无 TLSv1.2
+No TLSv1.3 --- 无 TLSv1.3
+No TLS --- 无 TLS
+No DTLS --- 无 DTLS
+Single DH use --- 使用单个 DH
+Ephemeral RSA --- 极短 RSA
+Passive close --- 消极关闭
+Don't insert empty fragments --- 请勿插入空白片段
+No session resumption on renegotiation --- 重新协商时没有会话恢复
+Microsoft® session ID bug --- Microsoft® 会话 ID 缺陷
+Netscape® challenge bug workaround --- Netscape® 挑战缺陷解决方法
+sessions --- 会话
+TLS D5 bug workaround --- TLS D5 缺陷解决方法
+TLS block padding bug workaround --- TLS 数据块填充缺陷解决方法
+TLS rollback bug workaround --- TLS 回滚缺陷解决方法
+Netscape® CA DN bug workaround --- Netscape® CA DN 缺陷解决方法
+PKCS1 check 1 --- PKCS1 选中 1
+PKCS1 check 2 --- PKCS1 选中 2
+Update CRL --- 更新 CRL
+Secure Renegotiation --- 安全重新协商
+Request --- 请求
+Require --- 需要
+Require Strict --- 需要严格
+Server Name --- 服务器名称
+Retain Certificate --- 保留证书
+ANY --- ANY
+SHA1 --- SHA1
+SHA256 --- SHA256
+SHA384 --- SHA384
+Certificate Extensions --- 证书扩展
+All Extensions Disabled --- 所有扩展已禁用
+Authority Key Identifier --- 授权中心密钥标识符
+Basic Constraints --- 基本限制
+CRL Distribution Points --- CRL 分配点
+Extended Key Usage --- 已扩展的密钥用途
+Fresh CRL (a.k.a. Delta CRL Distribution Point) --- 全新 CRL（又名增量 CRL 分配点）
+Issuer Alternative Name --- 颁发者备用名称
+Key Usage --- 密钥用途
+Subject Alternative Name --- 使用者备用名称
+Subject Directory Attributes --- 使用者目录属性
+Subject Key Identifier --- 使用者密钥标识符
+Invalid custom extension, only numbers with dots are allowed. --- 自定义扩展无效，仅允许带有句点的数字。
+Custom extension --- 自定义扩展
+CA Certificate --- CA 证书
+CA Key --- CA 密钥
+CA Passphrase --- CA 通行短语
+Confirm CA Passphrase --- 确认 CA 通行短语
+Certificate Lifespan --- 证书生命期
+Cache Certificate by Addr-Port --- 按地址端口的缓存证书
+Certificate Extension Includes... --- 证书扩展包含...
+TLS Feature (Must Staple) --- TLS 功能（必须装订）
+Renegotiate Max Record Delay --- 重新协商最大记录延迟
+records --- 记录
+Advertised Certificate Authorities --- 公布的证书授权中心
+Allow Dynamic Record Sizing --- 允许动态记录大小
+Maximum Record Size --- 最大记录大小
+Bypass Default Action --- 绕过默认操作
+Bypass --- 绕过
+Intercept --- 截获
+Hostname Bypass --- 主机名绕过
+Hostname Intercept --- 主机名截获
+Peer No-renegotiate Timeout --- 对等非重新协商超时
+Max Renegotiations --- 最大重新协商数
+Max Aggregate Renegotiation --- 最大聚合重新协商数
+per minute --- 每分钟
+Session Ticket Timeout --- 会话票证超时
+Unknown OCSP Response Control --- 未知 OCSP 响应控制
+Server Certificate --- 服务器证书
+Authenticate Name --- 认证名称
+Expire Certificate Response Control --- 过期证书响应控制
+Untrusted Certificate Response Control --- 未受信证书响应控制
+drop --- 丢弃
+ignore --- 忽略
+CA Certificate --- CA 证书
+CA Key --- CA 密钥
+CA Passphrase --- CA 通行短语
+Confirm CA Passphrase --- 确认 CA 通行短语
+Certificate Lifespan --- 证书生命期
+Delete this OCSP: %0? --- 删除此 OCSP：%0？
+New OCSP... --- 新建 OCSP...
+Use Proxy Server --- 使用代理服务器
+Proxy Server Pool --- 代理服务器池
+Trusted Certficate Authorities --- 受信证书授权中心
+Trusted Responders --- 受信响应者
+Responder URL --- 响应者 URL
+Certificate --- 证书
+Key --- 密钥
+Passphrase --- 通行短语
+Hash Algorithm --- 散列算法
+Timeout --- 超时
+Clock Skew --- 时钟偏差
+Status Age --- 状态周期
+Timeout --- 超时
+Error Timeout --- 错误超时
+Strict Responder Certificate Checking --- 严格响应者证书检查
+SHA1 --- SHA1
+SHA256 --- SHA256
+Connection --- 连接
+Route Domain --- 路由域
+Concurrent Connections Limit --- 并行连接限制
+Response Validation --- 响应验证
+Response Caching --- 响应缓存
+Request Signing --- 请求签署
+Rule Creation --- 规则创建
+DH Groups --- DH 群组
+Signature Algorithms --- 签名算法
+Groups --- 群组
+Group Creation --- 群组创建
+Group Details --- 群组详细信息
+Cryptographic Parameters --- 加密参数
+Allow the following: --- 允许以下项：
+Default --- 默认
+Speed --- 速度
+Strength --- 强度
+Hardware --- 硬件
+Order --- 顺序
+Idle Timeout --- 空闲超时
+LDAP --- LDAP
+Mode --- 模式
+TACACS+ --- TACACS+
+Kerberos Delegation --- Kerberos 委派
+New OCSP Responder... --- 新建 OCSP 响应者...
+OCSP Responder --- OCSP 响应者
+Rule --- 规则
+CRLDP --- CRLDP
+CRLDP Server --- CRLDP 服务器
+Cookie Name --- Cookie 名称
+Cookie Key --- Cookie 密钥
+Bind DN --- 连结 DN
+Bind Password --- 连结密码
+Bind Time Limit --- 连结时间限制
+Confirm Bind Password --- 确认连结密码
+Debug Logging --- 调试日志记录
+LDAP Version --- LDAP 版本
+Service Port --- 服务端口
+Remote LDAP Tree --- 远程 LDAP 树
+Warning Logging --- 警告日志记录
+Filter --- 筛选器
+Login Attribute --- 登录属性
+Check Host Attribute --- 检查主机属性
+Group DN --- 群组 DN
+Group Member Attribute --- 群组成员属性
+Disabled --- 已禁用
+Enabled --- 已启用
+Start TLS --- 启动 TLS
+Admin DN --- 管理员 DN
+Admin Password --- 管理员密码
+Confirm Admin Password --- 确认管理员密码
+Cache Size --- 缓存大小
+Cache Timeout --- 缓存超时
+Certificate Map Base DN --- 证书映射基本 DN
+Certificate Map Key --- 证书映射密钥
+Group Base DN --- 群组基本 DN
+Group Key --- 群组密钥
+Group Member Key --- 群组成员密钥
+Object Class --- 对象类
+On Failure Reject --- 失败时拒绝
+On Failure Username --- 失败时的用户名
+Secure --- 安全
+Set Auth Header --- 设置认证头
+Set Remote User Header --- 设置远程用户头
+User Base DN --- 用户基本 DN
+Use Serial Certificate Map --- 使用序列证书映射
+User Key --- 用户密钥
+Valid Groups --- 有效群组
+Role Key --- 角色密钥
+Valid Roles --- 有效角色
+Certificate --- 证书
+Certificate Map --- 证书映射
+User --- 用户
+Debug Logging --- 调试日志记录
+Accounting Bug --- 计费缺陷
+Retries --- 重试
+Secret --- 密钥
+Host --- 主机
+Service Port --- 服务端口
+Confirm Secret --- 确认密钥
+Timeout --- 超时
+Delete this OCSP responder: %0? --- 删除此 OCSP 响应者：%0？
+URL --- URL
+Certificate Authority File --- 证书授权中心文件
+Certificate Authority Path --- 证书授权中心路径
+VA File --- VA 文件
+Signer --- 签署者
+Signing Key --- 签名密钥
+Validity Period --- 有效期限
+Status Age --- 状态周期
+Ignore AIA --- 忽略 AIA
+Allow Certificates --- 允许证书
+Verify --- 验证
+Intern --- 暂存
+Verify Signature --- 验证签名
+Verify Certificate --- 验证证书
+Certificate Chain --- 证书链
+Check Certificates --- 检查证书
+Explicit OCSP --- 显式 OCSP
+Responders --- 响应者
+Nonce --- Nonce
+Accounting Information --- 计费信息
+Send to all servers --- 发送至所有服务器
+Send to first available server --- 发送至第一个可用的服务器
+Authenticate to first server --- 向第一个服务器认证
+Authenticate to each server until success --- 向每个服务器认证，直至成功
+Servers --- 服务器
+Confirm Secret --- 确认密钥
+Encryption --- 加密
+Secret --- 密钥
+Service Name --- 服务名称
+Debug Logging --- 调试日志记录
+Debug Logging --- 调试日志记录
+New CRLDP Server... --- 新建 CRLDP 服务器...
+Base DN --- 基本 DN
+Reverse DN --- 反向 DN
+Are you sure you want to remove this CRLDP Server? --- 确定要移除此 CRLDP 服务器？
+Connection Timeout --- 连接超时
+Update Interval --- 更新时间间隔
+Cache Timeout --- 缓存超时
+Use Issuer --- 使用颁发者
+Field 1 --- 字段 1
+Field 2 --- 字段 2
+Field 3 --- 字段 3
+Field 4 --- 字段 4
+Field 5 --- 字段 5
+Field 6 --- 字段 6
+Field 7 --- 字段 7
+Field 8 --- 字段 8
+Field 9 --- 字段 9
+Field 10 --- 字段 10
+Field 11 --- 字段 11
+Field 12 --- 字段 12
+Field 13 --- 字段 13
+Field 14 --- 字段 14
+Field 15 --- 字段 15
+Field 16 --- 字段 16
+Field 17 --- 字段 17
+Field 18 --- 字段 18
+Field 19 --- 字段 19
+Field 20 --- 字段 20
+Field 21 --- 字段 21
+Field 22 --- 字段 22
+Field 23 --- 字段 23
+Field 24 --- 字段 24
+Field 25 --- 字段 25
+Field 26 --- 字段 26
+Field 27 --- 字段 27
+Field 28 --- 字段 28
+Field 29 --- 字段 29
+Field 30 --- 字段 30
+Field 31 --- 字段 31
+Field 32 --- 字段 32
+Receive Ordered --- 接收已排序
+Send Partial --- 发送部分
+Reset on Timeout --- 超时时重置
+Send Buffer --- 发送缓冲
+Receive Window --- 接收窗口
+Transmit Chunks --- 传输组块
+Receive Chunks --- 接收组块
+Cookie Expiration --- Cookie 过期
+Maximum Initial Retransmit Limit --- 最大初始重新传输限制
+Maximum Association Retransmit Limit --- 最大关联重新传输限制
+Proxy Buffer Low --- 代理缓冲较低
+Proxy Buffer High --- 代理缓冲较高
+Idle Timeout --- 空闲超时
+Heartbeat Interval --- 检测信号时间间隔
+Send Burst Maximum --- 发送突发最大量
+Heartbeat Burst Maximum --- 检测信号突发最大量
+Link QoS to Peer --- 将 QoS 链接至对等机
+Secret --- 密钥
+Maximum Communication Paths --- 最大通信路径
+Maximum Path Retransmission Limit --- 最大路径重新传输限制
+Server Side Multi-homing --- 服务器端多宿主
+Destination Address --- 目标地址
+Secondary Addresses --- 次要地址
+Discover Exchange Servers --- 发现交换服务器
+Native Compression --- 本地压缩
+New MAPI Profile... --- 新建 MAPI 概要文件...
+New CIFS Profile... --- 新建 CIFS 概要文件...
+Data Optimizations --- 数据优化
+Write Behind --- 延迟写
+Read Ahead --- 预读取
+Record and Replay --- 记录与回放
+Office 2003 Extended --- Office 2003 已扩展
+Metadata Cache --- 元数据缓存
+Directory Information --- 目录信息
+NT Error Information --- NT 错误信息
+File Information --- 文件信息
+Path Information --- 路径信息
+Fast Close --- 快速关闭
+Fast Set File Information --- 快速设置文件信息
+Mode --- 模式
+Compression Settings --- 压缩设置
+Compression --- 压缩
+Adaptive --- 自适应
+Deflate --- Deflate
+Deflate Level --- Deflate 级别
+Null --- Null
+LZO --- LZO
+Deduplication --- 删除重复
+Port Transparency --- 端口透明
+Reuse Connection --- 复用连接
+Target Virtual --- 目标虚拟
+Peer Pool --- 对等池
+none --- 无
+host match all --- 主机匹配全部
+match all --- 全部匹配
+Publisher Name --- 发布程序名称
+Analytics --- 分析
+<b>Note:</b> Changes you make might take up to 10 minutes to be reflected in the charts. --- <b>注意：</b>您所作出的更改可能需要 10 分钟后才会体现在图表中。
+<b>Warning:</b> The Application Visibility and Reporting (AVR) module is not provisioned. --- <b>警告：</b>应用可视性和报告 (AVR) 模块尚未配置。
+Assigning an Analytics profile is not recommended. --- 不推荐分配分析概要文件。
+Schedule Reports --- 计划报告
+MAP-T Profile --- MAP-T 概要文件
+MAP-T --- MAP-T
+New MAP-T Profile... --- 新建 MAP-T 概要文件...
+Embedded Address Bits Length --- 嵌入式地址位长度
+Port Offset --- 端口偏移
+CIFS --- CIFS
+CIFS Profile --- CIFS 概要文件
+MAPI --- MAPI
+MAPI Profile --- MAPI 概要文件
+MQTT --- MQTT
+MQTT Router --- MQTT 路由器
+MQTT Session --- MQTT 会话
+MQTT Profile --- MQTT 概要文件
+3.1 --- 3.1
+3.1.1 --- 3.1.1
+TDR Profile --- TDR 概要文件
+TDR --- TDR
+Tunnel Profile --- 通道概要文件
+WOC-Plugin Profile --- WOC 插件概要文件
+SRDF --- SRDF
+SRDF Profile --- SRDF 概要文件
+Throttled Messages --- 已限制的消息
+Are you sure you want to do this? --- 确定要执行此操作？
+Are you sure you want to do this? --- 确定要执行此操作？
+Maintenance Mode --- 维护模式
+Maximum Entries --- 最大条目数
+Maximum Node Idle Time --- 最大节点空闲时间
+Maximum TTL --- 最大 TTL
+Minimum TTL --- 最小 TTL
+Management of Destination Address Entries --- 目标地址条目管理
+Path MTU Discovery --- 路径 MTU 发现
+Proxy Address Data Group --- 代理地址数据组
+Reaper High-water Mark --- 收割者高水位线
+Reaper Low-water Mark --- 收割者低水位线
+Reject Unmatched Packets --- 拒绝不匹配的数据包
+SYN Check&trade; --- SYN Check&trade;
+Activation Threshold --- 激活阈值
+Route Lookup Timeout --- 路由查找超时
+Maximum Pending Packets --- 最大待处理数据包数
+Maximum Multicast Rate --- 最大多播率
+Global SYN Check&trade; --- 全局 SYN Check&trade;
+Threshold --- 阈值
+Threshold --- 阈值
+Action --- 操作
+Always accept... --- 总是接受...
+Bandwidth Controller --- 带宽控制器
+Build Expression --- 构建表达式
+Change Filter Order... --- 更改筛选顺序...
+Change Order... --- 更改顺序...
+Expression Builder --- 表达式构建器
+Destination Port --- 目标端口
+Destination Port: --- 目标端口：
+Down --- 向下
+Enter Expression Text --- 输入表达式文本
+Exemptions --- 豁免
+Filter bridge traffic --- 筛选网桥流量
+Filter Expression --- 筛选表达式
+Filter Expression Method --- 筛选表达式方法
+Filter established connections --- 筛选已建立连接
+First --- 第一个
+Last --- 上一个
+Logging --- 日志记录
+MAC Addresses --- MAC 地址
+Order --- 顺序
+Rate Class --- 速率等级
+Reset --- 重置
+Unhandled Packet Action --- 未处理的数据包操作
+Up --- 向上
+Are you sure you want to proceed? --- 确定要继续？
+Accept --- 接受
+Reject --- 拒绝
+Discard --- 放弃
+Continue --- 继续
+After... --- 之后...
+First --- 第一个
+Last --- 上一个
+BWC Policy Name --- BWC 策略名称
+BWC Policy Category --- BWC 策略类别
+Categories --- 类别
+Category Name --- 类别名称
+Category Name: --- 类别名称：
+Dynamic --- 动态
+L2 Marking (802.1p) --- L2 标记 (802.1p)
+Max Category Rate --- 最大类别速率
+Max Category Rate: --- 最大类别速率：
+Maximum Rate --- 最大速率
+Maximum Rate (Kbps) --- 最大速率 (Kbps)
+Maximum User Rate PPS --- 最大用户速率 PPS
+Max Rate pps (Kpps) --- 最大速率 pps (Kpps)
+Maximum Rate (%) --- 最大速率 (%)
+Maximum Rate Per User --- 各用户最大速率
+L2 Marking (802.1p) --- L2 标记 (802.1p)
+Max Rate (Kbps) --- 最大速率 (Kbps)
+New Bandwidth Controller Policy... --- 新建带宽控制器策略...
+New BWC Category... --- 新建 BWC 类别...
+Policy Properties --- 策略属性
+Dynamic Properties --- 动态属性
+Measure --- 度量
+Log Period --- 日志期限
+Log Publisher --- 日志发布程序
+Priorities --- 优先级
+Default Priority Class --- 默认优先级等级
+Max Rate Pps Units --- 最大速率 pps 单位
+Priority Classes --- 优先级等级
+Priority Class --- 优先级等级
+Weight % --- 权重 %
+New Priority Group... --- 新建优先级组...
+Priority Group --- 优先级组
+Rate(Kbps) --- 速率 (Kbps)
+Rate --- 速率
+Ceiling --- 上限
+Base (Kbps) --- 基础 (Kbps)
+Base Rate --- 基础速率
+Burst Size --- 突发大小
+Burst Size (bytes) --- 突发大小（字节）
+Ceiling (Kbps) --- 上限 (Kbps)
+Ceiling Rate --- 上限速率
+Delete this rate class: %0? --- 删除此速率等级：%0？
+New Rate Class... --- 新建速率等级...
+Parent --- 父级
+Parent Class --- 父级类
+Direction --- 方向
+Any --- 任意
+Server --- 服务器
+Stochastic Fair Queue --- 随机公平队列
+Priority FIFO --- 优先级 FIFO
+Cache Size --- 缓存大小
+Cache Timeout --- 缓存超时
+Append --- 附录
+Archive --- 存档
+Archive... --- 存档...
+Archive File --- 存档文件
+Archive File Name --- 存档文件名
+Archive Certificates and Keys --- 存档证书和密钥
+Available Certificates --- 可用证书
+Available Keys --- 可用密钥
+Bundle (%0) --- 捆绑包 (%0)
+Certificate --- 证书
+Certificates --- 证书
+Certificate Bundle --- 证书捆绑包
+Certificate count: --- 证书数量：
+%0&#10;&#13; --- %0&#10;&#13;
+Expired: --- 过期时间：
+%1&#10;&#13; --- %1&#10;&#13;
+Valid less than 30 days: %2&#10;&#13; --- 有效期不足 30 天：%2&#10;&#13;
+Valid more than 30 days: %3 --- 有效期超过 30 天：%3
+Certificate and Key --- 证书和密钥
+Select Existing Certificate and Key --- 选择现有证书和密钥
+Public Key Type --- 公共密钥类型
+Certificate & Key --- 证书和密钥
+DSA Certificate & Key --- DSA 证书和密钥
+DSA Certificate --- DSA 证书
+DSA Key --- DSA 密钥
+DSA --- DSA
+EC Certificate & Key --- EC 证书和密钥
+EC Certificate --- EC 证书
+EC Key --- EC 密钥
+EC --- EC
+Curve Name --- 曲线名称
+RSA Certificate & Key --- RSA 证书和密钥
+RSA Certificate --- RSA 证书
+RSA Key --- RSA 密钥
+RSA --- RSA
+Certificate Authority --- 证书授权中心
+Certificate Authorities --- 证书授权中心
+Certificate Export --- 证书导出
+Certificate File --- 证书文件
+Certificate Issuer --- 证书颁发者
+Certificate Key File --- 证书密钥文件
+Clicking OK will overwrite the following certificates and keys: --- 单击“确认”将覆盖以下证书和密钥：
+Cannot overwrite default file(s): --- 无法覆盖默认文件：
+Certificate Subject(s) --- 证书使用者
+Certificate Signing Request Subject(s) --- 证书签名请求使用者
+Certificate Properties --- 证书属性
+Certificate Properties --- 证书属性
+Certificate Signing Request Attributes --- 证书签名请求属性
+Certificates To Archive --- 要存档的证书
+Certificates To Import --- 要导入的证书
+Certificate Signing Request --- 证书签名请求
+Are you sure you want to delete Certificate Signing Request \'%0\'? --- 确定要删除证书签名请求“%0\”吗？
+Certificate Text --- 证书文本
+Certificate %0 is in use by %1. --- 证书 %0 已由 %1 使用。
+Certificate Name --- 证书名称
+Certificate and Key Name --- 证书和密钥名称
+Certificate and Key Source --- 证书和密钥源
+Certificate and Key must belong to same folder --- 证书和密钥必须归属于同一文件夹
+Key Name --- 密钥名称
+Key Label --- 密钥标签
+Key Source --- 密钥源
+Certificate Source --- 证书源
+Challenge Password --- 挑战密码
+Confirm Password --- 确认密码
+Common Name --- 常用名
+Common Name: --- 常用名：
+Country --- 国家/地区
+Country: --- 国家/地区：
+IdenTrust --- IdenTrust
+Division --- 分支
+Division: --- 分支：
+Download --- 下载
+E-mail Address --- 电子邮箱地址
+E-mail Address: --- 电子邮箱地址：
+Entrust --- 委托
+Expiration --- 过期
+Expiration: --- 过期：
+Expired --- 已过期
+Expires --- 过期
+Export --- 导出
+Export Type --- 导出类型
+Excluded Certificates --- 已排除证书
+Excluded Keys --- 已排除密钥
+File --- 文件
+Upload File --- 上传文件
+New --- 新建
+Overwrite Existing --- 覆盖现有
+From NetHSM --- 从 NetHSM
+Key Security --- 密钥安全性
+Generate & Download Archive --- 生成并下载存档
+GlobalSign --- GlobalSign
+Import --- 导入
+Import Method --- 导入方法
+Import Source --- 导入源
+Forward Proxy Certificate/Key Source --- 正向代理证书/密钥源
+Import Type --- 导入类型
+Invalid - Expired --- 无效 - 已过期
+Issuer --- 颁发者
+Lifetime --- 生命期
+Locality --- 区域
+Locality: --- 区域：
+Key --- 密钥
+Key %0 is in use by %1. --- 密钥 %0 已由 %1 使用。
+Key Export --- 密钥导出
+Key File --- 密钥文件
+Key Password --- 密钥密码
+Key Properties --- 密钥属性
+Administrator E-mail Address --- 管理员电子邮箱地址
+Key Security --- 密钥安全性
+It is strongly recommended that you use a certificate with a key size of at least 2048 bits. --- 强烈建议您使用密钥大小至少 2048 位的证书。
+Key Text --- 密钥文本
+Key Type --- 密钥类型
+Keys To Archive --- 要存档的密钥
+Keys To Import --- 要导入的密钥
+Name --- 名称
+NetHSM --- NetHSM
+No certificate --- 无证书
+No Certificate Signing Request --- 无证书签名请求
+No certificate (private key only) --- 无证书（仅限专用密钥）
+Normal --- 正常
+Organization --- 组织
+Organization: --- 组织：
+Organizational Unit --- 组织单元
+Overwrite existing certificate file --- 覆盖现有证书文件
+Overwrite existing key --- 覆盖现有密钥
+Overwrite existing certificate --- 覆盖现有证书
+Password --- 密码
+Paste String --- 粘贴字符串
+PKCS 12 (IIS) --- PKCS 12 (IIS)
+Public Key --- 公共密钥
+Public Key Size --- 公共密钥大小
+Public Key Curve Name --- 公共密钥曲线名称
+Request File --- 请求文件
+Request Text --- 请求文本
+Retype Password --- 重新输入密码
+Replace --- 替换
+Security Type --- 安全类型
+Key ID --- 密钥 ID
+Self --- 自身
+Serial Number --- 序列号
+Fingerprint --- 指纹
+Size --- 大小
+State Or Province --- 州或省
+State Or Province: --- 州或省：
+Status --- 状态
+Email --- 电子邮件
+Subject --- 使用者
+Subject Alternative Name --- 使用者备用名称
+Text --- 文本
+Paste Text --- 粘贴文本
+Upload Archive File --- 上传存档文件
+Upload Certificate File --- 上传证书文件
+Upload Key File --- 上传密钥文件
+Valid --- 有效
+Valid - Expires --- 有效 - 过期
+Expires in %0 days --- 将于 %0 日内过期
+VeriSign --- VeriSign
+Version --- 版本
+Warning --- 警告
+Bad password. --- 错误密码。
+Invalid certificate common name. --- 无效的证书常用名。
+Certificate common names may contain the following characters: *[A-Za-z][0-9].-, be 1-63 characters long, and begin and end with a letter or number. --- 证书常用名可能包含以下字符：*[A-Za-z][0-9].-，包含 1-63 个字符，以字母或数字开头和结尾。
+Invalid certificate name. --- 无效证书名称。
+Certificate names must start with the following characters: [A-Za-z][0-9]()*+,-:;<=>?@[]^_|~. --- 证书名称必须以以下字符开始：[A-Za-z][0-9]()*+,-:;<=>?@[]^_|~.
+Invalid Subject Alternative Name. --- 无效使用者备用名称。
+Key management library returned bad status --- 密钥管理库返回错误状态
+Error importing file. --- 导入文件时出错。
+Cannot create/renew certificate outside of current partition. --- 无法在当前分区以外创建/续订证书。
+Name must start with '%0' --- 名称必须以“%0”开始
+Import Failed: --- 导入失败：
+Major problem with certificate import. --- 证书导入出现重大问题。
+Please see the log file. --- 请查看日志文件。
+Certificate not found. --- 找不到证书。
+Web Server Certificate --- Web 服务器证书
+CRL Name cannot contain '/' --- CRL 服务器不能包含“/”
+Name cannot contain '\' --- 名称不能包含“\”
+Subject Alternative Name must be less than 4095 characters. --- 使用者备用名称的字符必须少于 4095 个。
+Update Interval --- 更新时间间隔
+Update Now --- 马上更新
+Bundle Managers --- 捆绑包管理程序
+New Bundle Manager... --- 新建捆绑包管理程序...
+Proxy Server --- 代理服务器
+Trusted CA-Bundle --- 受信 CA 捆绑包
+Include Bundles --- 包含捆绑包
+Include URLs --- 包含 URL
+Exclude Bundles --- 排除捆绑包
+Exclude URLs --- 排除 URL
+Proxy Server --- 代理服务器
+Proxy Server Port --- 代理服务器端口
+Download Timeout --- 下载超时
+Monitoring Properties --- 监控属性
+Monitoring Type --- 监控类型
+OCSP --- OCSP
+Issuer Certificate --- 颁发者证书
+OCSP --- OCSP
+Status --- 状态
+Update Status Monitoring --- 更新状态监控
+This cannot be None. --- 该值不能为无。
+Certificate status is good. --- 证书状态良好。
+Certificate status monitoring is not allowed. --- 不允许证书状态监控。
+Status monitoring is not enabled or Status is not yet available. --- 状态监控未启用或状态尚不可用。
+Failed to fetch or validate the OCSP response. --- 无法获取或验证 OCSP 响应。
+Certificate is revoked. --- 证书已撤销。
+Certificate status is unknown. --- 证书状态未知。
+OCSP Connection Error: --- OCSP 连接错误：
+Timed out. --- 超时。
+Unknown. --- 未知。
+OCSP Response Error: --- OCSP 响应错误：
+Illegal confirmation request. --- 不合法确认请求。
+Internal error in issuer. --- 颁发者内部错误。
+Must sign the request. --- 必须签署此请求。
+Try again later. --- 稍后重试。
+Request unauthorized. --- 请求未授权。
+OCSP Response Validation Error: --- OCSP 响应验证错误：
+Failed to parse the OCSP response. --- 无法分析 OCSP 响应。
+Failed to validate the certificate OCSP response with the issuer/trusted responder certificates. --- 无法向颁发者/受信响应者证书验证证书 OCSP 响应。
+Response validity does not fall in the acceptable time range. --- 响应有效性不在可接受的时间范围内。
+Failed to validate the OCSP response due to unknown reason. --- 由于未知原因，验证 OCSP 响应失败。
+OCSP Status: Unknown. --- OCSP 状态：未知。
+OCSP Status: Status is not yet available. --- OCSP 状态：状态尚不可用。
+Delete OCSP Cache... --- 删除 OCSP 缓存...
+Confirm Delete OCSP cache? --- 确认删除 OCSP 缓存？
+Are you sure you want to delete this certificate\'s OCSP cache: %0? --- 确定要删除此证书的 OCSP 缓存：%0？
+Algorithm --- 算法
+Connection --- 连接
+TSIG --- TSIG
+Server Key --- 服务器密钥
+Nameservers --- 名称服务器
+Nameserver --- 名称服务器
+HMAC MD5 --- HMAC MD5
+HMAC SHA-1 --- HMAC SHA-1
+HMAC SHA-256 --- HMAC SHA-256
+New Nameserver... --- 新建名称服务器...
+Verify Notify TSIG --- 验证通知 TSIG
+Notify Action --- 通知操作
+Allow NOTIFY From --- 允许通知源
+Target --- 目标
+TSIG Key --- TSIG 密钥
+Zone --- 区域
+Queries --- 查询
+Responses --- 响应
+Notifies Received --- 通知已收到
+Serial --- 序列
+Refresh --- 刷新
+Retry --- 重试
+Expire --- 过期
+Zone Transfers --- 区域传输
+AXFR Queries --- AXFR 查询
+IXFR Queries --- IXFR 查询
+Notify Failures --- 通知失败
+ACL Failures --- ACL 失败
+Format Error --- 格式错误
+ZoneTransfers : TSIG Key --- 区域传输：TSIG 密钥
+No TSIG --- 无 TSIG
+TSIG Missing --- TSIG 丢失
+Verified --- 已验证
+Bad Key --- 密钥错误
+Bad Signature --- 签名错误
+Bad Time --- 时间错误
+Route Domain --- 路由域
+Queries --- 查询
+Responses --- 响应
+Notifies --- 通知
+Notify Failed --- 通知失败
+10 seconds --- 10 秒
+20 seconds --- 20 秒
+30 seconds --- 30 秒
+180 seconds --- 180 秒
+300 seconds --- 300 秒
+3 minutes --- 3 分钟
+5 minutes --- 5 分钟
+5 Minute Avg. --- 平均 5 分钟
+5 Second Avg. --- 平均 5 秒
+1 Minute Avg. --- 平均 1 分钟
+5 Min. --- 5 分钟
+5 Sec. --- 5 秒
+1 Min. --- 1 分钟
+10 minutes --- 10 分钟
+60 seconds --- 60 秒
+Analytics --- 分析
+Auto Refresh --- 自动刷新
+Auto Refresh: --- 自动刷新：
+Average Transactions Per Second --- 每秒平均事务数
+Bad Messages --- 错误消息
+Bits In --- 接收位数
+Bits Out --- 发出位数
+Bits In / sec --- 接收位数/秒
+Bits Out / sec --- 发出位数/秒
+Bytes In --- 接收字节数
+Bytes Out --- 发出字节数
+Bytes In / sec --- 接收字节数/秒
+Bytes Out / sec --- 发出字节数/秒
+Checksum Invalid --- 检查和无效
+Checksum invalid packets --- 检查和无效数据包
+Closed connections --- 已关闭连接
+Closed flows --- 已关闭流
+Collisions --- 冲突
+CPU Utilization Avg. --- CPU 平均利用率
+ASM CPU Utilization Avg. --- ASM CPU 平均利用率
+Connection limit reached (virtual address) --- 已达到连接限制（虚拟地址）
+Connection timeouts --- 连接超时
+Active Connections --- 活跃连接数
+Active Conn. --- 活跃连接数
+/ sec --- /秒
+Current Connections --- 当前连接数
+Records In --- 接收记录
+Records Out --- 发出记录
+Records Sent For Adaptation --- 已发出用于适配的记录
+Records Adapted --- 适配记录
+Timeout Errors --- 超时错误
+Adaptation Errors --- 适配错误
+Current Connections --- 当前连接数
+Current Conn. --- 当前连接数
+/ sec --- /秒
+Current Assisted Connections --- 当前辅助连接
+Accounting Charging --- 计费收费
+Capabilities Exchange --- 功能交换
+Credit Control --- 信控
+Disconnect Peer --- 断开对等设备连接
+User Authorization --- 用户授权
+Disabled --- 已禁用
+Documents with one match --- 具有一个匹配项的文档
+Documents with two matches --- 具有两个匹配项的文档
+Documents with three and more matches --- 具有三个及以上匹配项的文档
+Documents with no matches --- 无匹配项的文档
+Download Requests --- 下载请求
+Dropped connections --- 已丢弃连接数
+Dropped flows --- 已丢弃流
+Dropped Packets --- 已丢弃数据包数
+Drops --- 丢弃
+Errors --- 错误
+Error Packets --- 错误数据包
+Errors on incoming packets --- 接收数据包错误
+Errors on outgoing packets --- 发出数据包错误
+Errors Incoming --- 接收错误
+Errors Outgoing --- 发出错误
+Established connections --- 已建立连接数
+Established flows --- 已建立流
+Fragments --- 分段
+Interleaved Data --- 交错数据
+Flow timeouts --- 流超时
+Forwarded --- 已转发
+Forwarded Packets --- 已转发数据包
+Hardware SYN Cookies Generated --- 已生成硬件 SYN Cookie
+Hardware SYN Cookies Detected --- 已检测到硬件 SYN Cookie
+Header length invalid packets --- 头长度无效数据包
+Total REQMOD --- 总计 REQMOD
+Total RSPMOD --- 总计 RSPMOD
+Current Connections --- 当前连接数
+Initiated connections --- 已发起的连接
+Inspected documents --- 已检查的文档
+Length Invalid --- 长度无效
+Length invalid packets --- 长度无效数据包
+Malformed documents --- 格式错误的文档
+Maximum Connections --- 最大连接数
+Maximum Conn. --- 最大连接数
+/ sec --- /秒
+No Node Connection failures --- 无节点连接故障
+No node flow failures --- 无节点流故障
+Normalized --- 已标准化
+No Route Connection failures --- 无路由连接故障
+No route flow failures --- 无路由流故障
+Records Forwarded --- 记录已转发
+Events Forwarded --- 事件已转发
+Records Received --- 记录已收到
+Records Processed --- 记录已处理
+Packet collisions --- 数据包冲突
+Packet Discards --- 数据包丢弃
+Packets In --- 接收数据包数
+Packets Out --- 发出数据包数
+Packets In / sec --- 接收数据包数/秒
+Packets Out / sec --- 发出数据包数/秒
+PCP --- PCP
+Port denies (disallowed) --- 端口拒绝（不允许）
+Port denies (virtual port not enabled) --- 端口拒绝（未启用虚拟端口）
+Reassembled packets --- 已重组数据包
+Reassembled --- 已重组
+Reassembled (Too Long) --- 已重组（太长）
+Reassembled packets too long --- 已重组的数据包太长
+Neighbor Queue Full Dropped --- 邻域队列已完全放弃
+Neighbor Unreachable Dropped --- 无法连接的邻域已放弃
+Received --- 已接收
+Sent --- 已发送
+Server Received --- 服务器已收到
+Received (Dropped) --- 已接收（已丢弃）
+Received fragments dropped --- 已接收的片段已丢弃
+Received fragments --- 已接收的片段
+Received packets --- 已接收的数据包
+Refresh --- 刷新
+Reset --- 重置
+Retransmitted --- 已重新传输
+Retransmitted Errors --- 重新传输错误
+Retransmitted error packets --- 重新传输错误数据包
+Retransmitted Packets --- 重新传输数据包
+Server Side --- 服务器端
+Serverside PVA --- 服务器端 PVA
+Total Connections --- 连接总数
+Total Conn. --- 连接总数
+/ sec --- /秒
+Total Assisted Connections --- 辅助连接总数
+Total flows --- 流总数
+Last 5 Seconds --- 过去 5 秒
+Last Minute --- 过去 1 分钟
+Last 5 Minutes --- 过去 5 分钟
+Login Requests --- 登录请求
+Multicast Transmitted --- 多播已传输
+Multicast Received --- 多播已接收
+Multicast RPF Dropped --- 多播 RPF 已丢弃
+Multicast No Route Dropped --- 多播无路由已丢弃
+Multicast Route Lookup Timeout Dropped --- 多播路由查找超时已丢弃
+Multicast Max Pending Packets Dropped --- 多播最大待处理数据包已丢弃
+Transmitted --- 已传输
+Transmitted (Dropped) --- 已传输（已丢弃）
+Transmitted fragments dropped --- 已传输的片段已丢弃
+Transmitted fragments --- 已传输的片段
+Transmitted packets --- 已传输的数据包
+Unformatted --- 未格式化
+Upload Requests --- 上传请求
+Aborts --- 中止
+Failures --- 失败
+Total Executions --- 执行总数
+Matches --- 匹配项
+Base --- 基础库
+Bursted --- 突发
+Dropped --- 已丢弃
+GET --- GET
+POST --- POST
+Version 0.9 --- 版本 0.9
+Version 1.0 --- 版本 1.0
+Version 1.1 --- 版本 1.1
+Max Requests Per Connection --- 各连接最大请求数
+Keep Alive --- 保持活跃
+Successful --- 成功
+Redirection --- 重定向
+Server Errors --- 服务器错误
+Request Size --- 请求大小
+Response Size --- 响应大小
+Request Size (Kilobytes) --- 请求大小（千字节）
+Response Size (Kilobytes) --- 响应大小（千字节）
+0-1 --- 0-1
+1-4 --- 1-4
+4-16 --- 4-16
+16-32 --- 16-32
+32-64 --- 32-64
+64-128 --- 64-128
+128-512 --- 128-512
+512-2048 --- 512-2048
+2048+ --- 2048+
+Pre-Compress --- 预压缩
+Post-Compress --- 后压缩
+CSS --- CSS
+JS --- JS
+SGML --- SGML
+Plain --- 纯文本
+Octet --- 八进制
+Image --- 图像
+Video --- 视频
+Audio --- 音频
+Set Cookie Insertions --- 设置 Cookie 插入
+Proxy Requests --- 代理请求
+Proxy CONNECT Requests --- 代理连接请求
+Idle Connections --- 空闲连接
+Idle Connections (Reused) --- 空闲连接（复用）
+Traffic Type --- 流量类型
+Ephemeral --- 短暂
+Traffic Details --- 流量详细信息
+Type --- 类型
+"%0" --- “%0”
+Created --- 已创建
+Touched --- 已涉及
+Open --- 打开
+Accepted --- 已接受
+Not Accepted --- 未接受
+Established --- 已建立
+Failed --- 失败
+Expired --- 已过期
+Abandoned --- 已放弃
+Received Reset --- 已收到的重置
+Bad Checksum --- 检查和错误
+No Checksum --- 无检查和
+Malformed Segment --- 格式错误的片段
+Segment out of Order --- 片段顺序错误
+Received SYN Cookie --- 已接收的 SYN Cookie
+Received Bad SYN Cookie --- 已接收的错误 SYN Cookie
+Retransmitted Segments --- 已重新传输的片段
+SYN Cache Overflow --- SYN 缓存溢出
+Malformed --- 格式错误
+Total Reuses --- 复用总计
+New --- 新建
+Maximum --- 最大
+Currently Idle --- 当前空闲
+Traffic Management CPU Usage --- 流量管理 CPU 用量
+Total Cycles --- 周期总计
+Idle Cycles --- 空闲周期
+Sleep Cycles --- 睡眠周期
+All --- 全部
+Age --- 周期
+Records --- 记录
+In --- 入
+Out --- 出
+Bad --- 错误
+Created / Touched --- 已创建/已涉及：
+C: --- 创建：
+T: --- 涉及：
+Destination Address --- 目标地址
+Full --- 完整
+Partial --- 部分
+None (Software) --- 无（软件）
+Premature Disconnects --- 过早断开连接
+Mid-Connection Handshakes --- 连接期间握手
+Secure Handshakes --- 安全握手
+Current Active Handshakes --- 当前活跃握手
+Insecure Handshakes Accepted --- 已接受不安全握手
+Insecure Handshakes Rejected --- 已拒绝不安全握手
+Insecure Renegotiations Rejected --- 已拒绝不安全重新协商
+SNI Mismatch Rejected --- 已拒绝 SNI 不匹配
+Extended Master Secret Handshakes --- 已扩展主密钥握手
+Session Cache --- 会话缓存
+Current Entries --- 当前条目
+Hits --- 命中
+Lookups --- 查找
+Overflows --- 溢出
+Invalidations --- 无效
+Connections --- 连接
+Cached Certificates --- 已缓存证书
+Cached OCSP Responses --- 已缓存 OCSP 响应
+Certificate Status Requests --- 证书状态请求
+Stapled OCSP Responses --- 已装订 OCSP 响应
+Response Status Error Responses --- 响应状态错误响应
+Invalid Certificate Responses --- 无效证书响应
+Revoked OCSP Responses --- 已撤销 OCSP 响应
+Unknown OCSP Responses --- 未知 OCSP 响应
+OCSP Responder Queries --- OCSP 响应者查询
+OCSP Response Errors --- OCSP 响应错误
+Certificate Status Unknown --- 证书状态未知
+Certificate Status Revoked --- 证书状态已撤销
+Hostname Bypasses --- 主机名绕过
+Handshake Alert Bypasses --- 握手警报绕过
+Valid Certificates --- 有效证书
+Invalid Certificates --- 无效证书
+No Certificate --- 无证书
+Handshake Failures --- 握手失败
+Renegotiations Rejected --- 已拒绝重新协商
+Aggregate Renegotiations Rejected --- 已拒绝聚合重新协商
+Bad Records --- 记录错误
+Fatal Alerts --- 致命警报
+DTLS Tx Pushbacks --- DTLS Tx 推回
+Active Handshakes Rejected --- 已拒绝活跃握手
+TLS Version 1.0 --- TLS 版本 1.0
+TLS Version 1.1 --- TLS 版本 1.1
+TLS Version 1.2 --- TLS 版本 1.2
+TLS Version 1.3 --- TLS 版本 1.3
+DTLS Version 1 --- DTLS 版本 1
+Anonymous Diffie-Hellman --- 匿名 Diffie-Hellman
+Diffie-Hellman with DSS Certificate --- 具有 DSS 证书的 Diffie-Hellman
+Diffie-Hellman with RSA Certificate --- 具有 RSA 证书的 Diffie-Hellman
+DSS Certificate --- DSS 证书
+Ephemeral Diffie-Hellman with DSS Certificate --- 具有 DSS 证书的极短 Diffie-Hellman
+Ephemeral Diffie-Hellman with RSA Certificate --- 具有 RSA 证书的极短 Diffie-Hellman
+Ephemeral ECDH with ECDSA Certificate --- 具有 ECDSA 证书的极短 ECDH
+Ephemeral ECDH with RSA Certificate --- 具有 RSA 证书的极短 ECDH
+RSA Certificate --- RSA 证书
+No Encryption --- 无加密
+Advanced Encryption Standard (AES) --- 高级加密标准 (AES)
+Advanced Encryption Standard Galois Counter Mode (AES-GCM) --- 高级加密标准伽罗瓦计数器模式 (AES-GCM)
+Digital Encryption Standard (DES) --- 数字加密标准 (DES)
+International Data Encryption Algorithm (IDEA) --- 国际数据加密算法 (IDEA)
+Camellia --- Camellia
+Message Digest 5 (MD5) --- 消息摘要 5 (MD5)
+Secure Hash Algorithm (SHA) --- 安全散列算法 (SHA)
+Encrypted --- 已加密
+Decrypted --- 已解密
+Native --- 本地
+Compatibility --- 兼容性
+Key Exchange Method --- 密钥交换方法
+Message Digest Method --- 消息摘要方法
+Certificates / Handshakes --- 证书/握手
+Sessions --- 会话
+Want Credential --- 需要凭证
+Status Summary --- 状态摘要
+Status Summary : %s --- 状态摘要：%s
+Requests --- 请求
+Responses --- 响应
+Cancels --- 取消
+Exhausted --- 已耗尽
+Parse Errors --- 分析错误
+Server Connects --- 服务器连接
+Server Receive Failures --- 服务器接收失败
+Cache Hits / Misses --- 缓存命中/未命中
+Count --- 计数
+Size (bytes) --- 大小（字节）
+Misses (Cacheable) --- 未命中（可缓存）
+Misses (Uncacheable) --- 未命中（不可缓存）
+Cache Size (bytes) --- 缓存大小（字节）
+Total Cached Items --- 已缓存项目总量
+Total Evicted Items --- 已收回项目总量
+Session Ticket --- 会话票证
+Reused --- 已复用
+Reuse Failed --- 复用失败
+Pre-Logins --- 预登录
+Session Mirror Success --- 会话镜像成功
+Session Mirror Failure --- 会话镜像失败
+Number of %0 - %1 Records --- %0 数量 - %1 条记录
+Connections Accepted --- 已接受的连接数
+Connections Total --- 连接总数
+Connections Current --- 当前连接数
+Connections Max --- 最大连接数
+Bytes Sent --- 已发送字节
+Bytes Received --- 已接收字节
+Flows Created --- 已创建流
+Flows Current --- 当前流
+Flows Max --- 最大流
+HEADERS --- HEADERS
+PRIORITY --- PRIORITY
+SYN_REPLY --- SYN_REPLY
+PING --- PING
+SETTINGS --- SETTINGS
+GOAWAY --- GOAWAY
+WINDOW_UPDATE --- WINDOW_UPDATE
+PUSH_PROMISE --- PUSH_PROMISE
+CONTINUATION --- CONTINUATION
+DATA --- DATA
+Syncookie Details --- Syncookie 详细信息
+Hardware SYN Cookie --- 硬件 SYN Cookie
+Software SYN Cookie --- 软件 SYN Cookie
+Instances --- 实例
+SYN Cache --- SYN 缓存
+Current --- 当前
+Overflow --- 溢出
+Issued --- 已颁发
+Rejected --- 已拒绝
+Rule Name --- 规则名称
+Action --- 操作
+Policy Summary --- 策略摘要
+Invoked --- 已撤销
+Succeeded --- 已成功
+Actions Invoked --- 操作已撤销
+Actions Succeeded --- 操作已成功
+iRule --- iRule
+Connect --- 连接
+Oversize Server Headers --- 超大服务器头
+Excess Server Headers --- 多余的服务器头
+Unknown Method --- 未知方法
+FTPS Sessions --- FTPS 会话
+Passthrough Transitions --- 通过转换
+Read Requests --- 读取请求
+Write Requests --- 写入请求
+Discarded Requests --- 放弃请求
+IKE Packets --- IKE 数据包
+Tunnel Creates --- 通道创建
+Tunnel Teardowns --- 通道拆解
+Pending IKE Connection Limit Drops --- 待定 IKE 连接限制丢弃
+Invalid Headers --- 无效头
+CONT --- CONT
+TEXT --- TEXT
+BINARY --- BINARY
+CLOSE --- CLOSE
+PING --- PING
+PONG --- PONG
+Normal --- 正常
+Endpoint going away --- 端点转移
+Processing Error --- 处理错误
+Extension Negotiation Fail --- 扩展协商失败
+Late Binding Details --- 后期绑定详细信息
+Off --- 关闭
+Active Calls --- 活跃呼叫
+Call Clear Requests --- 呼叫清除请求
+Call Disconnect Notifies --- 呼叫断开连接通知
+ECHO --- ECHO
+Failed Calls --- 失败呼叫
+Out Going Call Requests --- 传出呼叫请求
+Out Going Call Replies --- 传出呼叫回复
+Set Link Info Messages --- 设置链接信息消息
+START --- 开始
+STOP --- 结束
+Total Calls --- 呼叫总数
+WAN Error Notify Messages --- WAN 错误通知消息
+Completed --- 已完成
+Average Duration (milliseconds) --- 平均持续时间（毫秒）
+Maximum Duration (milliseconds) --- 最大持续时间（毫秒）
+Server --- 服务器
+Pending Transactions --- 待处理事务
+Pending Transactions Rejected --- 待处理事务被拒
+Pending Transactions Timed Out --- 待处理事务超时
+Pending Transactions Maximum --- 最大待处理事务
+Total Transactions --- 事务总数
+Lease Renewal --- 租赁续订
+Address Allocation --- 地址分配
+SOLICIT --- SOLICIT
+ADVERTISE --- ADVERTISE
+REQUEST --- REQUEST
+CONFIRM --- CONFIRM
+RENEW --- RENEW
+REBIND --- REBIND
+REPLY --- REPLY
+RELEASE --- RELEASE
+DECLINE --- DECLINE
+RECONFIGURE --- RECONFIGURE
+INFORMATION-REQUEST --- INFORMATION-REQUEST
+RELAY-FORW --- RELAY-FORW
+RELAY-REPLY --- RELAY-REPLY
+DISCOVER --- DISCOVER
+OFFER --- OFFER
+ACK --- ACK
+NACK --- NACK
+INFORM --- INFORM
+FORCE-RENEW --- FORCE-RENEW
+LEASE-QUERY --- LEASE-QUERY
+LEASE-QUERY-ACTIVE --- LEASE-QUERY-ACTIVE
+LEASE-QUERY-UNASSIGNED --- LEASE-QUERY-UNASSIGNED
+LEASE-QUERY-UNKNOWN --- LEASE-QUERY-UNKNOWN
+LEASE-QUERY-REPLY --- LEASE-QUERY-REPLY
+Accepted Connections --- 已接受连接数
+Current Connections --- 当前连接数
+Dropped Connections --- 已丢弃连接数
+Max Connections --- 最大连接数
+CONNECT --- CONNECT
+CONNACK --- CONNACK
+PUBLISH --- PUBLISH
+PUBACK --- PUBACK
+PUBREC --- PUBREC
+PUBREL --- PUBREL
+PUBCOMP --- PUBCOMP
+SUBSCRIBE --- SUBSCRIBE
+SUBACK --- SUBACK
+UNSUBSCRIBE --- UNSUBSCRIBE
+UNSUBACK --- UNSUBACK
+PINGREQ --- PINGREQ
+PINGRESP --- PINGRESP
+DISCONNECT --- DISCONNECT
+Connection Errors --- 连接错误
+Connection Timeouts --- 连接超时
+Response Errors --- 响应错误
+Malformed Requests --- 格式错误的请求
+Internal Errors --- 内部错误
+Try Later Errors --- 稍后尝试错误
+Signature Required Errors --- 需要签名错误
+Unauthorized Errors --- 未授权错误
+Response Validation Errors --- 响应验证错误
+Parsing Failures --- 分析故障
+Verification Errors --- 验证错误
+Validity Errors --- 有效性错误
+Certificate Status --- 证书状态
+Good --- 好
+Revoked --- 已撤销
+Unknown --- 未知
+Total Requests --- 请求总数
+Internal Errors --- 内部错误
+Successful Cache Requests --- 成功缓存请求
+OCSP : %s --- OCSP：%s
+SNAT Packet Forwarding --- SNAT 数据包转发
+All Traffic --- 全部流量
+SNAT Properties --- SNAT 属性
+SNAT Translation Defaults --- SNAT 转换默认值
+Translation --- 转换
+New SNAT... --- 新建 SNAT...
+Origin --- 源
+All Addresses --- 全部地址
+Stateful Failover Mirror --- 有状态故障转移镜像
+SNAT Pool --- SNAT 池
+New SNAT Pool... --- 新建 SNAT 池...
+Connection Limit --- 连接限制
+New SNAT Translation... --- 新建 SNAT 转换...
+Unit ID --- 单元 ID
+Automap --- 自动映射
+Delete this SNAT --- 删除此 SNAT
+Delete this SNAT Pool --- 删除此 SNAT 池
+Delete this SNAT translation --- 删除此 SNAT 转换
+Delete this NAT --- 删除此 NAT
+Source Port --- 源端口
+Origin --- 源
+New NAT... --- 新建 NAT...
+NAT Address --- NAT 地址
+Origin Address --- 源地址
+Unit ID --- 单元 ID
+Allocations --- 分配
+Delete this LSN Pool --- 删除此 LSN 池
+Failure Cause --- 失败原因
+Inbound Connections --- 入站连接
+Disabled --- 已禁用
+Explicit --- 显式
+Automatic --- 自动
+Hairpin Mode --- 环回模式
+Inbound Reservations --- 入站保留
+NAT --- NAT
+NAPT --- NAPT
+Deterministic --- 确定性
+PBA --- PBA
+New LSN Pool... --- 新建 LSN 池...
+Persist Failures --- 持久故障
+None --- 无
+Address --- 地址
+Address Port --- 地址端口
+None --- 无
+Disabled --- 已禁用
+Enabled --- 已启用
+Log Publisher --- 日志发布程序
+Port Range Low --- 端口范围低
+Port Range High --- 端口范围高
+Egress --- 出口
+The LSN Pool has no member, do you want to continue? --- LSN 池无成员，是否继续？
+Hairpin Connections --- 环回连接
+Logging --- 日志记录
+PCP Profile --- PCP 概要文件
+Port Block Allocation --- 端口数据块分配
+Block Lifetime --- 数据块生命期
+Block Idle Timeout --- 数据块空闲超时
+Zombie Timeout --- 僵停超时
+Block Size --- 数据块大小
+PBA --- PBA
+End Points --- 端点
+Port Blocks --- 端口数据块
+Allocation --- 分配
+Free --- 可用
+Allocation Failure --- 分配失败
+Zombie Block --- 僵停数据块
+Created --- 已创建
+Deleted --- 已删除
+Connection Killed --- 连接已断开
+Using Max Port Blocks --- 使用最大端口数据块
+Reached Block Limit --- 已达到数据块限制
+Start Outbound Session --- 开始出站会话
+End Outbound Session --- 结束出站会话
+Start Inbound Session --- 开始入站会话
+End Inbound Session --- 结束入站会话
+Inbound Transaction --- 入站事务
+Start Control Channel --- 开始控制渠道
+End Control Channel --- 结束控制渠道
+Start Data Channel --- 开始数据渠道
+End Data Channel --- 结束数据渠道
+Quota Exceeded --- 已超出配额
+Errors --- 错误
+Backup Allocation Only --- 仅限备份分配
+New LSN Logging Profile... --- 新建 LSN 日志记录概要文件...
+Delete this LSN Logging Profile --- 删除此 LSN 日志记录概要文件
+Include Destination Address/Port --- 包含目标地址/端口
+ALG --- ALG
+LSN --- LSN
+CSV Format --- CSV 格式
+Subscriber ID --- 订阅服务器 ID
+PCP --- PCP
+PCP --- PCP
+New PCP Profile... --- 新建 PCP 概要文件...
+Minimum Mapping Lifetime --- 最短映射生命期
+Maximum Mapping Lifetime --- 最长映射生命期
+Mapping Recycle Delay --- 映射回收延迟
+Filter Limit Per Mapping Entry --- 映射条目的筛选限制
+Third Party Option --- 第三方选项
+Third Party Subnets --- 第三方子网
+Announce Multicast Count --- 宣布多播计数
+Announce After Failover --- 故障转移后宣布
+Responses (Unicast) --- 响应（单播）
+Responses (Multicast) --- 响应（多播）
+Invalid Request --- 无效请求
+Unavailable Resource --- 不可用资源
+Not Authorized --- 未授权
+Announce --- 宣布
+Peer --- 对等
+Map --- 映射
+No Pool Name Specified --- 未指定池名称
+No Node Name Specified --- 未指定节点名称
+No Policy Name Specified --- 未指定策略名称
+New Trunk... --- 新建中继...
+BGP --- BGP
+IS-IS --- IS-IS
+OSPFv2 --- OSPFv2
+OSPFv3 --- OSPFv3
+PIM --- PIM
+BFD --- BFD
+Route Domain ID --- 路由域 ID
+Route Domain Name --- 路由域名称
+New Route Domain... --- 新建路由域...
+Default Route Domain --- 默认路由域
+Partition Default --- 分区默认值
+Partition Default Route Domain --- 分区默认路由域
+This route domain is the Partition Default Route Domain --- 该路由域是分区默认路由域
+Make this route domain the Partition Default Route Domain --- 将该路由域设置为分区默认路由域
+%0 - %1 --- %0 - %1
+Strict Isolation --- 严格隔离
+Layer 2 Static Forwarding Table --- 第 2 层静态转发表单
+Tagged --- 已标记
+Tag --- 标记
+Untagged --- 未标记
+Tagging --- 正在标记
+Port Lockdown --- 端口锁定
+MAC Address --- MAC 地址
+Mirror Hash Port --- 镜像散列端口
+Active Media Type --- 活跃媒体类型
+Active Duplex --- 活跃双工
+Requested Media --- 请求的媒体
+SFP Requested Media --- SFP 请求媒体
+Force Gigabit Fiber --- 强制千兆光纤
+Requested Duplex --- 请求双工
+STP Enabled --- 已启用 STP
+STP Mode --- STP 模式
+STP Edge Port --- STP 边缘端口
+STP Edge Port Detection --- STP 边缘端口检测
+STP Link Type --- STP 链接类型
+Mirrors --- 镜像
+Port Mirrors --- 端口镜像
+Frame Distribution Function --- 框架分布函数
+Link Selection Policy --- 链接选择策略
+LACP Enabled --- 已启用 LACP
+LACP Mode --- LACP 模式
+LACP Timeout --- LACP 超时
+Actor ID --- 参与者 ID
+Actor Key --- 参与者密钥
+Actor Priority --- 参与者优先级
+Partner ID --- 合作伙伴 ID
+Partner Key --- 合作伙伴密钥
+Partner Priority --- 合作伙伴优先级
+Actor Port ID --- 参与者端口 ID
+Actor State --- 参与者状态
+Partner Port ID --- 合作伙伴端口 ID
+Partner State --- 合作伙伴状态
+Allow Service --- 允许服务
+MTU --- MTU
+Use PMTU --- 使用 PMTU
+Flow Control --- 流控制
+Flow Control Request --- 流控制请求
+Source Check --- 源检查
+Frame Distribution Hash --- 框架分布散列
+Source/Destination MAC address --- 源/目标 MAC 地址
+Destination MAC address --- 目标 MAC 地址
+New Color Policer... --- 新建颜色管制器...
+Parent ID --- 父级 ID
+Parent Name --- 父级名称
+Do you want to continue? --- 是否继续？
+Changing this setting will impact traffic after you click "Update". --- 单击“更新”后，更改此设置会影响流量。
+Tunnel --- 通道
+New Tunnel... --- 新建通道...
+TOS --- TOS
+Auto-Last Hop --- 自动跳到上一页
+Key --- 密钥
+Timer Policy --- 计时器策略
+Destination Ports --- 目标端口
+Idle Timeout(seconds) --- 空闲超时（秒）
+Rule Name --- 规则名称
+Use Policy Default --- 使用策略默认值
+Drop on Service Mismatch --- 服务不匹配时丢弃
+Log on Service Mismatch --- 服务不匹配时记录
+Default Actions --- 默认操作
+Port Misuse Policy --- 端口误用策略
+Secondary Address --- 次要地址
+FEC --- FEC
+New Fec Profile... --- 新建 Fec 概要文件...
+GRE --- GRE
+GENEVE --- GENEVE
+New GENEVE Profile... --- 新建 GENEVE 概要文件...
+New GRE Profile... --- 新建 GRE 概要文件...
+lw4o6 --- lw4o6
+New lw4o6 Profile... --- 新建 lw4o6 概要文件...
+PPP --- PPP
+New PPP Profile... --- 新建 PPP 概要文件...
+VXLAN --- VXLAN
+VXLAN-GPE --- VXLAN-GPE
+New VXLAN Profile... --- 新建 VXLAN 概要文件...
+Source Packets --- 源数据包
+Repair Packets --- 修复数据包
+Source Adaptive --- 源自适应
+Repair Adaptive --- 修复自适应
+Encode Max Delay --- 编码最大延迟
+Decode Queues --- 解码队列
+Decode Max Packets --- 解码最大数据包
+Idle Timeout --- 空闲超时
+Keep Alive Interval --- 保持活跃时间间隔
+LZO --- LZO
+Port --- 端口
+Flooding Type --- 泛洪类型
+Encapsulation Type --- 封装类型
+6RD --- 6RD
+New 6RD Profile... --- 新建 6RD 概要文件...
+MAP --- MAP
+New MAP Profile... --- 新建 MAP 概要文件...
+Embedded Address Bits Length --- 嵌入式地址位长度
+Port Offset --- 端口偏移
+Verify Checksum on Received Packets --- 对接收的数据包验证检查和
+Verify Sequence Number on Received Packets --- 对接收的数据包验证序号
+Verify Checksum on Transmitted Packets --- 对传输的数据包验证检查和
+Verify Sequence Number on Transmitted Packets --- 对传输的数据包验证序号
+LCP Echo Failure --- LCP Echo 失败
+LCP Echo Interval --- LCP Echo 时间间隔
+Use Van Jacobson-Style Header Compression --- 使用 VAN Jacobson 式头压缩
+DS-Lite --- DS-Lite
+Transparent --- 透明
+PSID Length --- PSID 长度
+lw4o6 Table --- lw4o6 表单
+Preserve --- 保留
+Traffic Group --- 流量组
+Endpoint --- 端点
+Tunnel Static Forwarding Table --- 通道静态转发表单
+Message Transmit Interval --- 消息传输时间间隔
+Message Transmit Hold --- 消息传输保留
+Reinit Delay --- 重新初始化延迟
+Transmit Delay --- 传输延迟
+Maximum Neighbors Per Port --- 端口最大邻域
+Transmit Only --- 仅传输
+Receive Only --- 仅接收
+Transmit and Receive --- 传输和接收
+Mgmt Address --- 管理地址
+Alternate Mgmt Address --- 替代管理地址
+Management Address --- 管理地址
+MAC/PHY Config Status --- MAC/PHY 配置状态
+Link Aggregation --- 链接聚合
+Max Frame Size --- 最大框架大小
+Product Model --- 产品型号
+Neighbors --- 邻域
+Chassis --- 机箱
+PVID --- PVID
+PPVID --- PPVID
+MAC/PHY --- MAC/PHY
+Auto-negotiation Status --- 自动协商状态
+PMD --- PMD
+MAU --- MAU
+Aggregration --- 聚合
+F5 Product Model --- F5 产品型号
+Auto Failback --- 自动故障恢复
+Auto Failback Timeout --- 自动故障恢复超时
+Failover Objects --- 故障转移对象
+Floating --- 浮动
+HA Order --- HA 顺序
+HA Score --- HA 分数
+Initializing / Not Synced --- 正在初始化/未同步
+MAC Masquerade Address --- MAC 虚拟地址
+New Traffic Group... --- 新建流量群组...
+Resolver --- 解析器
+Traffic --- 流量
+Cache Size --- 缓存大小
+Forward Zone --- 转发区域
+Nameservers --- 名称服务器
+Are you sure you want to delete the forward zone? --- 确定要删除此转发区域？
+802.1p --- 802.1p
+DSCP --- DSCP
+New Mapping... --- 新建映射...
+Service --- 服务
+Customer --- 客户
+Double --- 双倍
+Customer Tag --- 客户标记
+Ether Type --- 以太类型
+Service Group --- 服务群组
+Cache Timeout (sec) --- 缓存超时（秒）
+Port Type --- 端口类型
+Redirection Method --- 重定向方法
+Return Method --- 返回方法
+MD5 Password --- MD5 密码
+Traffic Assign --- 流量指派
+Hash Fields --- 散列字段
+Alternative Hash Fields --- 备用散列字段
+Custom Mask (Max 6 bits) --- 自定义掩码（最多 6 位）
+Routers --- 路由器
+Router Identifier --- 路由器标识符
+Tunnel Local Address --- 通道本地地址
+Service Port: --- 服务端口：
+GRE --- GRE
+L2 --- L2
+Hash --- 散列
+Mask --- 掩码
+Source Port --- 源端口
+Destination Port --- 目标端口
+Round Robin --- 轮循
+Ratio (member) --- 比率（成员）
+Least Connections (member) --- 最少连接（成员）
+Observed (member) --- 已观察（成员）
+Predictive (member) --- 预测性（成员）
+Ratio (node) --- 比率（节点）
+Least Connections (node) --- 最少连接（节点）
+Fastest (node) --- 最快（节点）
+Fastest (application) --- 最快（应用）
+Observed (node) --- 已观察（节点）
+Predictive (node) --- 预测性（节点）
+Dynamic Ratio (node) --- 动态比率（节点）
+Dynamic Ratio (member) --- 动态比率（成员）
+L3 Address --- L3 地址
+Fastest --- 最快
+Least Sessions --- 最少会话
+Weighted Least Connections (member) --- 权重最少连接（成员）
+Weighted Least Connections (node) --- 权重最少连接（节点）
+Ratio Least Connections (member) --- 比率最少连接（成员）
+Ratio Least Connections (node) --- 比率最少连接（节点）
+Ratio (session) --- 比率（会话）
+Dynamic Ratio --- 动态比率
+Load Balancing --- 负载均衡
+Maximum Addresses Returned --- 返回的最大地址数
+TTL --- TTL
+No pool member has connection limit configured. --- 尚无池成员配置连接限制。
+Some members do not have connection limit configured. --- 部分成员尚未配置连接限制。
+Continue? --- 继续？
+Strategy --- 战略
+Requires --- 需要
+Controls --- 控制
+Delete this Policy --- 删除此策略
+Delete this Strategy --- 删除此战略
+New Strategy... --- 新建战略...
+Operand --- 操作数
+Operands --- 操作数
+Policy Name --- 策略名称
+Rule --- 规则
+Rule Name --- 规则名称
+Manage Conditions --- 管理条件
+Manage Actions --- 管理操作
+Action --- 操作
+Actions --- 操作
+Condition --- 条件
+Conditions --- 条件
+Event --- 事件
+Events --- 事件
+Selector --- 选择器
+Selector Name --- 选择器名称
+Negate --- 取消
+Missing --- 遗漏
+Regex --- 正则表达式
+Values --- 值
+Parameters --- 参数
+Parameter Name --- 参数名
+Parameter Value --- 参数值
+Target --- 目标
+none --- 无
+Add Condition --- 添加条件
+Add Action --- 添加操作
+Edit Condition --- 编辑条件
+Edit Action --- 编辑操作
+Delete Condition --- 删除条件
+Delete Action --- 删除操作
+Update Rule --- 更新规则
+case-sensitive --- 区分大小写
+not --- 不是
+none --- 无
+None --- 无
+Condition Parameter not found --- 找不到条件参数
+Action Parameter not found --- 找不到操作参数
+Operand: --- 操作数：
+Event: --- 事件：
+Selector: --- 选择器：
+Parameters: --- 参数：
+Negate: --- 取消：
+Missing: --- 遗漏：
+Condition: --- 条件：
+Values: --- 值：
+Target: --- 目标：
+Action: --- 操作：
+Rule Properties --- 规则属性
+Select Policy --- 选择策略
+Policy Stats --- 策略统计信息
+Error parsing data from form --- 分析来自表格的数据出错
+first-match --- first-match
+best-match --- best-match
+all-match --- all-match
+none --- none
+string --- string
+tclstring --- tclstring
+number --- number
+boolean --- boolean
+server-connected --- server-connected
+proxy-request --- proxy-request
+request --- request
+proxy-connect --- proxy-connect
+proxy-response --- proxy-response
+response --- response
+ws-request --- ws-request
+ws-response --- ws-response
+none --- none
+none --- none
+forwarding --- forwarding
+caching --- caching
+compression --- compression
+asm --- asm
+web-sso --- web-sso
+l7dos --- l7dos
+avr --- avr
+request-adaptation --- request-adaptation
+response-adaptation --- response-adaptation
+ce --- ce
+controls-max --- controls-max
+undefined --- undefined
+link --- link
+data-group --- data-group
+session --- session
+cpu-usage --- cpu-usage
+all --- all
+address --- address
+name --- name
+value --- value
+header --- header
+scheme --- scheme
+host --- host
+port --- port
+path --- path
+query-string --- query-string
+extension --- extension
+path-segment --- path-segment
+query-parameter --- query-parameter
+unnamed-query-parameter --- unnamed-query-parameter
+major --- major
+minor --- minor
+code --- code
+text --- text
+domain --- domain
+expiry --- expiry
+version --- version
+username --- username
+password --- password
+tos --- tos
+hops --- hops
+ttl --- ttl
+route-domain --- route-domain
+mss --- mss
+rtt --- rtt
+qos --- qos
+class --- class
+server-name --- server-name
+common-name --- common-name
+npn --- npn
+alpn --- alpn
+continent --- continent
+country-code --- country-code
+country-name --- country-name
+region-code --- region-code
+region-name --- region-name
+organization --- organization
+isp --- isp
+last-15secs --- last-15secs
+last-1min --- last-1min
+last-5mins --- last-5mins
+browser-type --- browser-type
+browser-version --- browser-version
+extension --- extension
+version --- version
+key --- key
+equals --- equals
+starts-with --- starts-with
+ends-with --- ends-with
+contains --- contains
+matches --- matches
+regex --- regex
+empty --- empty
+missing --- missing
+present --- present
+less --- less
+greater --- greater
+less-or-equal --- less-or-equal
+greater-or-equal --- greater-or-equal
+undefined --- undefined
+ltm-policy --- ltm-policy
+log --- log
+pem --- pem
+cache --- cache
+compress --- compress
+decompress --- decompress
+forward --- forward
+asm --- asm
+web-sso --- web-sso
+avr --- avr
+tcl --- tcl
+persist --- persist
+session --- session
+l7dos --- l7dos
+request-adapt --- request-adapt
+response-adapt --- response-adapt
+ce --- ce
+undefined --- undefined
+insert --- insert
+replace --- replace
+apply --- apply
+add --- add
+classify --- classify
+remove --- remove
+select --- select
+enable --- enable
+disable --- disable
+respond --- respond
+redirect --- redirect
+reset --- reset
+write --- write
+policy-rule-event --- policy-rule-event
+execute --- execute
+set-variable --- set-variable
+cookie-insert --- cookie-insert
+cookie-passive --- cookie-passive
+cookie-hash --- cookie-hash
+destination-address --- destination-address
+hash --- hash
+source-address --- source-address
+universal --- universal
+drop --- drop
+reject --- reject
+retry --- retry
+none --- none
+name --- name
+key --- key
+index --- index
+url-decoded --- url-decoded
+instance --- instance
+all --- all
+default --- default
+next --- next
+pin --- pin
+value --- value
+path --- path
+extension --- extension
+scheme --- scheme
+host --- host
+domain --- domain
+expiry --- expiry
+location --- location
+query-string --- query-string
+normalized --- normalized
+port --- port
+status --- status
+ifile --- ifile
+code --- code
+text --- text
+username --- username
+password --- password
+profile --- profile
+policy --- policy
+cookie --- cookie
+expression --- expression
+uie --- uie
+pool --- pool
+node --- node
+pool-member --- pool-member
+query-parameter --- query-parameter
+unnamed-query-parameter --- unnamed-query-parameter
+version --- version
+headers --- headers
+application --- application
+category --- category
+id --- id
+execute --- execute
+source-address --- source-address
+destination-address --- destination-address
+cookie-insert --- cookie-insert
+cookie-passive --- cookie-passive
+cookie-hash --- cookie-hash
+from-profile --- from-profile
+clone-pool --- clone-pool
+snat --- snat
+snatpool --- snatpool
+virtual-server --- virtual-server
+internal-virtual-server --- internal-virtual-server
+rateclass --- rateclass
+nexthop --- nexthop
+member --- member
+defer --- defer
+message --- message
+local --- local
+internal --- internal
+facility --- facility
+priority --- priority
+timeout --- timeout
+offset --- offset
+len --- len
+netmask --- netmask
+application-id --- application-id
+category-id --- category-id
+none --- none
+name --- name
+method --- method
+domain --- domain
+headers --- headers
+url --- url
+path --- path
+extension --- extension
+host --- host
+status --- status
+pool --- pool
+netmask --- netmask
+non-negative --- non-negative
+node --- node
+member --- member
+snat --- snat
+snatpool --- snatpool
+virtual --- virtual
+nexthop --- nexthop
+rateclass --- rateclass
+asm-policy --- asm-policy
+dos-profile --- dos-profile
+pem-category --- pem-category
+pem-application --- pem-application
+wam-application --- wam-application
+wam-policy --- wam-policy
+ifile --- ifile
+internal-virtual --- internal-virtual
+date --- date
+tcl --- tcl
+facility --- facility
+priority --- priority
+example.com --- example.com
+/example/path --- /example/path
+host --- host
+N or [Nd][HH:MM[:SS]] --- N or [Nd][HH:MM[:SS]]
+positive number --- positive number
+Tcl expr --- Tcl expr
+tcl:[Tcl expr] allowed --- tcl:[Tcl expr] allowed
+, tcl:[Tcl expr] allowed --- , tcl:[Tcl expr] allowed
+ALG Profile --- ALG 概要文件
+LSN Pool --- LSN 池
+Summary --- 总结
+Carrier Grade NAT Object Summary --- 运营商级 NAT 对象总结
+Inspection Profile --- 检查概要文件
+Inspection Updates --- 检查更新
+Inspection --- 检查
+Accuracy --- 准确性
+ACL Policy --- ACL 策略
+ACL Rule Name --- ACL 规则名称
+Flow ID --- 流 ID
+Translated Source --- 已转换源
+Translated Destination --- 已转换目标
+New Security Profile... --- 新建安全概要文件...
+Query Type --- 查询类型
+Inclusion --- 包含
+Exclusion --- 排除
+Query Type Filter --- 查询类型筛选器
+Header Opcode Exclusion --- 头操作码排除
+Static NAT --- 静态 NAT
+Static PAT --- 静态 PAT
+Dynamic PAT --- 动态 PAT
+Dynamic NAT --- 动态 NAT
+None --- 无
+NAPT --- NAPT
+PBA --- PBA
+Deterministic --- 确定性
+None --- 无
+Endpoint Independent Filtering --- 端点独立筛选
+None --- 无
+Address Pooling Paired --- 地址池配对
+Endpoint Independent Mapping --- 端点独立映射
+Use Route Domain Policy --- 使用路由域策略
+Policy --- 策略
+Errors/Quota Exceeded --- 错误/已超出配额
+Outbound Start/End --- 出站开始/结束
+Event Name --- 事件名称
+Source Port --- 源端口
+Destination Port --- 目标端口
+Translated --- 已转换
+Untranslated --- 未转换
+Duration --- 持续时间
+Severity --- 严重性
+Translation Errors --- 转换错误
+Route Domain --- 路由域
+Source Port Begin --- 源端口开始
+Source Port End --- 源端口结束
+Port Block Allocated/Released --- 端口数据块已分配/已释放
+Source Geo --- 源地理位置
+Destination Geo --- 目标地理位置
+Addresses --- 地址
+Address/Region --- 地址/区域
+Addresses/Regions --- 地址/区域
+Address/Region: --- 地址/区域：
+New Rule... --- 新建规则...
+Global --- 全局
+Policy --- 策略
+Route Domain --- 路由域
+Route Domain... --- 路由域...
+Policy... --- 策略...
+Management Port --- 管理端口
+iApp --- iApp
+(Default) --- （默认）
+Accept --- 接受
+Accept Decisively --- 果断接受
+Reject --- 拒绝
+Drop --- 丢弃
+Invalid --- 无效
+Security --- 安全
+Policy Settings --- 策略设置
+DoS Protection --- DoS 保护
+Anti-Fraud Profile --- 反欺诈概要文件
+Log Profile --- 日志概要文件
+Ports --- 端口
+Parent Object --- 父级对象
+Scheduled --- 已计划
+Scheduled... --- 已计划...
+Schedule --- 计划
+Schedule: --- 计划：
+Date Range --- 日期范围
+Time Range --- 时间范围
+Indefinite --- 不确定
+All Day --- 全天
+After... --- 之后...
+Until... --- 直到...
+Between... --- 介于...
+Schedules --- 计划
+Spam Sources --- 垃圾邮件来源
+Windows Exploits --- Windows 漏洞利用
+Web Attacks --- Web 攻击
+Botnets --- 僵尸网络
+Scanners --- 扫描程序
+Denial of Service --- 拒绝服务
+Infected Sources --- 受影响的源
+Phishing Proxies --- 网络钓鱼代理
+Anonymous Proxies --- 匿名代理
+Cloud Based Providers --- 基于云的提供者
+Mobile Threats --- 移动威胁
+Tor Proxies --- Tor 代理
+Silverline --- Silverline
+Global --- 全局
+Latest Match --- 最新匹配
+Maximum Bandwidth --- 最大带宽
+Source --- 源
+Destination --- 目标
+Both Source and Destination --- 源和目标
+Warn --- 警告
+Reject --- 拒绝
+Match Source --- 匹配源
+Match Source and Destination --- 匹配源和目标
+Match Destination --- 匹配目标
+Use Policy Default --- 使用策略默认值
+Global Policy --- 全局策略
+New Schedule... --- 新建计划...
+Days Valid --- 有效日期
+Logging --- 日志记录
+Application Security Policy --- 应用安全策略
+DoS Protection Profile --- DoS 保护概要文件
+Send to Virtual --- 发送至虚拟
+FQDN Resolver --- FQDN 解析器
+Firewall NAT --- 防火墙 NAT
+Global Context --- 全局上下文
+Firewall Deployment Mode --- 防火墙部署模式
+Firewall Compilation Mode --- 防火墙编译模式
+Firewall Policy Management --- 防火墙策略管理
+Inline Rule Editor --- 内联规则编辑器
+Auto Generate UUID --- 自动生成 UUID
+External Redirection --- 外部重定向
+Firewall Policy status. --- 防火墙策略状态。
+Click on the link to get more information. --- 单击此链接获取更多信息。
+Being Compiled --- 正在编译
+Being Deployed --- 正在部署
+Consistent --- 一致
+Firewall Compilation Mode --- 防火墙编译模式
+Firewall Deployment Mode --- 防火墙部署模式
+Firewall Policy Status --- 防火墙策略状态
+Compilation Start Time --- 编译开始时间
+Compilation End Time --- 编译结束时间
+Deployed Blob Creation Time --- 已部署的 Blob 创建时间
+Deployment Start Time --- 部署开始时间
+Deployment End Time --- 部署结束时间
+Deployed Blob --- 已部署的 Blob
+Blob MD5 Verified --- 已验证 Blob MD5
+Compile --- 编译
+Deploy --- 部署
+Object Name --- 对象名称
+Object Type --- 对象类型
+Parent Name --- 父级名称
+Parent Type --- 父级类型
+Could not determine policy name. --- 无法确定策略名称。
+Delete this policy: --- 删除此策略：
+Enforcement: --- 强制实施：
+Staging: --- 正在分阶段：
+Policy: --- 策略：
+New Policy... --- 新建策略...
+Policy Type --- 策略类型
+Enforced --- 已强制实施
+Staged --- 已分阶段
+Policy --- 策略
+Rule --- 规则
+Feed URLs --- 订阅源 URL
+Poll Interval --- 轮询时间间隔
+Scrubber --- 清理器
+Name --- 名称
+Trigger Type --- 触发器类型
+Route Domain --- 路由域
+Route Domain ID --- 路由域 ID
+Threshold (bps) --- 阈值 (bps)
+Silverline URL --- Silverline URL
+Observed Rate (bps) --- 观察的速率 (bps)
+Bits Per Second --- 每秒位数
+Connections Per Second --- 每秒连接数
+Packets Per Second --- 每秒数据包数
+Observed Rate --- 观察的速率
+Monitor --- 监测器
+Mask --- 掩码
+TTL --- TTL
+Scrubbing --- 清理
+Monitor Type --- 监测器类型
+Monitor Name --- 监测器名称
+Next Hop --- 下一跳跃
+Next Hopv6 --- 下一 Hopv6
+Shun --- Shun
+Shun Category --- Shun 类别
+Shun TTL --- Shun TTL
+Shun Action --- Shun 操作
+Shun Advertise --- Shun 通告
+Advertisement Method --- 通告方法
+Next Hop --- 下一跳跃
+Traffic Group --- 流量组
+Route Domain --- 路由域
+Default Log Actions --- 默认日志操作
+Default Action --- 默认操作
+Match Override --- 匹配覆盖
+Region --- 区域
+Order --- 顺序
+Before... --- 之前...
+After... --- 之后...
+First --- 第一个
+Last --- 上一个
+Reset Count --- 重置计数
+This rule is completely covered by an earlier rule: --- 该规则已被另一条更早的规则完全覆盖：
+This rule is completely covered by an earlier rule with a conflicting action: --- 该规则已被另一条更早的具有冲突操作的规则完全覆盖：
+(Conflicting) --- （冲突）
+(Redundant) --- （冗余）
+(Overlapping) --- （重叠）
+(Conflicting & Redundant) --- （冲突和冗余）
+When compilation is complete, you will be redirected. --- 编译完成后，您将被重定向。
+Compilation Duration --- 编译持续时间
+Activation Time --- 激活时间
+Compiled Size --- 已编译大小
+Directory Server Properties --- 目录服务器属性
+IF-MAP Server --- IF-MAP 服务器
+Directory Servers --- 目录服务器
+Sampling Rate: --- 采样率：
+Subscriber ID --- 订阅服务器 ID
+Subscriber Group --- 订阅服务器群组
+iRule Sampling --- iRule 采样
+Auto Threshold --- 自动阈值
+Dynamic Signatures --- 动态签名
+NX Domain --- NX 域
+Valid FQDN(s) --- 有效 FQDN
+Check --- 检查
+Relearn --- 重新学习
+SSH Proxy --- SSH 代理
+Bad Actor --- 参与者错误
+Auto Threshold --- 自动阈值
+Auto Threshold Sensitivity --- 自动阈值敏感性
+Category: --- 类别：
+Detection: --- 检测：
+Duration: --- 持续时间：
+Infinite --- 无限
+Additional Actions --- 其他操作
+Specify... --- 指定...
+Attack Type --- 攻击类型
+Detection Threshold PPS --- 检测阈值 PPS
+Detection Threshold Percent --- 检测阈值百分比
+Rate/Leak Limit --- 速率/泄露限制
+Rate Limit --- 速率限制
+Leak Limit --- 泄露限制
+Ethernet MAC Source Address == Destination Address --- 以太网 MAC 源地址 == 目标地址
+Header Length Too Short --- 头长度太短
+Header Length > L2 Length --- 头长度 > L2 长度
+TTL <= < tunable > --- TTL <= < 可调整值 >
+No L4 --- 无 L4
+Payload Length < L2 Length --- 有效负载长度 < L2 长度
+Too Many Extension Headers --- 太多扩展头
+No L4 (Extension Headers Go To Or Past The End of Frame) --- 无 L4（扩展头转至或超过框架末端）
+Option Present With Illegal Length --- 选项的长度不合法
+SYN && FIN Set --- 已设置 SYN && FIN
+FIN Only Set --- 仅设置 FIN
+Ethernet Broadcast Packet --- 以太网广播数据包
+Ethernet Multicast Packet --- 以太网多播数据包
+Routing Header Type 0 --- 路由头类型 0
+Host Unreachable --- 主机无法连接
+TIDCMP --- TIDCMP
+Single Endpoint Sweep --- 单个端点扫描
+Single Endpoint Flood --- 单个端点泛洪
+LAND attack --- LAND 攻击
+IGMP Flood --- IGMP 泛洪
+Bad IGMP Frame --- IGMP 框架错误
+IGMP Fragment Flood --- IGMP 片段泛洪
+Bad Source --- 源错误
+Unknown Option Type --- 未知选项类型
+Packet Type --- 数据包类型
+Source Only --- 仅源
+Destination Only --- 仅目标
+Both Source and Destination --- 源和目标
+Detection Mode --- 检测模式
+Mitigation --- 缓解
+TPS --- TPS
+Detection Threshold --- 检测阈值
+Mitigate To Threshold --- 缓解到阈值
+Threshold Condition --- 阈值条件
+Dropped Requests --- 已丢弃的请求
+Attack ID --- 攻击 ID
+Query --- 查询
+Name --- 名称
+Attack Type --- 攻击类型
+Violation --- 违反
+Request URI --- 请求 URI
+Create Rule... --- 创建规则...
+Message Name --- 消息名称
+Message Drops --- 消息丢弃
+Profile Name --- 概要文件名称
+Entity Type --- 实体类型
+Entity --- 实体
+Request Status --- 请求状态
+Reason --- 原因
+Previous Action --- 先前操作
+Previous Request Time --- 先前请求时间
+Bot Signature --- 自动程序签名
+Bot Signature Category --- 自动程序签名类别
+Application Display Name --- 应用显示名称
+Application Version --- 应用版本
+Mobile in Emulation Mode --- 在仿真模式下移动
+OS Name --- 操作系统名称
+IMEI --- IMEI
+Human Behaviour --- 人类行为
+SSH Log Event --- SSH 日志事件
+SSH User ID --- SSH 用户 ID
+SSH Auth Method --- SSH 认证方法
+SSH Channel Type --- SSH 渠道类型
+SSH Data Bytes --- SSH 数据字节
+Application Name --- 应用名称
+Category Name --- 类别名称
+URL Category Name --- URL 类别名称
+Apply... --- 应用...
+Address --- 地址
+Additional Optimizations --- 其他优化
+Advanced --- 高级
+Alias --- 别名
+Allow NAT --- 允许 NAT
+Dynamic Discovery --- 动态发现
+Basic --- 基本
+Config Status --- 配置状态
+SDD Cache (MB) --- SDD 缓存 (MB)
+Enabled --- 已启用
+Application Data Encryption --- 应用数据加密
+Internal Forwarding --- 内部转发
+Please contact your account representative if you would like to take advantage of this powerful feature to optimize and accelerate your traffic. --- 如果您希望利用此强大的功能优化和加速您的流量，请联系您的账户代表。
+This WAN Optimization feature is not currently provisioned. --- 该 WAN 优化功能当前尚未配置。
+Manually Saved --- 已手动保存
+Name --- 名称
+Netmask --- 网络掩码
+None --- 无
+none --- 无
+Optimized --- 已优化
+Passthrough --- 通过
+Persistable --- 可持久
+Port --- 端口
+tdr --- tdr
+mapi --- mapi
+cifs --- cifs
+Route --- 路由
+Routing --- 路由
+SNAT --- SNAT
+Status --- 状态
+Tunnel Port --- 通道端口
+FEC --- FEC
+GRE --- GRE
+Encapsulation Type --- 封装类型
+Select Encapsulation --- 选择封装
+FEC Profile --- FEC 概要文件
+GRE Profile --- GRE 概要文件
+Local Endpoint --- 本地端点
+Local Endpoint - Advanced --- 本地端点 - 高级
+Automatically Discover Exchange Servers --- 自动发现交换服务器
+Local Endpoint - Basic --- 本地端点 - 基本
+Clear Dedup Cache --- 清除删除重复缓存
+Dynamic Discovery --- 动态发现
+Disable Native Exchange Compression --- 禁用本地交换压缩
+KB --- KB
+Symmetric Deduplication --- 对称删除重复项
+Maximum Endpoint Count --- 最大端点计数
+Enable Symmetric Deduplication --- 启用对称删除重复项
+Maximum Number of Remote Endpoints --- 远程端点最大数量
+Maximum Datastore Size (MB) --- 数据存储最大大小 (MB)
+(1024-1048576) --- (1024-1048576)
+Disk --- 磁盘
+Allow Remote Endpoints to Discover This Endpoint --- 允许远程端点发现此端点
+Allow This Endpoint to Discover Remote Endpoints --- 允许此端点发现远程端点
+Automatically Include Discovered Endpoints --- 自动包含发现的端点
+Endpoint Alias --- 端点别名
+Endpoint Pool --- 端点池
+Automatically save discovered Remote Endpoints --- 自动保存发现的远程端点
+Discovery Mode --- 发现模式
+Subnet Filter: --- 子网筛选器：
+(1-65535) --- (1-65535)
+Maximum Number of Retries per Request --- 各请求的最大重试次数
+(0-255) --- (0-255)
+Minimum Wait Time Before Retry --- 重试前的最短等待时间
+(1-255) seconds --- (1-255) 秒
+Maximum Connections --- 最大连接数
+Local Subnets --- 本地子网
+New Local Subnets... --- 新建本地子网...
+Select --- 选择
+Subnet Address --- 子网地址
+Subnet Netmask --- 子网网络掩码
+Alias --- 别名
+Mode --- 模式
+Operational Status --- 操作状态
+Port --- 端口
+Optimization --- 优化
+TDR --- TDR
+Adaptive Compression --- 自适应压缩
+TDR2 Cache Size --- TDR2 缓存大小
+TDR2 Pruning Threshold --- TDR2 修剪阈值
+Office Optimization --- Office 优化
+Record and Replay --- 记录与回放
+Read-ahead level --- 预读级别
+Codec --- 编解码器
+SDD v2 --- SDD v2
+SDD v3 --- SDD v3
+\n\nAre you sure you want to proceed? --- \n\n确定要继续？
+Shared Key --- 共享密钥
+PKI --- PKI
+Local Endpoint does not exist --- 本地端点不存在
+Local Endpoint was not deleted --- 本地端点未删除
+No Local Endpoint to Update --- 没有要更新的本地端点
+No Local Endpoint to Delete --- 没有要删除的本地端点
+\nClick OK to continue or Cancel to abort this operation. --- \n单击“确定”以继续，或单击“取消”以中止此操作。
+Click OK to update the local endpoint or Cancel to abort this operation. --- \n单击“确定”以更新本地端点，或单击“取消”以中止此操作。
+Manual Save --- 手动保存
+Creator --- 创建者
+SDD Codec --- SDD 编解码器
+Codec Mismatch --- 编解码器不匹配
+Exchange Trust --- 交换信任
+Route --- 路由
+Peer Port --- 对等端口
+New Remote Endpoint... --- 新建远程端点...
+Remote Endpoint --- 远程端点
+Known Peer WOCs --- 已知对等 WOC
+Remote Endpoints --- 远程端点
+Name --- 名称
+Metric --- 指标
+Locally Disabled --- 已本地禁用
+User Name --- 用户名
+Password --- 密码
+Only endpoints which are Discovered can be manually saved. --- 仅可手动保存发现的端点。
+Remote Endpoints --- 远程端点
+New Optimized Application... --- 新建已优化应用...
+(Leave blank for any destination server) --- （为任何目标服务器保留为空）
+Create Custom Policy --- 创建自定义策略
+Application Profile --- 应用概要文件
+What kind of application would you like to optimize? --- 您希望优化哪种应用？
+Would you like to encrypt tunneled data? --- 您是否愿意加密通道数据？
+Common Questions --- 常见问题
+Profile Settings --- 概要文件设置
+Finish --- 完成
+WOC --- WOC
+Discover Endpoints and Servers --- 发现端点和服务器
+Discover Endpoints --- 发现端点
+Discover Servers --- 发现服务器
+Common --- 通用
+Local Endpoint Name --- 本地端点名称
+SNAT --- SNAT
+Advertised Route Discovery --- 已通告的路由发现
+Include --- 包含
+Label --- 标签
+Stop discovery after --- 停止发现的开始时间
+Filter Mode --- 筛选模式
+Subnet Filter --- 子网筛选器
+Outbound Connections --- 出站连接
+Discovery --- 发现
+Remote Endpoints --- 远程端点
+WOM Prerequisites --- WOM 先决条件
+You are seeing this page because one or more prerequisites for WOM have not been configured. --- 您看到此页面，是因为 WOM 的一个或多个先决条件尚未配置。
+Click on the links provided next to the condition in the table below before configuring WOM. --- 单击下表中条件旁提供的链接，然后开始配置 WOM。
+Once all prerequisites are satisfied, you will be able to configure WOM from this page. --- 满足所有先决条件后，您即可从此页面配置 WOM。
+AAM Must Be Provisioned --- 必须配置 AAM
+Click here to Provision AAM --- 单击此处配置 AAM
+Condition --- 条件
+Required Action --- 所需操作
+New Server... --- 新建服务器...
+New Distributed Application... --- 新建分布式应用...
+Load Balancing --- 负载均衡
+Reaping --- 收割
+TTLs and Intervals --- TTL 和时间间隔
+Server Type --- 服务器类型
+All Servers --- 全部服务器
+Data Center --- 数据中心
+Data Centers --- 数据中心
+Disabled By Parent --- 按父级禁用
+Disabled for --- 禁用原因
+Inherit from Data Center --- 从数据中心继承
+iQuery --- iQuery
+Location --- 位置
+Pool --- 池
+Pool Member --- 池成员
+Pool Resources --- 池资源
+Probe Requests --- 探测请求
+Prober(s) --- 探测器
+Server --- 服务器
+Servers --- 服务器
+Server Prober Pool --- 服务器探测器池
+Service Port: --- 服务端口：
+TTL --- TTL
+TTLs --- TTL
+TLS Minimum Version --- TLS 最低版本
+Hops --- 跳跃
+Path --- 路径
+Are you sure you want to proceed? --- 确定要继续？
+RTT --- RTT
+Link --- 链接
+Link Name --- 链接名称
+Current Status --- 当前状态
+Contact --- 联系
+Default TTL --- 默认 TTL
+Factories --- 工厂
+Quality of Service Weights --- 服务质量权重
+Prober --- 探测器
+ECV Prober --- ECV 探测器
+Link Discovery --- 链接发现
+Links --- 链接
+Distributed Application --- 分布式应用
+Paths --- 路径
+Members --- 成员
+Members : %s --- 成员：%s
+Properties : %s --- 属性：%s
+Server Certificates --- 服务器证书
+Server Specific --- 服务器特定
+Use Global Setting --- 使用全局设置
+Down Interval --- 关闭时间间隔
+Time Until Up --- 运行之前的等待时间
+Up Interval --- 运行时间间隔
+Last Sync --- 上一次同步
+Backlogged --- 待处理
+Connected --- 已连接
+Connecting --- 正在连接
+Connect Time --- 连接时间
+Not Connected --- 未连接
+Synchronization --- 同步
+Synchronization Group Name --- 同步群组名
+Synchronization Time Tolerance --- 同步时间容差
+Heartbeat Interval --- 检测信号时间间隔
+Default Resource Record TTL --- 默认资源记录 TTL
+Drain Persistent Requests --- 拒绝持久性请求
+Monitor Disabled Objects --- 监测已禁用对象
+Set Recursion --- 设置递归
+Maximum Synchronous Monitor Requests --- 最大同步监测请求
+Certificate Depth --- 证书深度
+Big3d Certificate Depth --- Big3d 证书深度
+Update Interval --- 更新时间间隔
+Forward Status --- 转发状态
+Hops: --- 跳跃：
+Topology: --- 拓扑：
+Hit Ratio: --- 命中比率：
+Completion Rate: --- 完成率：
+Packet Rate: --- 数据包速率：
+VS Capacity: --- VS 容量：
+Bps: --- Bps：
+Bits / second: --- 位/秒：
+Link Capacity: --- 链接容量：
+Connection Rate: --- 连接速率：
+VS Score: --- VS 分数：
+Service --- 服务
+None --- 无
+Server --- 服务器
+Link --- 链接
+Data Center --- 数据中心
+Dependency Level --- 依赖关系级别
+Disable Distributed Application Traffic --- 禁用分布式应用流量
+Enable Distributed Application Traffic --- 启用分布式应用流量
+Are you sure you want to delete this Distributed Application? --- 确定要删除此分布式应用？
+iQuery --- iQuery
+Use Alternate Port --- 使用备用端口
+Service Check --- 服务检查
+Hops --- 跳跃
+Path --- 路径
+Service Check: --- 服务检查：
+Hops: --- 跳跃：
+Path: --- 路径：
+Completion Rate --- 完成率
+CPU --- CPU
+Default Alternate --- 默认备用
+Default Fallback --- 默认回退
+Default Load Balancing Modes --- 默认负载均衡模式
+Disk Space --- 磁盘空间
+Drop Packet --- 丢弃数据包
+Global Availability --- 全局可用性
+Hops --- 跳跃
+Kilobytes/Second --- 千字节/秒
+Least Connections --- 最少连接
+None --- 无
+Packet Rate --- 数据包速率
+Quality of Service --- 服务质量
+Quality of Service... --- 服务质量...
+Random --- 随机
+Ratio --- 比率
+Static Target --- 静态目标
+Priority --- 优先级
+Weight --- 权重
+Port --- 端口
+Flags --- 标志
+Service --- 服务
+Replacement --- 替换
+Preference --- 首选项
+Order --- 顺序
+Ratio: --- 比率：
+Static Target: --- 静态目标：
+Priority: --- 优先级：
+Weight: --- 权重：
+Port: --- 端口：
+Flags: --- 标志：
+Service: --- 服务：
+Replacement: --- 替换：
+Preference: --- 首选项：
+Order: --- 顺序：
+Return VS --- 返回 VS
+Round Robin --- 轮循
+Static Persist --- 静态持久
+Topology --- 拓扑
+VS Capacity --- VS 容量
+Link Capacity --- 链接容量
+Completion Rate: --- 完成率：
+Hops: --- 跳跃：
+Packet Rate: --- 数据包速率：
+Topology: --- 拓扑：
+Link Capacity: --- 链接容量：
+VS Capacity: --- VS 容量：
+Default QoS Weights --- 默认 QoS 权重
+Connection Rate --- 连接速率
+VS Score --- VS 分数
+None --- 无
+Allow Underscores --- 允许下划线
+Domain Validation --- 域验证
+Alternate Method --- 备用方法
+Fallback Method --- 回退方法
+Respect Fallback Topology Threshold --- 相应回退拓扑阈值
+Respect Fallback Dependency --- 相应回退依赖关系
+Ignore Path TTL --- 忽略路径 TTL
+Verify Path Availability --- 验证路径可用性
+Quality of Service Weights --- 服务质量权重
+Link Capacity --- 链接容量
+Topology Record Builder --- 拓扑记录构建器
+Topology Records --- 拓扑记录
+New Record... --- 新建记录...
+Topology Region --- 拓扑区域
+Topology Regions --- 拓扑区域
+Request Source --- 请求源
+Topology Threshold --- 拓扑阈值
+Probe Threshold --- 探测阈值
+Limit Probes --- 限制探测
+Longest Match --- 最长匹配
+(Please select a country) --- （请选择一个国家/地区）
+Change Order --- 更改顺序
+Change Topology Order --- 更改拓扑顺序
+$/Mbps --- $/Mbps
+Are you sure you want to delete this Link? --- 确定要删除此链接？
+Availability Requirements --- 可用性需求
+Duplex Billing --- 双工计费
+Health Monitor(s) --- 健康监测器
+Inbound: --- 入站：
+Up to... --- 最多...
+Up to --- 最多
+Up to: --- 最多：
+Incremental Segments --- 增量片段
+Link Ratio --- 链接比率
+New Link... --- 新建链接...
+Outbound: --- 出站：
+Prepaid Segment --- 预付片段
+Price (Dynamic Ratio) --- 价格（动态比率）
+Ratio --- 比率
+Router Address --- 路由器地址
+Segment --- 片段
+Service Provider --- 服务提供者
+Total: --- 总计：
+Traffic Limits --- 流量限制
+Uplink Address --- 上行地址
+Weighting --- 权重
+Aggregate Dynamic Ratios --- 聚合动态比率
+FirePass --- FirePass
+Probe Interval --- 探测时间间隔
+Probe Timeout --- 探测超时
+Probe Attempts --- 探测尝试
+Minimum Required Successful Probes --- 所需的最少成功探测数
+Ignore Down Response --- 忽略停机响应
+Average Members --- 成员平均数
+Sum Members --- 成员总数
+TTL: --- TTL：
+Data Refresh: --- 数据刷新：
+Intervals --- 时间间隔
+Path TTL --- 路径 TTL
+Server Data Refresh --- 服务器数据刷新
+Host Data Refresh --- 主机数据刷新
+Global Traffic Manager Data Refresh --- 全局流量管理器数据刷新
+Hops TTL --- 跳跃 TTL
+Hops Refresh --- 跳跃刷新
+Path Refresh --- 路径刷新
+ECV Data Refresh --- ECV 数据刷新
+Link Data Refresh --- 链接数据刷新
+Link Status Refresh --- 链接状态刷新
+Metrics Caching --- 指标缓存
+Inactive Path TTL --- 不活跃路径 TTL
+Hops and Paths... --- 跳跃和路径...
+Path Only... --- 仅路径...
+Hops Only... --- 仅跳跃...
+Path Metrics --- 路径指标
+Path Metrics Collection --- 路径指标集合
+Hops Metrics Collection --- 跳跃指标集合
+Hops Packet Length --- 跳跃数据包长度
+Timeout --- 超时
+Sample Count --- 样本计数
+Metrics Cache --- 指标缓存
+Address Exclusions --- 地址排除
+Paths TTL --- 路径 TTL
+Paths Retry --- 路径重试
+Paths Refresh --- 路径刷新
+Delete Server(s) --- 删除服务器
+Delete Server --- 删除服务器
+Limits --- 限制
+Current Connections --- 当前连接数
+Current Connections: --- 当前连接数：
+Connection Rate (%): --- 连接速率 (%)：
+CPU Usage --- CPU 用量
+Disk Usage --- 磁盘用量
+New Server... --- 新建服务器...
+Delete this server: --- 删除此服务器：
+Host Servers --- 主机服务器
+New Host Server... --- 新建主机服务器...
+One Time Discovery --- 一次性发现
+Reset String --- 重置字符串
+Limit Settings --- 限制设置
+Dependencies --- 依赖关系
+Dependency View --- 依赖关系视图
+Are you sure you want to delete this Server? --- 确定要删除此服务器？
+Links : %s --- 链接：%s
+Delete Data Centers --- 删除数据中心
+Create Data Center --- 创建数据中心
+Create Server --- 创建服务器
+Are you sure you want to remove this Data Center? --- 确定要移除此数据中心？
+New Data Center... --- 新建数据中心...
+Pool Name --- 池名称
+Pool Ratio --- 池比率
+Pool TTL --- 池 TTL
+Load Balancing Modes --- 负载均衡模式
+Preferred --- 首选
+Alternate --- 备用
+Availability Requirements --- 可用性需求
+Health Monitor(s) --- 健康监测器
+Fallback --- 回退
+Preferred: --- 首选：
+Alternate: --- 备用：
+Fallback: --- 回退：
+Dynamic Delegation --- 动态委派
+Canonical Name --- 规范名称
+Zone Name --- 区域名称
+Dynamic Ratio --- 动态比率
+Check Static Depends --- 检查静态依赖
+Check Dynamic Depends --- 检查动态依赖
+Static Depends --- 静态依赖
+Dynamic Depends --- 动态依赖
+Maximum Answers Returned --- 返回的最大应答数
+Verify Member Availability --- 验证成员可用性
+CNAME --- CNAME
+A --- A
+New Pool... --- 新建池...
+Inherit From Pool --- 从池继承
+CPU: --- CPU：
+Disk: --- 磁盘：
+Last Resort Pool --- 终极池
+Delete Pool(s) --- 删除池
+Member Views --- 成员视图
+Dependency View --- 依赖关系视图
+Member Dependencies --- 成员依赖关系
+Pool Member Properties --- 池成员属性
+Are you sure you want to remove these Pool Member(s)? --- 确定要移除这些池成员？
+Are you sure you want to delete this Pool? --- 确定要删除此池？
+Member Name --- 成员名称
+Member Address --- 成员地址
+Dependencies --- 依赖关系
+Member Order --- 成员顺序
+Are you sure you want to delete the pool member(s)? --- 确定要删除池成员？
+ECV --- ECV
+Scan Level --- 扫描级别
+NoError TTL --- NoError TTL
+Load-Balancing Decision Log --- 负载均衡决策日志
+Minimal Response --- 最小响应
+Manual Resume --- 手动恢复
+Member Service Ports --- 成员服务端口
+Pool Management --- 池管理
+Pool Member Selection --- 池成员选择
+Pool Selection --- 池选择
+Pool Traversal --- 池遍历
+Pool Member Traversal --- 池成员遍历
+Order --- 顺序
+Are you sure you want to remove these Pool(s)? --- 确定要移除这些池？
+Are you sure you want to remove these iRule(s)? --- 确定要移除这些 iRule？
+NoError Response --- NoError 响应
+Error accessing prober pool '%s' --- 访问探测器池“%s”时出错
+Prober pool '%s' was not found --- 找不到探测器池“%s”
+Are you sure you want to delete prober pool \'%s\'? --- 确定要删除探测器池“%s”？
+Order --- 顺序
+Current Members --- 当前成员
+Master Server Must End With Period --- 主服务器必须以周期结束
+Resource Records --- 资源记录
+A6 --- A6
+AAAA --- AAAA
+A --- A
+CNAME --- CNAME
+DNAME --- DNAME
+HINFO --- HINFO
+KEY --- KEY
+MX --- MX
+NAPTR --- NAPTR
+NS --- NS
+NXT --- NXT
+PTR --- PTR
+SIG --- SIG
+SOA --- SOA
+SRV --- SRV
+TXT --- TXT
+NS Record --- NS 记录
+SOA Record --- SOA 记录
+A Record --- A 记录
+Records --- 记录
+Domain Name --- 域名称
+Name --- 名称
+Type --- 类型
+RDATA --- RDATA
+TTL --- TTL
+Master Server --- 主服务器
+Email Contact --- 电子邮箱联系人
+Serial Number --- 序列号
+Refresh Interval --- 刷新时间间隔
+Retry Interval --- 重试时间间隔
+Expire --- 过期
+Negative TTL --- 消极 TTL
+Nameserver --- 名称服务器
+Hardware --- 硬件
+OS --- 操作系统
+Flags --- 标志
+Algorithm --- 算法
+Public Key --- 公共密钥
+Preference --- 首选项
+Mail Server --- 电子邮件服务器
+Next Domain --- 下一域
+Type Covered --- 已涵盖类型
+Types Covered --- 已涵盖类型
+Number of Labels --- 标签数
+Original TTL --- 原始 TTL
+Sig Expires --- 签名过期
+Sig Inception --- 签名开始
+Key Fingerprint --- 密钥指纹
+Signer Name --- 签署者姓名
+Signature --- 签名
+Retry --- 重试
+Weight --- 权重
+Port --- 端口
+Property Tag --- 属性标记
+Property Value --- 属性值
+Target Server --- 目标服务器
+Create Reverse Record --- 创建反向记录
+Resolver returned no such record --- 解析器未返回此类记录
+Key Tag --- 密钥标记
+Digest Type --- 摘要类型
+Digest --- 摘要
+Iterations --- 迭代
+Salt --- 加盐
+Next --- 下一步
+Order --- 顺序
+Service --- 服务
+Regexp --- Regexp
+Replacement --- 替换
+Zone Name --- 区域名称
+Zone Type --- 区域类型
+Zone File Name --- 区域文件名
+Masters --- 主设备
+Create Records --- 创建记录
+Records Creation --- 记录创建
+Records Creation Method --- 记录创建方法
+Manual --- 手动
+Transfer From Server... --- 从服务器传输...
+Master --- 主设备
+Slave --- 从属设备
+Stub --- 存根
+Hint --- 提示
+Forward --- 转发
+Unset --- 取消设置
+Upload Records File --- 上传记录文件
+Transfer Records --- 转移记录
+Source Server --- 源服务器
+Source Zone --- 源区域
+Create Reverse Records --- 创建反向记录
+Create Reverse Zone --- 创建反向区域
+Reverse Zone Name --- 反向区域名称
+Reverse Zone File Name --- 反向区域文件名
+Create A Record --- 创建 A 记录
+Views --- 视图
+View Name --- 视图名称
+View Order --- 视图顺序
+First --- 第一个
+Last --- 上一个
+After --- 之后
+Topology --- 拓扑
+Weight --- 权重
+Order --- 顺序
+Not --- 不是
+Server Record --- 服务器记录
+New Topology... --- 新建拓扑...
+Are you sure you want to delete this topology record? --- 确定要删除此拓扑记录？
+User --- 用户
+ACL --- ACL
+ISP --- ISP
+Geolocation ISP --- 地理位置 ISP
+ISP: --- ISP：
+Weight --- 权重
+CIDRAddress --- CIDRAddress
+Continent --- 洲
+Continent: --- 洲：
+Country --- 国家/地区
+Country: --- 国家/地区：
+Country/State --- 国家/地区/州
+Pool --- 池
+Pool: --- 池：
+Data Center --- 数据中心
+Data Center: --- 数据中心：
+Region --- 区域
+Region: --- 区域：
+Regions --- 区域
+New Region... --- 新建区域...
+Region Members --- 区域成员
+Member Type --- 成员类型
+Member Type: --- 成员类型：
+Region Name --- 区域名称
+Add Records --- 添加记录
+State --- 状态
+North America --- 南美洲
+South America --- 北美洲
+Asia --- 亚洲
+Europe --- 欧洲
+Africa --- 非洲
+Antarctica --- 南极洲
+Oceania --- 大洋洲
+Unknown --- 未知
+is --- 是
+is not --- 不是
+iRule --- iRule
+New iRule... --- 新建 iRule...
+Event Type --- 事件类型
+Are you sure you want to delete iRule \'%s\'? --- 确定要删除 iRule“%s”？
+Are you sure you want to delete the iRule(s)? --- 确定要删除这些 iRule？
+Generic Load Balancer --- 通用负载均衡器
+Alteon Ace Director --- Alteon Ace Director
+Cisco CSS --- Cisco CSS
+Cisco LocalDirector v2 --- Cisco LocalDirector v2
+Cisco LocalDirector v3 --- Cisco LocalDirector v3
+Cisco SLB --- Cisco SLB
+Extreme --- Extreme
+Foundry ServerIron --- Foundry ServerIron
+Radware WSD --- Radware WSD
+Generic Host --- Generic Host
+CacheFlow --- CacheFlow
+NetApp --- NetApp
+Sun Solaris --- Sun Solaris
+Windows 2000 Server --- Windows 2000 Server
+Windows NT 4.0 --- Windows NT 4.0
+Algorithm --- 算法
+Bit Width --- 位宽
+#, @, ;, *, ', or " are not valid characters. --- #、@、;、*、' 或 " 不是有效字符。
+Creator --- 创建者
+Diffie Hellman --- Diffie Hellman
+Zone Transfer TSIG Key --- 区域传输 TSIG 密钥
+DS Record Count --- DS 记录数量
+DS Record Hash Algorithms --- DS 记录散列算法
+Expiration Period --- 有效期
+Expiration Time --- 到期时间
+Hardware Security Module --- 硬件安全模块
+HSM --- HSM
+ID --- ID
+Indicate Authenticated when Authoritative --- 在授权时指示已通过身份验证
+Key Generation --- 密钥生成
+Key Management --- 密钥管理
+KeyName --- 密钥名
+Keys --- 密钥
+Key Settings --- 密钥设置
+Key Signing Key --- 密钥签名密钥
+Key Tag --- 密钥标记
+Manual Key --- 手动密钥
+NSEC3 Hash Algorithm --- NSEC3 散列算法
+Public Key --- 公共密钥
+Rollover Period --- 滚动期
+Rollover Time --- 滚动时间
+RSA/SHA1 --- RSA/SHA1
+RSA/SHA256 --- RSA/SHA256
+RSA/SHA512 --- RSA/SHA512
+Signature Publication Period --- 签名发布期
+Signature Validity Period --- 签名有效期
+SHA-1 --- SHA-1
+SHA-256 --- SHA-256
+Type --- 类型
+Zone Signing Key --- 区域签名密钥
+Please select a value between January 1, 1970 00:00:00 UTC and January 19, 2038 03:14:07 UTC. --- 请选择一个介于 1970 年 1 月 1 日 00:00:00 UTC 和 2038 年 1 月 19 日 03:14:07 UTC 的值。
+Please set a time period of 49709 days or less --- 请将时间段设置等于或小于 49709 天
+Total Responses --- 响应总数
+Total Signatures --- 签名总数
+NSEC3PARAM --- NSEC3PARAM
+DS --- DS
+CDS --- CDS
+NSEC3 --- NSEC3
+NSEC3 and DS Injections --- NSEC3 和 DS 注入
+Total NSEC3s --- NSEC3 总数
+No Data --- 无数据
+No Name --- 无名称
+Referral --- 参考
+NSEC3 Resalt --- NSEC3 再次加盐
+DS Referral --- DS 参考
+DS Zone Transfer --- DS 区域传输
+Zone Transfer Signing --- 区域传输签名
+AXFR Queries --- AXFR 查询
+IXFR Queries --- IXFR 查询
+Response Starts (Beginning SOA) --- 响应开始（开始 SOA）
+Response Completes (Ending SOA) --- 响应完成（结束 SOA）
+Response Messages from Primary --- 来自主数据库的响应消息
+Average Response Size (bytes) --- 平均响应大小（字节）
+External Serial --- 外部序列
+Primary Serial --- 主序列
+ACL Failures --- ACL 失败
+Transfers Expired --- 传输已过期
+Failures --- 失败
+Signature Create --- 签名创建
+Sign RRset --- 签署 RRset
+Connection Flow --- 连接流
+Format To Wire --- 格式转换为在线
+Status Summary --- 状态摘要
+Preferred --- 首选
+Alternate --- 备用
+Fallback --- 回退
+CNAME Resolutions --- CNAME 解析
+Return Codes --- 返回码
+Resolved --- 已解析
+A --- A
+AAAA --- AAAA
+Total --- 总计
+Dropped --- 已丢弃
+Picks --- 选取
+Connections --- 连接
+Rate (per second) --- 速率（每秒）
+Over Prepaid --- 超过预付
+Hops --- 跳跃
+Completion Rate --- 完成率
+Last Probe Time --- 上一次探测时间
+Last Accessed --- 上一次访问
+Location --- 位置
+Data Center Details: --- 数据中心详细信息：
+"%0" --- “%0”
+Server Details: "%0" --- 服务器详细信息：“%0”
+Link Details: "%0" --- 链接详细信息：“%0”
+Distributed Application Details: --- 分布式应用详细信息：
+"%0" --- “%0”
+Pool Details: "%0" --- 池详细信息：“%0”
+Prober Pool Details: %0 --- 探测器池详细信息：%0
+Persisted --- 持久性
+Total Executions --- 执行总数
+Failures --- 失败
+Aborts --- 中止
+Level --- 级别
+Destination --- 目标
+Target Type --- 目标类型
+Target Name --- 目标名称
+Expires --- 过期
+A Requests --- A 请求
+AAAA Requests --- AAAA 请求
+CNAME Requests --- CNAME 请求
+MX Requests --- MX 请求
+NAPTR Requests --- NAPTR 请求
+SRV Requests --- SRV 请求
+Current Paths --- 当前路径
+Return Codes --- 返回码
+AVR Reporting --- AVR 报告
+Cache --- 缓存
+DS Records --- DS 记录
+DS Record: --- DS 记录：
+Generation --- 生成
+Generations --- 生成
+Generations : %s --- 生成：%s
+GSLB --- GSLB
+Keys --- 密钥
+Local Storage --- 本地存储
+Nameserver --- 名称服务器
+Nameservers --- 名称服务器
+NXDomain --- NXDomain
+Publisher --- 发布程序
+Records --- 记录
+Remote Storage --- 远程存储
+Reporting Settings --- 报告设置
+Resource Record --- 资源记录
+Resource Records --- 资源记录
+Resolver --- 解析器
+Resolvers --- 解析器
+SEP Records --- SEP 记录
+SEP Records : %s --- SEP 记录：%s
+Secure Delegations --- 安全委派
+Secure Delegations : %s --- 安全委派：%s
+Secure Delegation : %s --- 安全委派：%s
+Are you sure you want to delete this Secure Delegation? --- 确定要删除此安全委派？
+Are you sure you want to delete the selected Secure Delegations? --- 确定要删除所选安全委派？
+TSIG Key --- TSIG 密钥
+TSIG Keys --- TSIG 密钥
+View --- 视图
+Views --- 视图
+Zone --- 区域
+ZoneRunner --- ZoneRunner
+Forward Zone --- 转发区域
+Forwarder Activity --- 转发器活动
+Are you sure you want to delete the TSIG Key \'%s\'? --- 确定要删除此 TSIG 密钥“%s”？
+New TSIG Key... --- 新建 TSIG 密钥...
+Add DLV Anchor --- 添加 DLV 锚
+Add Trust Anchor --- 添加信任锚
+Are you sure you want to remove the selected DLV anchor(s)? --- 确定要移除所选 DLV 锚？
+Are you sure you want to remove the selected trust anchor(s)? --- 确定要移除所选信任锚？
+DLV Anchor --- DLV 锚
+DLV Anchors --- DLV 锚
+Trust Anchor --- 信任锚
+Trust Anchors --- 信任锚
+DLV Anchors : %s --- DLV 锚：%s
+Trust Anchors : %s --- 信任锚：%s
+Walled Garden --- Walled Garden
+Response Policy --- 响应策略
+Allow Query --- 允许查询
+Response Policy Zone --- 响应策略区域
+Are you sure you want to delete the Response Policy Zone(s)? --- 确定要删除这些响应策略区域？
+RRSet Rotate --- RRSet 旋转
+none --- 无
+query id --- 查询 ID
+Key Creation Server --- 密钥创建服务器
+Auto-Discover --- 自动发现
+Auto-Discovery --- 自动发现
+Assigned Links --- 已指派的链接
+Data Center --- 数据中心
+Data Centers --- 数据中心
+Data Centers : %s --- 数据中心：%s
+Are you sure you want to delete this Data Center? --- 确定要删除此数据中心？
+GSLB : Load Balancing --- GSLB：负载均衡
+GSLB : Metrics Collection --- GSLB：指标收集
+GSLB Summary --- GSLB 摘要
+iQuery --- iQuery
+Assigned Link --- 已指派的链接
+Link --- 链接
+Link: --- 链接：
+Link Graphs --- 链接图表
+Links --- 链接
+Metrics Collection --- 指标收集
+Paths --- 路径
+Pool Member --- 池成员
+Pool Members --- 池成员
+Pool --- 池
+Prober Pool --- 探测器池
+Prober Pool: --- 探测器池：
+Prober Preference --- 探测器首选项
+Prober Fallback --- 探测器回退
+Prober Pool Member --- 探测器池成员
+Prober Pool Members --- 探测器池成员
+Regions --- 区域
+Request Interval --- 请求时间间隔
+Server --- 服务器
+Server Address --- 服务器地址
+Servers --- 服务器
+Servers : %s --- 服务器：%s
+Synchronize --- 同步
+Time Tolerance --- 时间容差
+Topology --- 拓扑
+Return Code On Failure --- 失败时的返回码
+Response --- 响应
+RCODE --- RCODE
+SOA Negative Caching TTL --- SOA 逆向缓存 TTL
+NOERROR (No Error) --- NOERROR（无错误）
+FORMERR (Query Format Error) --- FORMERR（查询格式错误）
+SERVFAIL (Server Failure) --- SERVFAIL（服务器故障）
+NXDOMAIN (Non Existent Domain) --- NXDOMAIN（无现有域）
+NOTIMP (Not Implemented) --- NOTIMP（未实施）
+REFUSED (Refuse To Answer) --- REFUSED（拒绝应答）
+Trusted Server Certificates --- 授信服务器证书
+None --- 无
+Server --- 服务器
+Link --- 链接
+Data Center --- 数据中心
+Uplink Address --- 上行地址
+Inside Data Center --- 数据中心内部
+Outside Data Center --- 数据中心外部
+Inherit From Data Center --- 从数据中心继承
+Specific Prober Pool --- 特定探测器池
+Any Available --- 任意可用
+None --- 无
+Denial of Service Protection --- 拒绝服务保护
+Logging and Reporting --- 日志记录和报告
+Rapid Response --- 快速响应
+Rapid Response Mode --- 快速响应模式
+Rapid Response Last Action --- 快速响应上一操作
+Response Cache --- 响应缓存
+Load Balancing Defaults --- 负载均衡默认值
+Last Action: Allowed --- 上一操作：已允许
+Last Action: Dropped --- 上一操作：已丢弃
+Last Action: Truncated (TC) --- 上一操作：截断 (TC)
+Last Action: No Error --- 上一操作：无错误
+Last Action: NX Domain --- 上一操作：NX 域
+Last Action: Refused --- 上一操作：已拒绝
+New Secure Delegation... --- 新建安全委派...
+New Zone... --- 新建区域...
+New Profile... --- 新建概要文件...
+Inactivity Timeout --- 不活跃超时
+Maximum Session Timeout --- 最大会话超时
+Access Policy Timeout --- 访问策略超时
+Max Sessions Per User --- 各用户最大会话数
+Assign ACLs --- 指派 ACL
+Reuse Existing Objects --- 复用现有对象
+New Profile Name --- 新建概要文件名称
+Profile to Copy --- 要复制的概要文件
+Copied Profile Name --- 已复制的概要文件名称
+Config File Upload --- 概要文件上传
+Languages --- 语言
+Additional Languages --- 其他语言
+Accepted Languages --- 已接受的语言
+Factory BuiltIn Languages --- 出厂内置语言
+Default Language --- 默认语言
+Logout URI Include --- 注销 URI 包含
+Logout URI Timeout --- 注销 URI 超时
+Microsoft Exchange --- Microsoft Exchange
+Backup --- 备份
+Export --- 导出
+Copy --- 复制
+Domain Cookie --- 域 Cookie
+Secure Cookie --- 安全 Cookie
+Domain Mode --- 域模式
+SSO / Auth Domains --- SSO/认证域
+Single Domain --- 单个域
+Persistent Cookie --- 持久性 Cookie
+Cookie Scope --- Cookie 范围
+SSO Config --- SSO 配置
+Primary SSO Config --- 主 SSO 配置
+Cookie --- Cookie
+Primary Auth --- 主认证
+When domain mode is multi, there must be at least one domain associated with the profile. --- 域模式为多个时，必须至少有一个与概要文件关联的域。
+Please do not delete all domains or switch to single mode. --- 请勿删除全部域或切换至单个模式。
+Number Of Groups --- 群组数
+Last Updated --- 上一次更新
+All --- 全部
+LTM-APM --- LTM-APM
+SSO --- SSO
+SWG-Transparent --- SWG-Transparent
+SWG-Explicit --- SWG-Explicit
+BYOD-Enrollment --- BYOD-Enrollment
+BYOD-Compliance --- BYOD-Compliance
+RDG-RAP --- RDG-RAP
+OAuth-Resource Server --- OAuth-资源服务器
+Profile --- 概要文件
+Global --- 全局
+User Identification Method --- 用户识别方法
+Credentials --- 凭证
+OAuth Token --- OAuth 令牌
+Captive Portals --- 强制网络门户
+New Access Policy... --- 新建访问策略...
+Access Policy --- 访问策略
+New Per-Requst Policy... --- 新建按请求策略...
+Visual Policy Editor --- 视觉策略编辑器
+Policy to Copy --- 要复制的策略
+Copied Policy Name --- 已复制的策略名称
+Copy Policy --- 复制策略
+Import Policy --- 导入策略
+New Policy Name --- 新建策略名称
+Error creating Access Policy. --- 创建访问策略时出错。
+Click Cancel to exit Wizard. --- 单击“取消”以退出向导。
+{costraint_name} is not a valid constraint for syncing an Access Policy. --- {costraint_name} 不是有效的同步访问策略限制。
+New Server... --- 新建服务器...
+Server Addresses --- 服务器地址
+Server Pool --- 服务器池
+Server Pool Monitor --- 服务器池监测器
+Accounting --- 计费
+Accounting Host --- 计费主机
+Accounting Service Port --- 计费服务端口
+Retries --- 重试
+Service Type --- 服务类型
+Character Set --- 字符集
+UTF-8 --- UTF-8
+Windows-1252 --- Windows-1252
+NAS Identifier --- NAS 标识符
+Host --- 主机
+Service Port --- 服务端口
+Timeout --- 超时
+Verify Server Certificate --- 验证服务器证书
+Trusted Certificate Authority --- 受信证书授权中心
+User DN --- 用户 DN
+LDAP Schema Attributes --- LDAP 结构属性
+User Object Class --- 用户对象类
+Group Object Class --- 群组对象类
+Group Member --- 群组成员
+Group Member Value --- 群组成员值
+Domain Name --- 域名称
+Domain Controller --- 域控制器
+Domain Controller Pool Name --- 域控制器池名称
+Domain Controllers --- 域控制器
+Server Connection --- 服务器连接
+None --- 无
+des-cbc-crc --- des-cbc-crc
+des-cbc-md5 --- des-cbc-md5
+aes128-cts-hmac-sha1-96 --- aes128-cts-hmac-sha1-96
+aes256-cts-hmac-sha1-96 --- aes256-cts-hmac-sha1-96
+rc4-hmac --- rc4-hmac
+Group Cache Lifetime --- 群组缓存生命期
+Password Security Object Cache Lifetime --- 密码安全对象缓存生命期
+Clear Cache --- 清除缓存
+Kerberos Cache --- Kerberos 缓存
+File Uploaded At --- 文件上传时间
+File Type --- 文件类型
+Use Stored File --- 使用存储的文件
+Upload New File --- 上传新文件
+Auth Realm --- 认证域
+Service Name --- 服务名称
+Keytab File --- 密钥表文件
+Keytab File Properties --- 密钥表文件属性
+Keytab File Details --- 密钥表文件详细信息
+KVNO --- KVNO
+SHA-1 --- SHA-1
+MD5 --- MD5
+CertID Digest --- CertID 摘要
+Responder URL --- 响应者 URL
+Sign Digest --- 签名摘要
+Sign Key Pass Phrase --- 签名密钥通行短语
+Verify Sign Key Pass Phrase --- 验证签名密钥通行短语
+Allow Null CRL --- 允许空 CRL
+Verify Signature --- 验证签名
+ARAP --- ARAP
+Firewall --- 防火墙
+PPP --- PPP
+Shell --- Shell
+TTY-Daemon --- TTY-守护程序
+Connection --- 连接
+LCP --- LCP
+ATALK --- ATALK
+VINES --- VINES
+LAT --- LAT
+XREMOTE --- XREMOTE
+TN3270 --- TN3270
+DECCP --- DECCP
+RLOGIN --- RLOGIN
+PAD --- PAD
+VPDN --- VPDN
+OSICP --- OSICP
+Minimum --- 最小
+User --- 用户
+Maximum --- 最大
+ASCII --- ASCII
+PAP --- PAP
+CHAP --- CHAP
+ARAP --- ARAP
+MSCHAP --- MSCHAP
+None --- 无
+Login --- 登录
+Enable --- 启用
+PPP --- PPP
+ARAP --- ARAP
+PT --- PT
+RCMD --- RCMD
+X25 --- X25
+NASI --- NASI
+Firewall Proxy --- 防火墙代理
+Connectors --- 连接器
+By Specific String In Response --- 按响应中的特定字符串
+By Presence Of Specific String In Cookie --- 按 Cookie 中的特定字符串状态
+By Resulting Redirect URL --- 按产生的重定向 URL
+By Presence Of Cookie That Exactly Matches --- 按精确匹配的 Cookie 状态
+Form Based --- 基于表单
+Custom Post --- 自定义发布
+Form Method --- 表单方法
+Form Action --- 表单操作
+Form Parameter For User Name --- 用户名的表单参数
+Form Parameter For Password --- 密码的表单参数
+Hidden Form Parameters/Values --- 隐藏表单参数/值
+Number Of Redirects To Follow --- 要跟进的重定向数量
+Successful Logon Detection Match Type --- 成功登录检测匹配类型
+Successful Logon Detection Match Value --- 成功登录检测匹配值
+URL --- URL
+Start URI --- 启动 URI
+URL Encoded UTF-8 --- URL 编码 UTF-8
+None --- 无
+Custom Body --- 自定义正文
+Custom Headers --- 自定义头
+Header Name: --- 头名称：
+Header Value: --- 头值：
+Access Server --- 访问服务器
+Access Server Name --- 访问服务器名称
+New OAM Server... --- 新建 OAM 服务器...
+Access Server Hostname --- 访问服务器主机名
+Access Server Port --- 访问服务器端口
+Server Access Gate --- 服务器访问网关
+AccessGate Name --- AccessGate 名称
+AccessGate Password --- AccessGate 密码
+Verify Password --- 验证密码
+Admin Id --- 管理员 ID
+Admin Password --- 管理员密码
+Retry Count --- 重试次数
+Verify Passphrase --- 验证通行短语
+Transport Security Mode --- 传输安全模式
+open --- 开放
+simple --- 简单
+cert --- 证书
+AccessGate --- AccessGate
+New AccessGate... --- 新建 AccessGate...
+Configure Certificates... --- 配置证书...
+Sign Key Passphrase --- 签名密钥通行短语
+Key --- 密钥
+Certificate --- 证书
+CA Certificate --- CA 证书
+Verify Passphrase --- 验证通行短语
+Action --- 操作
+Delete config cache file --- 删除配置缓存文件
+noop --- noop
+Clear Local Config Cache --- 清除本地配置缓存
+Creating AAA OAM server may require restarts of the EAM service. --- 创建 AAA OAM 服务器可能需要重新启动 EAM 服务。
+Updating or deleting AAA OAM server may require restarts of the EAM service. --- 更新或删除 AAA OAM 服务器可能需要重新启动 EAM 服务。
+Deleting AAA OAM Server may require restarts of the EAM service. --- 删除 AAA OAM 服务器可能需要重新启动 EAM 服务。
+Creation of more than one AAA OAM server is not allowed. --- 不允许创建多个 AAA OAM 服务器。
+Microsoft Tenant Id --- Microsoft 租户 Id
+Admin DN --- 管理员 DN
+Admin Name --- 管理员名称
+Admin Password --- 管理员密码
+Verify Admin Password --- 验证管理员密码
+AAA Servers By Type --- 各类型的 AAA 服务器
+All AAA Servers --- 全部 AAA 服务器
+Could not delete AAA Server --- 无法删除 AAA 服务器
+Could not delete Access Profile --- 无法删除访问概要文件
+New ACL... --- 新建 ACL...
+ACL --- ACL
+Match Case For Paths --- 匹配路径大小写
+Full Paths --- 完整路径
+Applied To --- 应用对象
+Used In --- 用于范围
+ACL Properties --- ACL 属性
+Change ACL Order... --- 更改 ACL 顺序...
+Change AC Entries Order... --- 更改 AC 条目顺序...
+ACEs --- ACE
+Access Control Entry Properties --- 访问控制条目属性
+Access Control Entries --- 访问控制条目
+Start Port --- 起始端口
+Port Range --- 端口范围
+End Port --- 终止端口
+Source Port(s) --- 源端口
+Destination Port(s) --- 目标端口
+Src Port(s) --- 源端口
+Dst Port(s) --- 目标端口
+Source Mask --- 源掩码
+Source Start Port --- 源起始端口
+Source End Port --- 源终止端口
+Destination Mask --- 目标掩码
+Destination Start Port --- 目标起始端口
+Destination End Port --- 目标终止端口
+Log --- 日志
+None --- 无
+Config --- 配置
+Summary --- 总结
+Verbose --- 详细
+Packet --- 数据包
+New Access Control Entry... --- 新建访问控制条目...
+ACL Order --- ACL 顺序
+ACL Order --- ACL 顺序
+Allow --- 允许
+Reject --- 拒绝
+Continue --- 继续
+Discard --- 放弃
+Paths --- 路径
+Scheme --- 方案
+L4 --- L4
+L7 --- L7
+L4+L7 --- L4+L7
+Click this link to see all Access Control Entries... --- 单击此链接查看所有访问控制条目...
+Static --- 静态
+Dynamic --- 动态
+Dynamic ACL --- 动态 ACL
+Could not delete ACL --- 无法删除 ACL
+Private Key --- 专用密钥
+Public Key --- 公共密钥
+Verification URL --- 验证 URL
+Challenge URL --- 挑战 URL
+Display CAPTCHA After Number of Logon Attempts Equals --- 在登录尝试次数相等后显示 CAPTCHA
+Track Logon Failures --- 跟踪登录故障
+By Username --- 按用户名
+CAPTCHA Theme --- CAPTCHA 主题
+Allow Access if CAPTCHA Verification Cannot Complete --- 允许在 CAPTCHA 验证无法完成时访问
+Secret --- 密钥
+Site Key --- 站点密钥
+Data Theme --- 数据主题
+Data Type --- 数据类型
+Data Size --- 数据大小
+Red --- 红色
+White --- 白色
+Blackglass --- 黑玻璃色
+Clean --- 清除
+Custom --- 自定义
+Dark --- 深色
+Light --- 浅色
+Audio --- 音频
+Image --- 图像
+Compact --- 压缩
+Normal --- 正常
+Language --- 语言
+Advanced --- 高级
+Customization Type --- 自定义类型
+Find Customization --- 查找自定义项
+Customization Lookup --- 自定义查询
+Customization Settings --- 自定义设置
+New Customization... --- 新建自定义项...
+Caption --- 说明
+Image --- 图像
+Restore Default --- 恢复默认值
+Component Installer Service for Windows --- 适用于 Windows 的组件安装程序服务
+Endpoint Security for Windows --- 适用于 Windows 的端点安全
+Dialup Entry / Windows Logon Integration --- 拨号条目/ Windows 登录集成
+Traffic Control Service for Windows --- 适用于 Windows 的流量控制服务
+User Logon Credentials Access Service for Windows --- 适用于 Windows 的用户登录凭证访问服务
+Machine Certificate Checker Service for Windows --- 适用于 Windows 的机器证书检查程序服务
+Customized Package --- 自定义数据包
+Features --- 功能
+\n\nAre you sure you want to proceed? --- \n\n确定要继续？
+Click to delete all records from the reporting log database. --- 单击以从报告日志数据库删除所有记录。
+This operation will delete all logged records. --- 该操作将删除所有已记录的记录。
+\n\nAre you sure you want to proceed? --- \n\n确定要继续？
+logged records --- 已记录的记录
+Log Database Maintenance --- 日志数据库维护
+Log Rotation Period --- 日志循环期限
+Maximum Number Of Log Entries --- 日志条目最大数量
+Write To APM Log File --- 写入 APM 日志文件
+Apply Access Policy --- 应用访问策略
+SSO Method --- SSO 方法
+Username Source --- 用户名源
+Password Source --- 密码源
+Domain Source --- 域源
+User Realm Source --- 用户域源
+Confirm Password --- 确认密码
+Username Conversion --- 用户名转换
+Pass Through --- 通过
+Maximum Redirect --- 最大重定向
+Form Based --- 基于表单
+Forms --- 表单
+Kerberos --- Kerberos
+OAM --- OAM
+SAML --- SAML
+External Access Management --- 外部访问管理
+Access Management Method --- 访问管理方法
+Oracle Access Management Server --- Oracle 访问管理服务器
+Oracle Access Management --- Oracle 访问管理
+No OAM servers configured --- 未配置 OAM 服务器
+External Access --- 外部访问
+SSO+External Access --- SSO+外部访问
+Credentials Source --- 凭证源
+Always --- 总是
+On 401 Status Code --- 关于 401 状态码
+Kerberos Realm --- Kerberos 域
+KDC --- KDC
+Account Name --- 账户名称
+Account Password --- 账户密码
+Confirm Account Password --- 确认账户密码
+SPN Pattern --- SPN 样式
+Ticket Lifetime --- 票证生命期
+Use SSO Template --- 使用 SSO 模板
+Select SSO Template --- 选择 SSO 模板
+SSO Template --- SSO 模板
+Filter By Method: --- 按方法筛选：
+All Methods --- 全部方法
+SSO Version --- SSO 版本
+SSO V1 --- SSO V1
+SSO V2 --- SSO V2
+Send Authorization --- 发送授权
+Send Token --- 发送令牌
+Always --- 总是
+On 4xx Response --- 关于 4xx 响应
+On 400 --- 关于 400
+On 401 --- 关于 401
+On 403 --- 关于 403
+Token Source --- 令牌源
+Passthrough --- 通过
+Generate JWT --- 生成 JWT
+Enable Token Cache --- 启用令牌缓存
+Signing Key --- 签名密钥
+Show a warning message when the webtop window close --- Webtop 窗口关闭时显示警告消息
+Delete this Webtop --- 删除此 Webtop
+New Webtop... --- 新建 Webtop...
+Portal Access Start URI --- 门户访问启动 URI
+Invalid Portal Access Start URI: The URI  might contain invalid characters. --- 门户访问启动 URI 无效：该 URI 可能包含无效字符。
+Minimize To Tray --- 最小化到托盘
+Show URL Entry Field --- 显示 URL 输入字段
+Delete this Webtop Link --- 删除此 Webtop 链接
+New Webtop Link... --- 新建 Webtop 链接...
+New Webtop Section... --- 新建 Webtop 版块...
+Application URI --- 应用 URI
+Full Webtop --- 完整 Webtop
+Fallback Section --- 回退版块
+Display Order --- 显示顺序
+WS Order --- WS 顺序
+Expanded --- 已展开
+Collapsed --- 已折叠
+Initial State --- 初始状态
+By Priority --- 按优先级
+Alphabetically --- 按字母顺序
+Sort Resources --- 对资源排序
+Change Webtop Sections Order... --- 更改 Webtop 版块顺序...
+Change Webtop Sections Resources Order... --- 更改 Webtop 版块资源顺序...
+Show Resources --- 显示资源
+Hide Resources --- 隐藏资源
+New SAML Resource... --- 新建 SAML 资源...
+Delete this SAML Resource --- 删除此 SAML 资源
+External IdP Connectors --- 外部 IdP 连接器
+IdP Automation --- IdP 自动化
+Connector Automation --- 连接器自动化
+External SP Connectors --- 外部 SP 连接器
+Connector Automation --- 连接器自动化
+Exchange --- 交换
+Active Sessions --- 活跃会话
+Log Settings --- 日志设置
+Logging Data --- 日志记录数据
+ACE --- ACE
+Master --- 主设备
+RTU --- RTU
+Downloads --- 下载
+Type of Download --- 下载类型
+Download Results --- 下载结果
+Database Download --- 数据库下载
+Proxy is not configured --- 代理尚未配置
+Database download server (download.websense.com) could not be reached. --- 无法连接数据库下载服务器 (download.websense.com)。
+Database Download In Progress. --- 正在下载数据库。
+URL Database download is already in progress. --- URL 数据库下载已在进行中。
+URL Category Lookup --- URL 类别查询
+Database Settings --- 数据库设置
+URL --- URL
+Category Lookup Results --- 类别查询结果
+The URL must contain a domain name. --- URL 必须包含域名。
+URL category lookup failed. --- URL 类别查询失败。
+Download Schedule --- 下载计划
+Use Proxy --- 使用代理
+Download Now --- 马上下载
+\nAre you sure you want to proceed? --- \n确定要继续？
+Update Settings --- 更新设置
+DB Indexing --- 正在构建数据库索引
+The Master DB used by SWG is currently being indexed. --- SWG 使用的主数据库目前正在构建索引。
+Default Action --- 默认操作
+Version --- 版本
+Slot --- 插槽
+Log Settings --- 日志设置
+Application --- 应用
+Application Family --- 应用系列
+Application Filter --- 应用筛选器
+Application Filters --- 应用筛选器
+Application Properties --- 应用属性
+New Application Filter... --- 新建应用筛选器...
+Category --- 类别
+URL Filter --- URL 筛选器
+URL Filters --- URL 筛选器
+New URL Filter... --- 新建 URL 筛选器...
+Associated Categories --- 关联的类别
+Confirm --- 确认
+Block --- 数据块
+Mixed --- 混合
+Monitor --- 监测器
+Allow --- 允许
+Recommended --- 推荐
+None --- 无
+Aggressive --- 积极性
+Filter Settings --- 筛选器设置
+Filtering Action --- 筛选操作
+Sub-Category --- 子类别
+No Sub-categories Configured. --- 未配置子类别。
+URL Categories --- URL 类别
+Add To --- 添加至
+Category Properties --- 类别属性
+Associated URLs --- 关联的 URL
+New URL Category... --- 新建 URL 类别...
+Delete this URL Category... --- 删除此 URL 类别...
+New Scheme Schedule... --- 新建方案计划...
+Schedule Settings --- 计划设置
+All Day --- 全天
+Between... --- 介于...
+Time Range --- 时间范围
+Days Valid --- 有效日期
+Schemes --- 方案
+Scheme Settings --- 方案设置
+New Scheme... --- 新建方案...
+Delete this Scheme --- 删除此方案
+Least-Restrictive --- 限制最少
+Most-Restrictive --- 限制最多
+SWG Service Failure Action --- SWG 服务故障操作
+Copy... --- 复制...
+Copy Filter --- 复制筛选器
+Filter to Copy --- 要复制的筛选器
+New Filter Name --- 新筛选器名称
+Custom Categories --- 自定义类别
+Default URL Filter --- 默认 URL 筛选器
+Max Buffer Size --- 最大缓冲大小
+Max Buffer Time --- 最大缓冲时间
+Excluded --- 已排除
+Scannable --- 可扫描
+URL --- URL
+Glob Pattern Match --- 全局模式匹配
+MDM/MAM Server --- MDM/MAM 服务器
+Active Directory Trusted Domains --- Active Directory 信任域
+Collect Data --- 收集数据
+Sample Data --- 样本数据
+Report Settings --- 报告设置
+Policy Settings --- 策略设置
+Access Reports --- 访问报告
+SWG Reports --- SWG 报告
+All Requests --- 全部请求
+Blocked Requests --- 已阻止的请求
+Subsessions --- 子会话
+Subsession ID --- 子会话 ID
+Idle Timeout --- 空闲超时
+Validation Timeout --- 验证超时
+Valid --- 有效
+In Use --- 使用中
+Variables --- 变量
+Scope --- 范围
+Scopes --- 范围
+JWT Claims --- JWT 要求
+ID Token Claims --- ID 令牌要求
+UserInfo Claims --- 用户信息要求
+OAuth Profile --- OAuth 概要文件
+Database Instance --- 数据库实例
+Resource Server --- 资源服务器
+Frequency --- 频率
+Schedule At --- 计划时间
+Purge Now --- 马上清除
+Never --- 从不
+Hourly --- 每小时
+Daily --- 每日
+Weekly --- 每周
+Monthly --- 每月
+Are you sure you want to start purging the database --- 确定要开始清除此数据库
+Purge Status --- 清除状态
+Purging initiated for OAuth DB Instance ({instance_name}). --- 已为 OAuth 数据库实例 ({instance_name}) 启动此清除。
+Time taken for DB purging depends on the amount of data; --- 数据库清除所需时间取决于数据量；
+Only expired tokens will be removed. --- 仅会移除过期的令牌。
+Purge Status --- 清除状态
+The last successful purge executed at {purge_time} --- 上一次成功清除执行时间：{purge_time}
+Authorization Code Lifetime --- 授权码生命期
+Access Token Lifetime --- 访问令牌生命期
+JWT Access Token Lifetime --- JWT 访问令牌生命期
+Reuse Access Token --- 复用访问令牌
+Access Token Limit Per User --- 每位用户的访问令牌限制
+Generate Refresh Token --- 生成刷新令牌
+JWT Generate Refresh Token --- JWT 生成刷新令牌
+Refresh Token Lifetime --- 刷新令牌生命期
+JWT Refresh Token Lifetime --- JWT 刷新令牌生命期
+ID Token Lifetime --- ID 令牌生命期
+Reuse Refresh Token --- 复用刷新令牌
+Refresh Token Usage Limit --- 刷新令牌用量限制
+JWT Primary Key --- JWT 主密钥
+ID Token Primary Key --- ID 令牌主密钥
+UserInfo Primary Key --- 用户信息主密钥
+JWT Refresh Token Encryption Secret --- JWT 刷新令牌加密密钥
+Verify JWT Refresh Token Encryption Secret --- 验证 JWT 刷新令牌加密密钥
+Trusted Certificate Authorities --- 受信证书授权中心
+Ignore Expired Certificate Validation --- 忽略已过期的证书验证
+Issuer --- 颁发者
+Subject --- 使用者
+Authorization Server Endpoints --- 授权服务器端点
+Authorization Endpoint --- 授权端点
+Token Issuance Endpoint --- 令牌颁发端点
+Token Revocation Endpoint --- 令牌撤销端点
+Token Introspection Endpoint --- 令牌自检端点
+JWKS Endpoint --- JWKS 端点
+UserInfo Endpoint --- 用户信息端点
+New Scope... --- 新建范围...
+New OAuth Profile... --- 新建 OAuth 概要文件...
+New Resource Server... --- 新建资源服务器...
+New Database Instance... --- 新建数据库实例...
+Scope Name --- 范围名称
+Scope Value --- 范围值
+Resource Server Name --- 资源服务器名称
+Resource Server ID --- 资源服务器 ID
+Resource Server Certificate Distinguished Name --- 资源服务器证书可分辨名称
+Application Name --- 应用名称
+Website URL --- 网站 URL
+Website Logo URL --- 网站徽标 URL
+Grant Type --- 授予类型
+None --- 无
+Secret --- 密钥
+Certificate --- 证书
+Authorization Code / Hybrid --- 授权码/混合
+Implicit --- 隐式
+Resource Owner Password Credentials --- 资源所有者密码凭证
+Regenerate --- 重新生成
+Redirect URI(s) --- 重定向 URI
+Use Profile Token Management Settings --- 使用概要文件令牌管理设置
+Audience --- 受众
+Rotation Keys --- 转置密钥
+Download Resource Servers --- 下载资源服务器
+Select at least one Resource Server to download properties to CSV file --- 至少选择一个资源服务器，以将属性下载至 CSV 文件
+Purge Schedule Settings --- 清除计划设置
+Never --- 从不
+Purge --- 清除
+Schedule --- 计划
+Custom --- 自定义
+F5 --- F5
+Google --- Google
+Ping --- Ping
+Facebook --- Facebook
+AzureAD --- AzureAD
+AzureAD-B2C --- AzureAD-B2C
+Okta --- Okta
+Mode --- 模式
+Provider --- 提供者
+Request --- 请求
+Resource Server --- 资源服务器
+OAuth Server --- OAuth 服务器
+OAuth Servers --- OAuth 服务器
+New Provider... --- 新建提供者...
+New Request... --- 新建请求...
+OAuth Provider --- OAuth 提供者
+Token URI --- 令牌 URI
+Token Revocation URI --- 令牌撤销 URI
+Token Validation Scope URI --- 令牌验证范围 URI
+UserInfo Request URI --- 用户信息请求 URI
+Token Validation Interval --- 令牌验证时间间隔
+Resource Server ID --- 资源服务器 ID
+Resource Server Secret --- 资源服务器密钥
+Resource Server Settings --- 资源服务器设置
+Parameter Type: --- 参数类型：
+Parameter Name: --- 参数名称：
+Parameter Value: --- 参数值：
+Request Parameters --- 请求参数
+Request Headers --- 请求头
+Header Name: --- 头名称：
+Header Value: --- 头值：
+Delete this OAuth Request --- 删除此 OAuth 请求
+Copy Request --- 复制请求
+Request to Copy --- 要复制的请求
+New Request Name --- 新请求名称
+JSON Web Token --- JSON Web 令牌
+Claim --- 要求
+Machine Account Name --- 机器账户名称
+Domain FQDN --- 域 FQDN
+Domain Controller FQDN --- 域控制器 FQDN
+NetBIOS Domain Name --- NetBIOS 域名称
+New Machine Account... --- 新建机器账户...
+Join --- 联结
+Renew Machine Password --- 更新机器密码
+Machine Password Last Modified Time --- 机器密码上一次修改时间
+Click this link to see all Domain Controller FQDN Entries... --- 单击此链接查看所有域控制器 FQDN 条目...
+Auto launch --- 自动启动
+DTLS --- DTLS
+DTLS Port --- DTLS 端口
+Use split tunneling for traffic --- 使用流量隧道分离
+Force all traffic through tunnel --- 强制所有流量通过通道
+Compression --- 压缩
+No Compression --- 无压缩
