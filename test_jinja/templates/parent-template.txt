@@ -1,0 +1,14 @@
+Hello {{ name }}!
+
+{% block replaced %}
+{% endblock %}
+
+{% block not_replaced %}
+{% endblock %}
+
+{% block here_use_super %}
+SUPER in parent template
+{% endblock %}
+
+This is in parenet template
+parent str can be in children's world

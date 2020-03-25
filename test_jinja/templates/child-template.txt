@@ -1,0 +1,12 @@
+{% extends "parent-template.txt" %}
+{% block replaced %}
+This is {{ jinja_name }}
+{% endblock %}
+
+{% block here_use_super %}
+super is used in child
+{{ super() }}
+{% endblock %}
+
+This is not in parent template
+child thing can not be in parent world
