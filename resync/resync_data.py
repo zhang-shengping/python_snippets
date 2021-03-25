@@ -29,7 +29,6 @@ if conf.agent_id:
     agent_host = conf.agent_id
 
 def set_up_driver_rpcclient():
-    import pdb; pdb.set_trace()
     topic = constants_v2.TOPIC_PROCESS_ON_HOST_V2
     if conf.environment_specific_plugin:
         topic = topic + '_' + conf.environment_prefix
@@ -46,7 +45,7 @@ def set_up_driver_rpcclient():
 
 if __name__ == "__main__":
     driver_rpcclient = set_up_driver_rpcclient()
-    lb_id = "4c7b2839-798f-479f-8893-a9f2e51e723f"
+    lb_id = "71ed67ad-fea0-427f-8b29-88db808db186"
     svc = driver_rpcclient.get_service_by_loadbalancer_id(
         lb_id)
     print svc
