@@ -48,11 +48,16 @@ def set_up_db_rpcclient():
 if __name__ == "__main__":
     t1 = time.time()
     db_rpcclient = set_up_db_rpcclient()
-    lb_id = "1ca0d78c-2d05-48c9-9eed-4c803754603e"
-    svc = db_rpcclient.get_service_by_loadbalancer_id(
-        lb_id)
-    icontrol = resync_icontrol.ResynciControlDriver(conf, db_rpcclient)
-    icontrol.connect()
-    icontrol.service_exists(svc)
+    filters = {"project-id": "81d4fcdf7b744c3d901bff663bd1c642"}
+    members = db_rpcclient.get_pool_members(filters)
     t2 = time.time()
     print(t2-t1)
+    print members
+
+    print ("-----------------------")
+
+    member_id = "fd4343ee-6df8-47f6-8456-fb227818f33d"
+    member = db_rpcclient.get_member_by_id(member_id)
+    t3 = time.time()
+    print(t3-t2)
+    print member
