@@ -17,6 +17,7 @@ from collections import defaultdict
 
 from neutron_lib.plugins import constants as lib_const
 from neutron_lib.plugins import directory
+from neutron_lbaas.services.loadbalancer.data_models import LoadBalancer
 from oslo_config import cfg
 from oslo_log import log as logging
 import oslo_messaging
@@ -47,7 +48,10 @@ try:
 except ImportError as Error:
     pass
 import f5_openstack_agent.lbaasv2.drivers.bigip.agent_manager as manager
+from neutron_lib import context as ncontext
 import sys
+
+from f5lbaasdriver.v2.bigip.driver_v2 import F5DriverV2
 
 
 LOG = logging.getLogger(__name__)
@@ -61,43 +65,6 @@ def load_config():
     config.register_root_helper(cfg.CONF)
     common_config.init(sys.argv[1:])
     # cfg.CONF(sys.argv[1:])
-
-class ManagerMeta(profiler.TracedMeta, type(periodic_task.PeriodicTasks)):
-    pass
-
-
-@six.add_metaclass(ManagerMeta)
-class Manager(periodic_task.PeriodicTasks):
-    __trace_args__ = {"name": "rpc"}
-
-    # Set RPC API version to 1.0 by default.
-    target = oslo_messaging.Target(version='1.0')
-
-    def __init__(self, host=None):
-        if not host:
-            host = cfg.CONF.host
-        self.host = host
-        conf = getattr(self, "conf", cfg.CONF)
-        super(Manager, self).__init__(conf)
-
-    def periodic_tasks(self, context, raise_on_error=False):
-        self.run_periodic_tasks(context, raise_on_error=raise_on_error)
-
-    def init_host(self):
-        """Handle initialization if this is a standalone service.
-
-        Child classes should override this method.
-
-        """
-        pass
-
-    def after_start(self):
-        """Handler post initialization stuff.
-
-        Child classes can override this method.
-        """
-        pass
-
 
 def validate_post_plugin_load():
     """Checks if the configuration variables are valid.
@@ -167,9 +134,9 @@ class NeutronManager(object):
         self._load_services_from_core_plugin(plugin)
         self._load_service_plugins()
         # Used by pecan WSGI
-        self.resource_plugin_mappings = {}
-        self.resource_controller_mappings = {}
-        self.path_prefix_resource_mappings = defaultdict(list)
+        # self.resource_plugin_mappings = {}
+        # self.resource_controller_mappings = {}
+        # self.path_prefix_resource_mappings = defaultdict(list)
 
     @property
     def core_plugin(self):
@@ -242,6 +209,7 @@ class NeutronManager(object):
             if directory.get_plugin(plugin_type):
                 raise ValueError(_("Multiple plugins for service "
                                    "%s were configured") % plugin_type)
+            # import pdb; pdb.set_trace()
 
             directory.add_plugin(plugin_type, plugin_inst)
 
@@ -278,47 +246,47 @@ class NeutronManager(object):
             cls._create_instance()
         return cls._instance
 
-    @classmethod
-    def set_plugin_for_resource(cls, resource, plugin):
-        cls.get_instance().resource_plugin_mappings[resource] = plugin
+    # @classmethod
+    # def set_plugin_for_resource(cls, resource, plugin):
+        # cls.get_instance().resource_plugin_mappings[resource] = plugin
 
-    @classmethod
-    def get_plugin_for_resource(cls, resource):
-        return cls.get_instance().resource_plugin_mappings.get(resource)
+    # @classmethod
+    # def get_plugin_for_resource(cls, resource):
+        # return cls.get_instance().resource_plugin_mappings.get(resource)
 
-    @classmethod
-    def set_controller_for_resource(cls, resource, controller):
-        cls.get_instance().resource_controller_mappings[resource] = controller
+    # @classmethod
+    # def set_controller_for_resource(cls, resource, controller):
+        # cls.get_instance().resource_controller_mappings[resource] = controller
 
-    @classmethod
-    def get_controller_for_resource(cls, resource):
-        resource = resource.replace('_', '-')
-        res_ctrl_mappings = cls.get_instance().resource_controller_mappings
-        # If no controller is found for resource, try replacing dashes with
-        # underscores
-        return res_ctrl_mappings.get(
-            resource,
-            res_ctrl_mappings.get(resource.replace('-', '_')))
+    # @classmethod
+    # def get_controller_for_resource(cls, resource):
+        # resource = resource.replace('_', '-')
+        # res_ctrl_mappings = cls.get_instance().resource_controller_mappings
+        # # If no controller is found for resource, try replacing dashes with
+        # # underscores
+        # return res_ctrl_mappings.get(
+            # resource,
+            # res_ctrl_mappings.get(resource.replace('-', '_')))
 
     # TODO(blogan): This isn't used by anything else other than tests and
     # probably should be removed
-    @classmethod
-    def get_service_plugin_by_path_prefix(cls, path_prefix):
-        service_plugins = directory.get_unique_plugins()
-        for service_plugin in service_plugins:
-            plugin_path_prefix = getattr(service_plugin, 'path_prefix', None)
-            if plugin_path_prefix and plugin_path_prefix == path_prefix:
-                return service_plugin
+    # @classmethod
+    # def get_service_plugin_by_path_prefix(cls, path_prefix):
+        # service_plugins = directory.get_unique_plugins()
+        # for service_plugin in service_plugins:
+            # plugin_path_prefix = getattr(service_plugin, 'path_prefix', None)
+            # if plugin_path_prefix and plugin_path_prefix == path_prefix:
+                # return service_plugin
 
-    @classmethod
-    def add_resource_for_path_prefix(cls, resource, path_prefix):
-        resources = cls.get_instance().path_prefix_resource_mappings[
-            path_prefix].append(resource)
-        return resources
+    # @classmethod
+    # def add_resource_for_path_prefix(cls, resource, path_prefix):
+        # resources = cls.get_instance().path_prefix_resource_mappings[
+            # path_prefix].append(resource)
+        # return resources
 
-    @classmethod
-    def get_resources_for_path_prefix(cls, path_prefix):
-        return cls.get_instance().path_prefix_resource_mappings[path_prefix]
+    # @classmethod
+    # def get_resources_for_path_prefix(cls, path_prefix):
+        # return cls.get_instance().path_prefix_resource_mappings[path_prefix]
 
 
 def init():
@@ -329,13 +297,22 @@ def init():
 
 
 if __name__ == "__main__":
+    import pdb; pdb.set_trace()
     load_config()
     mage = init()
-    # plugins = directory.get_plugins()
-    # print plugins
-    # plugin = directory.get_plugin("CORE")
-    # plugin = directory.get_plugin("LOADBALANCERV2")
-    import pdb; pdb.set_trace()
+    lbaas_plugin = directory.get_plugin("LOADBALANCERV2")
+    f5_driver = F5DriverV2(lbaas_plugin, "Project")
 
-    print "testest"
+    loadbalancer_id = "71ed67ad-fea0-427f-8b29-88db808db186"
+    context = ncontext.get_admin_context()
+    lb = lbaas_plugin.db.get_loadbalancer(context, id=loadbalancer_id)
 
+    lb = LoadBalancer(**lb) if type(lb) == dict else lb
+    agent = f5_driver.plugin.db.get_agent_hosting_loadbalancer(
+        context,
+        loadbalancer_id
+    )
+    agent = (agent['agent'] if 'agent' in agent else agent)
+
+    service = f5_driver.service_builder.build(context, lb, agent)
+    print service
