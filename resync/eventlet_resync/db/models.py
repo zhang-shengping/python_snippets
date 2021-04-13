@@ -1,20 +1,16 @@
 # -*- coding: utf-8 -*-
-# import eventlet.patcher
-# eventlet.patcher.monkey_patch()
 
+from f5_openstack_agent.lbaasv2.drivers.bigip.resync import options
 from f5_openstack_agent.lbaasv2.drivers.bigip.resync.db import connection
 from oslo_config import cfg
-from oslo_db import options
-import sys
 
 from sqlalchemy import Table, Column, String, ForeignKey
 from sqlalchemy.orm import relationship
 
-conf = cfg.ConfigOpts()
-options.set_defaults(conf)
-
-conf_files = sys.argv[1:]
-conf(conf_files)
+options.load_db_options()
+options.parse_options()
+conf = cfg.CONF
+import pdb; pdb.set_trace()
 
 con = connection.Connection(conf)
 Base = con.base
@@ -24,6 +20,8 @@ metadata = Base.metadata
 class Loadbalancer(Base):
     __tablename__ = 'lbaas_loadbalancers'
     __table_args__ = {'autoload':True}
+    
+    project_id = Column("project_id")
 
 
 class Listener(Base):
@@ -32,6 +30,7 @@ class Listener(Base):
 
     loadbalancer_id = Column("loadbalancer_id")
 
+
 class Pool(Base):
     __tablename__ = 'lbaas_pools'
     __table_args__ = {'autoload':True, 'extend_existing': True}
@@ -39,8 +38,8 @@ class Pool(Base):
     loadbalancer_id = Column("loadbalancer_id")
     healthmonitor_id = Column(String, ForeignKey('lbaas_healthmonitors.id'))
 
-    members = relationship("Member")
-    healthmonitor = relationship("Monitor", uselist=False)
+    members = relationship("Member", lazy='subquery')
+    healthmonitor = relationship("Monitor", uselist=False, lazy='subquery')
 
 
 class Monitor(Base):

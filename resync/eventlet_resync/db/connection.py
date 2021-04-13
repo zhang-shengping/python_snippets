@@ -3,8 +3,8 @@
 from sqlalchemy import create_engine
 from sqlalchemy.ext.declarative import declarative_base
 from sqlalchemy.orm import sessionmaker, scoped_session
-import eventlet
 
+import eventlet
 eventlet.monkey_patch(thread=True)
 
 def get_engine(conf):
@@ -12,7 +12,8 @@ def get_engine(conf):
     engine_args = {
         "pool_recycle": conf.database.idle_timeout,
         "echo": False,
-        "pool_size": conf.database.max_pool_size,
+        # "pool_size": conf.database.max_pool_size,
+        "pool_size": 1,
         "pool_timeout": conf.database.pool_timeout
     }
 
@@ -35,14 +36,18 @@ class Session(object):
 
     def __init__(self, conn):
         self.connection = conn
+        self.engine = self.connection.engine
+        # self.scope_session = sessionmaker(bind=self.connection.engine)
         self.scope_session = scoped_session(sessionmaker(bind=self.connection.engine))
 
     def __enter__(self):
+        print(self.engine.pool.status())
         session = self.scope_session()
         return session
 
     def __exit__(self, exc_type, exc_val, exc_tb):
         self.scope_session.remove()
+        # self.scope_session.close()
 
 if __name__ == "__main__":
 
