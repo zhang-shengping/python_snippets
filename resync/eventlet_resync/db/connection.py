@@ -12,8 +12,7 @@ def get_engine(conf):
     engine_args = {
         "pool_recycle": conf.database.idle_timeout,
         "echo": False,
-        # "pool_size": conf.database.max_pool_size,
-        "pool_size": 1,
+        "pool_size": conf.database.max_pool_size,
         "pool_timeout": conf.database.pool_timeout
     }
 

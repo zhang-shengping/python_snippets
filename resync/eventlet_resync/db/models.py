@@ -5,21 +5,28 @@ from f5_openstack_agent.lbaasv2.drivers.bigip.resync.db import connection
 from oslo_config import cfg
 
 from sqlalchemy import Table, Column, String, ForeignKey
-from sqlalchemy.orm import relationship
+from sqlalchemy.orm import relationship, backref
 
 options.load_db_options()
 options.parse_options()
 conf = cfg.CONF
-import pdb; pdb.set_trace()
 
 con = connection.Connection(conf)
 Base = con.base
 metadata = Base.metadata
 
 
+class Loadbalanceragentbindings(Base):
+    __tablename__ = "lbaas_loadbalanceragentbindings"
+    __table_args__ = {'autoload':True}
+    
+    loadbalancer_id = Column(String, ForeignKey('lbaas_loadbalancers.id'), primary_key=True)
+    agent_id = Column(String)
+
+
 class Loadbalancer(Base):
     __tablename__ = 'lbaas_loadbalancers'
-    __table_args__ = {'autoload':True}
+    __table_args__ = {'autoload':True, 'extend_existing': True}
     
     project_id = Column("project_id")
 
@@ -37,7 +44,8 @@ class Pool(Base):
 
     loadbalancer_id = Column("loadbalancer_id")
     healthmonitor_id = Column(String, ForeignKey('lbaas_healthmonitors.id'))
-
+    
+    # use eagerly load
     members = relationship("Member", lazy='subquery')
     healthmonitor = relationship("Monitor", uselist=False, lazy='subquery')
 

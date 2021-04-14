@@ -12,9 +12,25 @@ from oslo_db import options
 # common_config.init(parse_args.conf_files)
 
 tool_opts = [
-    cfg.IntOpt("f5-check-thread",
+    cfg.IntOpt("thread_pool",
+               short="th",
                default=1,
-               help=_("Green Threads"))
+               help=_("Green Threads")),
+
+    cfg.StrOpt("f5-agent",
+                short="ag",
+                default=None,
+                help=_("Provide an ID of an agent")),
+
+    cfg.StrOpt("f5-project",
+                short="pj",
+                default=None,
+                help=_("Provide an ID of a project")),
+
+    cfg.StrOpt("f5-loadbalancer",
+                short="lb",
+                default=None,
+                help=_("Provide an ID of a loadbalancer"))
 ]
 
 cfg.CONF.register_cli_opts(tool_opts)

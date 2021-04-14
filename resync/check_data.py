@@ -63,6 +63,15 @@ def check_resource(loadbalancers, th_pool=1):
         green_pool.spawn(service_exists, lb.id)
     green_pool.waitall()
 
+def check_by_agent(agent_id, th_pool=1):
+    query = queries.Queries() 
+    loadbalancers = query.get_loadbalancers_by_agent_id(agent_id)
+    t1 = time.time()
+    check_resource(loadbalancers, th_pool)
+    t2 = time.time()
+    elapse = t2 - t1
+    print("Check agent: %s finished, time elapse: %s seconds"%(agent_id, elapse))
+
 def check_by_project(project_id, th_pool=1):
     query = queries.Queries() 
     loadbalancers = query.get_loadbalancers_by_project_id(project_id)
@@ -71,7 +80,6 @@ def check_by_project(project_id, th_pool=1):
     t2 = time.time()
     elapse = t2 - t1
     print("Check project: %s finished, time elapse: %s seconds"%(project_id, elapse))
-    
     
 def check_by_loadbalancer(lb_id, th_pool=1):
     query = queries.Queries() 
@@ -83,11 +91,21 @@ def check_by_loadbalancer(lb_id, th_pool=1):
     print("Check loadbalancer: %s finished, time elapse: %s seconds" % (lb_id, elapse))
 
 if __name__ == "__main__":
+
     t1 = time.time()
-    project_id = "81d4fcdf7b744c3d901bff663bd1c642"
-    th_pool = conf.f5_check_thread
-    check_by_project(project_id, th_pool)
-    # check_by_loadbalancer(loadbalancer_id, th_pool)
+    th_pool = conf.thread_pool
+    if th_pool < 1:
+        raise Exception("f5-check-thread cannot be set as: %s", th_pool)
+
+    if conf.f5_agent:
+       check_by_agent(conf.f5_agent, th_pool)
+    elif conf.f5_project:
+       check_by_project(conf.f5_project, th_pool)
+    elif conf.f5_loadbalancer:
+       check_by_loadbalancer(conf.f5_loadbalancer, th_pool)
+    else:
+        raise Exception("Provide an ID corresponding to the check level "
+                         "--f5-agent/--f5-project/--f5-loadbalancer")
     t2 = time.time()
-    print ("finished")
-    print(t2-t1)
+    elapse = t2 - t1
+    print ("all check finishe, time elapse is: %s" % elapse)

@@ -6,6 +6,7 @@
 from f5_openstack_agent.lbaasv2.drivers.bigip.resync.db import models
 from f5_openstack_agent.lbaasv2.drivers.bigip.resync.db import connection
 from f5_openstack_agent.lbaasv2.drivers.bigip.resync.db.connection import Session
+from sqlalchemy.orm import joinedload
 
 class Queries(object):
 
@@ -21,6 +22,13 @@ class Queries(object):
         self.pl = models.Pool
         self.mn = models.Monitor
         self.mb = models.Member
+        self.bindings = models.Loadbalanceragentbindings
+
+    def get_loadbalancers_by_agent_id(self, agent_id):
+        with Session(self.connection) as se:
+            ret = se.query(self.lb).join(self.bindings).filter(
+                  self.lb.id == self.bindings.loadbalancer_id).all()
+        return ret
 
     def get_loadbalancer(self, lb_id):
         with Session(self.connection) as se:

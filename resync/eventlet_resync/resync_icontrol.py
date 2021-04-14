@@ -7,9 +7,6 @@ from f5_openstack_agent.lbaasv2.drivers.bigip.virtual_address import \
 from f5_openstack_agent.lbaasv2.drivers.bigip import resource_helper
 import time
 
-def exception_catcher():
-    def decorater():
-        pass
 
 class ResynciControlDriver(iControlDriver):
     def __init__(self, conf, db_orm, db_rpcclient):
@@ -78,8 +75,6 @@ class ResynciControlDriver(iControlDriver):
 
         self.pool_resources_exists(loadbalancer, folder_name)
 
-        print ("------------------------------------------------")
-
     def assgin_vip_routedomain(self, loadbalancer):
 
         subnet_id = loadbalancer.get("vip_subnet_id")
@@ -118,10 +113,12 @@ class ResynciControlDriver(iControlDriver):
             try:
                 self.system_helper.folder_exists(bigip, folder_name)
             except Exception as ec:
-                #with open("/tmp/missing_partition.txt", 'a') as writer:
-                #    outstr = "bigip: {}, partition: {}\n".format(
-                #        bigip.hostname, folder_name)
-                #    writer.write(outstr)
+                # log_file = "/tmp/{}_missing_partition.txt".format(folder_name)
+                log_file = "/tmp/missing_partition.txt"
+                with open(log_file, 'a') as writer:
+                    outstr = "bigip: {}, partition: {}\n".format(
+                        bigip.hostname, folder_name)
+                    writer.write(outstr)
                 self.NONEXIST_PARTITION[folder_name] = bigip.hostname
         t2 = time.time()
         spd = t2 - t1
@@ -145,10 +142,12 @@ class ResynciControlDriver(iControlDriver):
                 )
 
                 if exist is False:
-                    #with open("/tmp/missing_vip.txt", 'a') as writer:
-                    #    outstr = "bigip: {}, partition: {}, vip: {}\n".format(
-                    #        bigip.hostname, partition, name)
-                    #    writer.write(outstr)
+                    # log_file = "/tmp/{}_missing_vip.txt".format(folder_name)
+                    log_file = "/tmp/missing_vip.txt"
+                    with open(log_file, 'a') as writer:
+                        outstr = "bigip: {}, partition: {}, vip: {}\n".format(
+                            bigip.hostname, partition, name)
+                        writer.write(outstr)
                     self.NONEXIST_VIP[name] = bigip.hostname
 
             except Exception as ec:
@@ -179,11 +178,12 @@ class ResynciControlDriver(iControlDriver):
                         bigip, name=name, partition=folder_name)
 
                     if exist is False:
-                        #with open("/tmp/missing_vs.txt", 'a') as writer:
-                        #    outstr = "bigip: {}, partition: {}, vs: {}\n".format(
-                        #        bigip.hostname, folder_name, name)
-                        #    writer.write(outstr)
-                        pass
+                        # log_file = "/tmp/{}_missing_vs.txt".format(folder_name)
+                        log_file = "/tmp/missing_vs.txt"
+                        with open(log_file, 'a') as writer:
+                            outstr = "bigip: {}, partition: {}, vs: {}\n".format(
+                                bigip.hostname, folder_name, name)
+                            writer.write(outstr)
 
                 except Exception as ec:
                     raise ec
@@ -220,15 +220,12 @@ class ResynciControlDriver(iControlDriver):
                         partition=partition
                     )
                 except Exception as ec:
-                    #with open("/tmp/missing_pool.txt", 'a') as writer:
-                    #    outstr = "bigip: {}, partition: {}, pool: {}\n".format(
-                    #        bigip.hostname, folder_name, name)
-                    #    writer.write(outstr)
-                    pass
-                    # althogh pool namd member could exist on bigip independently,
-                    # we follow the lbaas rule when we check resouces.
-                    # but vip, vs, and pool follow lbaas or bigip?
-                    # continue
+                    # log_file = "/tmp/{}_missing_pool.txt".format(folder_name)
+                    log_file = "/tmp/missing_pool.txt"
+                    with open(log_file, 'a') as writer:
+                        outstr = "bigip: {}, partition: {}, pool: {}\n".format(
+                            bigip.hostname, folder_name, name)
+                        writer.write(outstr)
 
                 self.healthmonitor_exists(
                     pool,
@@ -243,6 +240,7 @@ class ResynciControlDriver(iControlDriver):
                     folder_name,
                     bigip
                 )
+
         t2 = time.time()
         spd = t2 -t1
         print("pool/healthmonitor/member check finished: %f" % spd)
@@ -250,7 +248,6 @@ class ResynciControlDriver(iControlDriver):
     def healthmonitor_exists(self,
                              pool, bigip_pool, folder_name,
                              bigip):
-        # import pdb; pdb.set_trace()
         hmt1 = time.time()
         healthmonitor_obj = pool.healthmonitor
 
@@ -269,13 +266,16 @@ class ResynciControlDriver(iControlDriver):
                 if exist is False:
                     bigip_pool_name = None if bigip_pool is None else bigip_pool.name
 
-                    #with open("/tmp/missing_healthmonitor.txt", 'a') as writer:
-                    #    outstr = "bigip: {}, partition: {}, pool: {}, healthmonitor: {}\n".format(
-                    #        bigip.hostname, partition, bigip_pool_name, name)
-                    #    writer.write(outstr)
+                    # log_file = "/tmp/{}_missing_healthmonitor.txt".format(folder_name)
+                    log_file = "/tmp/missing_healthmonitor.txt"
+                    with open(log_file, 'a') as writer:
+                        outstr = "bigip: {}, partition: {}, pool: {}, healthmonitor: {}\n".format(
+                            bigip.hostname, partition, bigip_pool_name, name)
+                        writer.write(outstr)
 
             except Exception as ec:
                 raise ec
+
         hmt2 = time.time()
         spd = hmt2 - hmt1
         output = "on bigip {} pool {} related check finished: {}".format(
@@ -300,13 +300,12 @@ class ResynciControlDriver(iControlDriver):
 
                     if name not in bigip_member_names:
                         bigip_pool_name = None if bigip_pool is None else bigip_pool.name
-
-                       # with open("/tmp/missing_member.txt", 'a') as writer:
-                       #     outstr = "bigip: {}, partition: {}, pool: {},  member: {}\n".format(
-                       #         bigip.hostname, folder_name, bigip_pool_name, member.id)
-                       #     writer.write(outstr)
-        else:
-            pass
+                        # log_file = "/tmp/{}_missing_member.txt".format(folder_name)
+                        log_file = "/tmp/missing_member.txt"
+                        with open(log_file, 'a') as writer:
+                            outstr = "bigip: {}, partition: {}, pool: {},  member: {}\n".format(
+                                bigip.hostname, folder_name, bigip_pool_name, member.id)
+                            writer.write(outstr)
 
         mt2 = time.time()
         spd = mt2 - mt1

@@ -1,1 +1,1 @@
-python resync_data.py --config-file /etc/neutron/services/f5/f5-openstack-agent.ini --config-file /etc/neutron/neutron.conf
+sudo python check_data.py --config-file /etc/neutron/neutron.conf --config-file /etc/neutron/services/f5/f5-openstack-agent-CORE.ini --f5-agent 8c614b82-3418-4722-b711-12d2050818b1 -th 8
