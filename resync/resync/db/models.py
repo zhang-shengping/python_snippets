@@ -9,11 +9,10 @@ from sqlalchemy import Table, Column, String, ForeignKey
 from sqlalchemy.orm import relationship
 
 conf = cfg.ConfigOpts()
-# conf = cfg.CONF
 conf.register_opts(options.database_opts, group='database')
 conf(sys.argv[1:])
 
-con = connection.Connection(conf.database.connection)
+con = connection.Connection(conf)
 Base = con.base
 metadata = Base.metadata
 
