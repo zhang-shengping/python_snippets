@@ -17,7 +17,7 @@ common_config.init(sys.argv[1:])
 
 class FakeContext(object):
     def to_dict(self):
-        return dict({"name": "test"})
+        return dict({"tenant_name": "test"})
 
 
 class F5AgentEnv(object):
@@ -29,11 +29,11 @@ if __name__ == "__main__":
     f5agent = F5AgentEnv()
     rpcclient = agent_rpc.LBaaSv2AgentRPC(f5agent)
 
-    context = ncontext.get_admin_context_without_session()
-    rpcclient.create_loadbalancer(context, {}, {}, "resync_agent_id")
+    # context = ncontext.get_admin_context_without_session()
+    # rpcclient.create_loadbalancer(context, {}, {}, "resync_agent_id")
     
-    # fake_ctxt = FakeContext()
-    # rpcclient.create_loadbalancer(fake_ctxt, {}, {}, "resync_agent_id")
+    fake_ctxt = FakeContext()
+    rpcclient.create_loadbalancer(fake_ctxt, {}, {}, "resync_agent_id")
 
     # if context is {}, it wil have no to_dict() method,
     # then it report error in self.serializer.serialize_context(ctxt) method of 
