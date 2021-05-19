@@ -315,26 +315,149 @@ if __name__ == "__main__":
     # agent = (agent['agent'] if 'agent' in agent else agent)
     # service = f5_driver.service_builder.build(context, lb, agent)
     # print service
-    acl_group = {
-        "id": "00000000-e608-4f3b-9a18-5150a24eb60a",
-        "tanant_id": "346052548d924ee095b3c2a4f05244ac",
-        "rules":[
-            "192.168.0.111",
-            "192.168.0.222",
-            "192.168.0.123"
-        ]
+
+    project_id = "34a1a8395d0f460f9854609505f6e0c6"
+
+    acl_group = {"acl_group": {
+            "name": "pzhang",
+            "description": "pzhang",
+            "project_id": project_id,
+            "region": "rz1"
+        }
+    }
+    acl_group = lbaas_plugin.create_acl_group(context, acl_group)
+    print acl_group
+
+    acl_group_id = acl_group['id']
+
+    # new_acl_group = {
+        # "acl_group": {
+            # "project_id": "test"
+        # }
+    # }
+
+    # lbaas_plugin.update_acl_group(context, acl_group_id, new_acl_group)
+
+    # import pdb; pdb.set_trace()
+    # lbaas_plugin.delete_acl_group(context, acl_group_id)
+
+    # acl_group_id = acl_group['id']
+
+    # new_acl_group = {
+        # "acl_group": {
+            # "name": "test"
+        # }
+    # }
+
+    # lbaas_plugin.update_acl_group(context, acl_id, new_acl_group)
+
+    # new_acl_group = {
+        # "acl_group": {
+            # "project_id": "test"
+        # }
+    # }
+
+    # lbaas_plugin.update_acl_group(context, acl_id, new_acl_group)
+
+    # acl_group = lbaas_plugin.get_acl_group(context, acl_id)
+    # print acl_group
+
+    # acl_groups = lbaas_plugin.get_acl_groups(context)
+    # print acl_groups
+    # import pdb; pdb.set_trace()
+
+    # acl_rule = {
+        # "acl_rule": {
+            # "description": "desc_acl_r1",
+            # "ip_version": "IPv4",
+            # "ip_address": "1.1.1.1",
+            # 'project_id': project_id
+        # }
+    # }
+
+    # lbaas_plugin.create_acl_group_acl_rule(context, acl_group_id, acl_rule)
+
+    # acl_rule = {
+        # "acl_rule": {
+            # "description": "desc_acl_r1",
+            # "ip_version": "IPv4",
+            # "ip_address": "1.2.2.2",
+            # 'project_id': project_id
+        # }
+    # }
+
+    # lbaas_plugin.create_acl_group_acl_rule(context, acl_group_id, acl_rule)
+
+    # acl_group_id = "f4cbfa2e-6f71-4f75-ac47-13e679d1542a"
+    # acl_rule_id = "d0703271-1bec-459b-a6dd-c535ec853ce4"
+
+    # acl_rule = {
+        # "acl_rule": {
+            # "description": "desc_acl_r1",
+            # "ip_version": "IPv4",
+            # "ip_address": "4.4.4.4",
+            # 'project_id': "741f6f88b9454609993ef7c9ca38d485"
+            # 'project_id': "aaaf6f88b9454609993ef7c9ca38d485"
+        # }
+    # }
+
+    # lbaas_plugin.update_acl_group_acl_rule(context, acl_rule_id, acl_group_id, acl_rule)
+
+    # acl_rule_id = "c2c27700-47ea-46be-9df5-d806c1ed16f4"
+    # acl_group_id = "2aa197d0-3c83-4568-b43e-156f9d3bc4a5"
+
+    # lbaas_plugin.delete_acl_group_acl_rule(context, acl_rule_id, acl_group_id)
+
+    # acl_group_id = "6be5ccf0-e825-411c-823e-be43469a4cfc"
+
+    listener_id = "92a7d60b-d57d-4f02-952a-31f4331d3120"
+
+    # acl_group_id = "bc270eea-bd21-4289-ad55-46d257e559d4"
+    # acl_group_id = "5c0fbc88-919e-432a-beb5-f3ba0dbcbc54"
+    binding_info = {
+        "enabled": True,
+        "listener_id": listener_id,
+        "type": "whitelist"
     }
 
-    old_acl_group = {
-        "id": "00000000-e608-4f3b-9a18-5150a24eb60a",
-        "tanant_id": "346052548d924ee095b3c2a4f05244ac",
-        "rules":[
-            "192.168.0.222",
-            "192.168.0.123",
-            "10.10.0.10"
-        ]
-    }
+    import pdb; pdb.set_trace()
+    lbaas_plugin.add_listener(context, acl_group_id, binding_info)
+    # lbaas_plugin.remove_listener(context, acl_group_id, binding_info)
+
+
+    # lbaas_plugin.flush_acl_rules(context, acl_group_id)
+
+    # import pdb; pdb.set_trace()
+
+    # acl_bind_list = lbaas_plugin.db.get_acl_listener_binding_by_listener_id(
+        # context, listener_id)
+
+    # import pdb; pdb.set_trace()
+    # print acl_bind_list
+
+    # lbaas_plugin.delete_listener(context, listener_id)
+    # lbaas_plugin.delete_acl_group(context, acl_group_id)
+
+    # acl_group = {
+    #     "id": "00000000-e608-4f3b-9a18-5150a24eb60a",
+    #     "tanant_id": "346052548d924ee095b3c2a4f05244ac",
+    #     "rules":[
+    #         "192.168.0.111",
+    #         "192.168.0.222",
+    #         "192.168.0.123"
+    #     ]
+    # }
+
+    # old_acl_group = {
+    #     "id": "00000000-e608-4f3b-9a18-5150a24eb60a",
+    #     "tanant_id": "346052548d924ee095b3c2a4f05244ac",
+    #     "rules":[
+    #         "192.168.0.222",
+    #         "192.168.0.123",
+    #         "10.10.0.10"
+    #     ]
+    # }
 
     # f5_driver.acl_group.create(context, acl_group)
-    f5_driver.acl_group.update(context, acl_group, old_acl_group)
+    # f5_driver.acl_group.update(context, acl_group, old_acl_group)
     # f5_driver.acl_group.delete(context, acl_group)
