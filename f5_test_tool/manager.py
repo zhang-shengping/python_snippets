@@ -325,15 +325,14 @@ if __name__ == "__main__":
             "region": "rz1"
         }
     }
-    acl_group = lbaas_plugin.create_acl_group(context, acl_group)
-    print acl_group
+#     acl_group = lbaas_plugin.create_acl_group(context, acl_group)
+#     print acl_group
 
-    acl_group_id = acl_group['id']
+#     acl_group_id = acl_group['id']
 
     # new_acl_group = {
         # "acl_group": {
-            # "project_id": "test"
-        # }
+            # "project_id": "test" # }
     # }
 
     # lbaas_plugin.update_acl_group(context, acl_group_id, new_acl_group)
@@ -410,18 +409,18 @@ if __name__ == "__main__":
 
     # acl_group_id = "6be5ccf0-e825-411c-823e-be43469a4cfc"
 
-    listener_id = "92a7d60b-d57d-4f02-952a-31f4331d3120"
+    # listener_id = "92a7d60b-d57d-4f02-952a-31f4331d3120"
 
     # acl_group_id = "bc270eea-bd21-4289-ad55-46d257e559d4"
     # acl_group_id = "5c0fbc88-919e-432a-beb5-f3ba0dbcbc54"
-    binding_info = {
-        "enabled": True,
-        "listener_id": listener_id,
-        "type": "whitelist"
-    }
+    # binding_info = {
+        # "enabled": True,
+        # "listener_id": listener_id,
+        # "type": "whitelist"
+    # }
 
-    import pdb; pdb.set_trace()
-    lbaas_plugin.add_listener(context, acl_group_id, binding_info)
+    # import pdb; pdb.set_trace()
+    # lbaas_plugin.add_listener(context, acl_group_id, binding_info)
     # lbaas_plugin.remove_listener(context, acl_group_id, binding_info)
 
 
@@ -461,3 +460,53 @@ if __name__ == "__main__":
     # f5_driver.acl_group.create(context, acl_group)
     # f5_driver.acl_group.update(context, acl_group, old_acl_group)
     # f5_driver.acl_group.delete(context, acl_group)
+
+# ------------------------ recover data --------------------------------------------
+
+    # recover loadbalancer
+
+    # lb_id = "76038dff-4438-4afa-9068-9c5905db8582"
+    # loadbalancer_id = "36638069-1c7b-4a33-9fe5-5238f947793d"
+    # data = lbaas_plugin.create_loadbalancer(
+        # context, loadbalancer_id)
+
+# ----------------------------------------------
+
+    # recover listener
+
+    # if both listener and pool are miss
+    # we must recover pool first
+    ls_id = "8477ba31-0c52-477b-aba0-99babdb3f3c1"
+    data = lbaas_plugin.create_listener(
+        context, ls_id)
+    print data
+
+# ----------------------------------------------
+
+    # recover pool under loadbalancer
+
+    # pl_id = "6eca763c-445a-4423-8597-37c51fa803bc"
+    # data = lbaas_plugin.create_pool(
+        # context, pl_id)
+    # print data
+
+# ---------------------------------------------
+
+    # recover pool under listener. listener --> pool
+
+    # test later
+    # if the both are disappered, create pool --> listener
+
+    # pl_id = "061408d4-3d57-4317-8b35-8ee2eb3d2f18"
+    # data = lbaas_plugin.create_pool(
+        # context, pl_id)
+    # print data
+
+# ---------------------------------------------
+
+    # recover member
+
+    # member_id = "b9cb8864-c954-4665-a606-272af6f08781"
+    # pl_id = "6eca763c-445a-4423-8597-37c51fa803bc"
+    # data = lbaas_plugin.create_pool_member(
+        # context, pl_id, member_id)
