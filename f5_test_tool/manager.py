@@ -476,10 +476,10 @@ if __name__ == "__main__":
 
     # if both listener and pool are miss
     # we must recover pool first
-    ls_id = "8477ba31-0c52-477b-aba0-99babdb3f3c1"
-    data = lbaas_plugin.create_listener(
-        context, ls_id)
-    print data
+    # ls_id = "8477ba31-0c52-477b-aba0-99babdb3f3c1"
+    # data = lbaas_plugin.create_listener(
+        # context, ls_id)
+    # print data
 
 # ----------------------------------------------
 
@@ -506,7 +506,7 @@ if __name__ == "__main__":
 
     # recover member
 
-    # member_id = "b9cb8864-c954-4665-a606-272af6f08781"
-    # pl_id = "6eca763c-445a-4423-8597-37c51fa803bc"
-    # data = lbaas_plugin.create_pool_member(
-        # context, pl_id, member_id)
+    member_id = "b9cb8864-c954-4665-a606-272af6f08781"
+    pl_id = "6eca763c-445a-4423-8597-37c51fa803bc"
+    data = lbaas_plugin.create_pool_member(
+        context, pl_id, member_id)
