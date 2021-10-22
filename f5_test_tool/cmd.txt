@@ -1,3 +1,1 @@
-python test.py --config-file /etc/neutron/neutron.conf
-python resync_proto.py --config-file /etc/neutron/neutron.conf --config-file /etc/neutron/plugins/ml2/ml2_conf.ini --config-file /etc/neutron/neutron_lbaas.conf
 python manager.py --config-file /etc/neutron/neutron.conf --config-file /etc/neutron/plugins/ml2/ml2_conf.ini --config-file /etc/neutron/neutron_lbaas.conf

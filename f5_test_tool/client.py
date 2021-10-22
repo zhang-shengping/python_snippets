@@ -50,7 +50,6 @@ except ImportError as Error:
 import f5_openstack_agent.lbaasv2.drivers.bigip.agent_manager as manager
 from neutron_lib import context as ncontext
 import sys
-import time
 
 from f5_vpcep_driver.driver import F5Driver
 
@@ -259,42 +258,33 @@ if __name__ == "__main__":
     plugin = directory.get_plugin("LOADBALANCERV2")
     f5_driver = F5Driver(plugin, "VPCEP")
 
-    try:
-        LOG.info("start controller listener")
-        f5_driver.driver_rpc.create_rpc_listener()
-        while True:
-            time.sleep(1)
-    except KeyboardInterrupt:
-        print("Stopping server")
-
-    f5_driver.driver_rpc.conn.close()
-
     # mock scheduler
-    # def schedule_agent(context, vpcep):
-        # return {"host": "neutron-server-1.pdsea.f5net.com"}
-    # f5_driver.vpcep.schedule_agent = schedule_agent
+    def schedule_agent(context, vpcep):
+        return {"host": "neutron-server-1.pdsea.f5net.com"}
+    f5_driver.vpcep.schedule_agent = schedule_agent
 
-    # context = ncontext.get_admin_context()
+    context = ncontext.get_admin_context()
 
-    # vpcep_id = "b7c1a69e88bf4b21a8148f787aef2081"
-    # network_id = "2e8bb436-aafa-4eee-8d73-c71736b0f45c"
-    # subnet_id = "0916f471-afcd-48ee-afc5-56bcb0efa963"
-    # project_id = "346052548d924ee095b3c2a4f05244ac"
-    # router_id = "4817588d-50e7-455c-b81c-41fdc0f97b16"
+    vpcep_id = "b7c1a69e88bf4b21a8148f787aef2081"
+    network_id = "2e8bb436-aafa-4eee-8d73-c71736b0f45c"
+    subnet_id = "0916f471-afcd-48ee-afc5-56bcb0efa963"
+    project_id = "346052548d924ee095b3c2a4f05244ac"
+    router_id = "4817588d-50e7-455c-b81c-41fdc0f97b16"
 
-    # vpcep = {
-        # "id": vpcep_id,
-        # "project_id": project_id,
-        # "tenant_id": project_id,
-        # "router_id": router_id,
-        # "subnet_id": subnet_id,
-        # "vpcep_vip_address": "10.0.0.4",
-        # "bandwidth": 25,
-        # "protocol": "tcp",
-        # "protocol_port": 28080
-    # }
+    vpcep = {
+        "id": vpcep_id,
+        "project_id": project_id,
+        "tenant_id": project_id,
+        "router_id": router_id,
+        "subnet_id": subnet_id,
+        "vpcep_vip_address": "10.0.0.4",
+        "bandwidth": 25,
+        "protocol": "tcp",
+        "protocol_port": 28080
+    }
 
-    # network = f5_driver.plugin.db._core_plugin.get_network(context, network_id)
-    # subnet = f5_driver.plugin.db._core_plugin.get_subnet(context, subnet_id)
-    # router = {}
+    network = f5_driver.plugin.db._core_plugin.get_network(context, network_id)
+    subnet = f5_driver.plugin.db._core_plugin.get_subnet(context, subnet_id)
+    router = {}
 
+    f5_driver.vpcep.create(context, vpcep, network=network, subnet=subnet)
