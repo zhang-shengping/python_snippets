@@ -1,1 +1,8 @@
-python manager.py --config-file /etc/neutron/neutron.conf --config-file /etc/neutron/plugins/ml2/ml2_conf.ini --config-file /etc/neutron/neutron_lbaas.conf
+start agent: f5-endpoint-agent --config-file /etc/neutron/neutron.conf  --config-file /etc/neutron/services/f5/f5-endpoint-agent.ini
+
+start neutron vpcep plugin: python manager.py --config-file /etc/neutron/neutron.conf --config-file /etc/neutron/plugins/ml2/ml2_conf.ini --config-file /etc/neutron/neutron_lbaas.conf
+
+start client for test request: python client.py --config-file /etc/neutron/neutron.conf --config-file /etc/neutron/plugins/ml2/ml2_conf.ini --config-file /etc/neutron/neutron_lbaas.conf
+
+queue check: watch -n1 "sudo rabbitmqctl list_queues name messages consumers | grep VPCEP"
+

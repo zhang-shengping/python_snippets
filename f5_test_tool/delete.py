@@ -314,12 +314,12 @@ if __name__ == "__main__":
         # }
     # ]
 
-    network = f5_driver.plugin.db._core_plugin.get_network(context, network_id)
+    net = f5_driver.plugin.db._core_plugin.get_network(context, network_id)
+    # network = f5_driver.plugin.db._core_plugin.get_network(context, network_id)
+    import pdb; pdb.set_trace()
     subnet = f5_driver.plugin.db._core_plugin.get_subnet(context, subnet_id)
     router = {}
 
-    f5_driver.vpcep.create(context, vpcep, network=network, subnet=subnet)
-    # f5_driver.vpcep.associate(context, vpcep, vpcep_svc_create, network=network, subnet=subnet)
-
     # f5_driver.vpcep.disassociate(context, vpcep, vpcep_svc_delete, network=network, subnet=subnet)
-    # f5_driver.vpcep.delete(context, vpcep, network=network, subnet=subnet)
+    f5_driver.vpcep.delete(context, vpcep, network=net, subnet=subnet)
+
