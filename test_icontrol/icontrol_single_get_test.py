@@ -9,7 +9,7 @@ import json
 # url = "https://10.144.73.244:443/mgmt/tm/ltm/virtual/"
 vss=[
     "Project_0ef86f5b-59ab-4036-b460-035fba7cbae2",
-] * 40
+] * 1
 
 urls = [
     "https://10.144.73.244:443/mgmt/tm/ltm/virtual/" + \

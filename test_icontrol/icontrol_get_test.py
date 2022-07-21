@@ -79,8 +79,8 @@ urls = [
 # urls = get_urls("Project_8a2d7296ae9b4bd4a412eb3cb9aa680e", vss)
 
 if __name__ == "__main__":
-    http = urllib3.PoolManager(num_pools=2, maxsize=1000)
-    # http = urllib3.PoolManager(num_pools=2, maxsize=1)
+    # http = urllib3.PoolManager(num_pools=2, maxsize=1000)
+    http = urllib3.PoolManager(num_pools=2, maxsize=1)
 
     headers = urllib3.make_headers(basic_auth='admin:Passw0rd@F5')
     headers['Content-Type'] = "application/json"
