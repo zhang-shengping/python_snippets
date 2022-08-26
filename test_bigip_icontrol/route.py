@@ -10,9 +10,9 @@ bigip = ManagementRoot(
     # "10.250.2.211",
     # "admin",
     # "P@ssw0rd123",
-    "10.145.70.136",
+    "10.145.73.139",
     "admin",
-    "Passw0rd@F5",
+    "admin@f5.com",
     timeout=10,
     debug=True
 )
