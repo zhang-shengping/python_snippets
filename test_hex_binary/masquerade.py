@@ -1,6 +1,13 @@
 #!/bin/python
 
+import getopt
+import json
+import requests
+from requests.auth import HTTPBasicAuth
+from requests.packages.urllib3.exceptions import InsecureRequestWarning
 import sys
+
+requests.packages.urllib3.disable_warnings(InsecureRequestWarning)
 
 def hex_binary(value):
     int_value=int(value, base=16)
@@ -24,15 +31,50 @@ def gen_masquerade_mac(mac):
     masquerade_mac = ":".join(temp_mac)
     return masquerade_mac
 
-def input(value):
-    if len(value) != 2:
-        print("Please provider BigIP Base MAC.")
-        print("Such as \n python main.py 08:01:D7:01:02:03")
-        sys.exit(1)
-    return value[1]
+def input(inputs):
+
+    value = dict()
+
+    try:
+        opts, args = getopt.getopt(
+            inputs, "hi:u:p:",["ip=","user=","password="]
+        )
+    except getopt.GetoptError:
+        print("python masquerade.py -i <bigip_ip> -u <admin_username> -p <admin_password>")
+        sys.exit(2)
+    for opt, arg in opts:
+        if opt == "-h":
+            print("python masquerade.py -i <bigip_ip> -u <admin_username> -p <admin_password>")
+            sys.exit()
+        elif opt in ("-i", "--ip"):
+            value["ip"] = arg
+        elif opt in ("-u", "--user"):
+            value["user"] = arg
+        elif opt in ("-p", "--password"):
+            value["password"] = arg
+
+    return value
+
+def get_base_mac(inputs):
+    url = "https://" + inputs["ip"] + "/mgmt/tm/util/bash"
+    payload = {
+        "command": "run", 
+        "utilCmdArgs": "-c \"tmsh show sys hardware field-fmt | grep base-mac\""
+    }
+    auth = HTTPBasicAuth(inputs["user"], inputs["password"])
+    verify=False
+
+    resp = requests.post(url, json=payload, verify=verify, auth=auth)
+    data = json.loads(resp.content)
+    base_mac = data['commandResult'].split()[1]
+
+    return base_mac
 
 if __name__ == "__main__":
-    mac = input(sys.argv)
-    print("Input BigIP Base MAC is %s" % mac)
-    mas = gen_masquerade_mac(mac)
-    print("\nMasquerade MAC is %s\n" % mas)
+    value = input(sys.argv[1:])
+    base_mac = get_base_mac(value)
+    print("Base MAC is %s" % base_mac)
+    print("")
+    import pdb; pdb.set_trace()
+    mas_mac = gen_masquerade_mac(base_mac)
+    print("Masquerade MAC is %s" % mas_mac)
